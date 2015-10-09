@@ -12,6 +12,10 @@ TIMEZONE = 'US/Pacific'
 
 DEFAULT_LANG = u'en'
 
+USE_FOLDER_AS_CATEGORY = True
+DEFAULT_DATE_FORMAT = '%a %d %B %Y'
+DEFAULT_DATE = 'fs'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -43,9 +47,17 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Custom URL
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/custom.css']
+# Change path of custom.css to 'static/custom.css' in output dir
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+        'extra/custom.css': {'path': 'static/custom.css'},}
 
 # Theme. I look good.
 THEME = '../pelican-bootstrap3'
 FAVICON = 'images/favicon.png'
+SITELOGO = 'images/logo.png'
+SITELOGO_SIZE = 130
+HIDE_SITENAME = True
+
+# Custom CSS
+CUSTOM_CSS = 'static/custom.css'
