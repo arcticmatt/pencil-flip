@@ -19,15 +19,23 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['tag_cloud']
+
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+         #('Python.org', 'http://python.org/'),
+         #('Jinja2', 'http://jinja.pocoo.org/'),
+         #('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/arcticmatt/'),
+          ('linkedin', 'https://www.linkedin.com/pub/matt-lim/a6/1a5/b31'),)
+
+DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_CATEGORIES_ON_SIDEBAR = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+RECENT_POST_COUNT = 5
 
 DEFAULT_PAGINATION = False
 
@@ -37,3 +45,7 @@ DEFAULT_PAGINATION = False
 # Custom URL
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+
+# Theme. I look good.
+THEME = '../pelican-bootstrap3'
+FAVICON = 'images/favicon.png'
