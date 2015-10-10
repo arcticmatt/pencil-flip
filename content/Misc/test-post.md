@@ -1,7 +1,6 @@
 Title: My Test Post
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
-Category: Python
+Date: 2015-10-09 10:20
+Category: Misc
 Tags: pelican, publishing
 Slug: my-super-post
 Authors: arctictern
