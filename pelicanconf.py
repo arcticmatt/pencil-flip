@@ -61,6 +61,12 @@ FAVICON = 'images/favicon.png'
 SITELOGO = 'images/logo.png'
 SITELOGO_SIZE = 130
 HIDE_SITENAME = True
+PYGMENTS_STYLE = 'solarizedlight'
 
 # Custom CSS
 CUSTOM_CSS = 'static/custom.css'
+
+# Disqus stuff
+DISQUS_SITENAME = 'pencilflip'
+DISQUS_SHORTNAME = 'pencilflip'
+DISQUS_DISPLAY_COUNTS = True
