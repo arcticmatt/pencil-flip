@@ -110,7 +110,7 @@ Then, in `pelicanconf.py`, put these two lines:
 This tells Pelican to copy the `CNAME` file to your output directory.
 After running `git commit` to update your site, take a deep breath. You're almost
 there!
-##5. Set Up Your Custom Domain Name, Part 1
+##5. Set Up Your Custom Domain Name, Part 2
 The last step involves actually purchasing and setting up your domain (and 
 possibly subdomain) on [godaddy.com](https://www.godaddy.com/). Or some other
 site. But [godaddy.com](https://www.godaddy.com/) is pretty swell. First you have 
