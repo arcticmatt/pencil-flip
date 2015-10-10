@@ -146,9 +146,9 @@ and whatnot, but I will try my best. So, let's get started.</p>
    <img alt="Pelican Quickstart" src="/images/pelican-quickstart-prompt.png" />
    Here I answered "no" to the last question, where it asks us if we want to use
    our personal page. This is just determining whether we want to use Github Page's
-   personal page, or Github Page's project page. The only practical difference is a
+   Personal Page, or Github Page's Project Page. The only practical difference is a
    slight change in setup, so it doesn't really matter. But for the purposes of this
-   how-to, I'll be showing how to set up the project page.
+   how-to, I'll be showing how to set up the Project Page.
    Once all these questions have been answered, your project should be all set up,
    and the structure should look like the following:
    <img alt="Pelican Proj Structure" src="/images/pelican-proj-structure.png" /><ol>
@@ -167,15 +167,15 @@ and whatnot, but I will try my best. So, let's get started.</p>
 </ol>
 </li>
 <li>Now we basically have all our Pelican stuff set up. What's left? Well, we 
-   need to integrate it with Github pages, and get our custom domain name. So let's
+   need to integrate it with Github Pages, and get our custom domain name. So let's
    get started. First, go onto github and create a new repo. Initialize the repo
    in the directory where you created your blog, and then stop.
    So in other words, just run these commands (with your directory):<br />
 <code>cd ~/Documents/blog</code><br />
 <code>git init</code><br />
    Now we're going to set it up so that the Pelican site gets published as a Github
-   project page, following <a href="http://docs.getpelican.com/en/3.3.0/tips.html">these instructions</a>.
-   There's some stuff at the top of that page about publishing to project pages,
+   Project Page, following <a href="http://docs.getpelican.com/en/3.3.0/tips.html">these instructions</a>.
+   There's some stuff at the top of that page about publishing to Project Pages,
    but we can skip it and use a shorcut method. Here's what we'll do. Run
    these commands, and I'll explain after. For these to work, you'll need to 
    be in the root directory of your blog.<br />
@@ -189,13 +189,13 @@ and whatnot, but I will try my best. So, let's get started.</p>
    on our site on the master branch. Then, whenever we want to update the site,
    we just add the relevant files and commit. <code>ghp-import</code> will then push the content
    of the <code>output</code> dir to the <code>gh-pages</code> branch, and that's that (the <code>gh-pages</code> branch
-   is what's used for a Github project page).<br />
+   is what's used for a Github Project Page).<br />
    So now that we've got that set up, we can run <code>git add -A</code> to add all our files,
    and then run <code>git commit</code> to update our site! It's as easy as that. Remember to push
    to <code>master</code> occasionally if you want to update your remote branch.</li>
 <li>At this point, you should be able to test your blog using <code>make devserver</code> and 
    looking at <a href="http://localhost:8000">http://localhost:8000</a>. You should also be
-   able to easily update the Github project site by simply commiting to the master
+   able to easily update the Github Project site by simply commiting to the master
    branch. So all that's left is getting that custom domain name. The first thing
    we'll do is navigate into the <code>content/</code> directory of our blog and run
    <code>mkdir extra</code>. Inside the newly created <code>extra</code> directory, put your desired
@@ -341,18 +341,8 @@ ask away.</p>
             <li class="list-group-item"><a href="http://blog.pencilflip.com/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                 <ul class="list-group " id="tags">
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.pencilflip.com/tag/github.html">
-                            github
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.pencilflip.com/tag/blog.html">
-                            blog
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.pencilflip.com/tag/bootstrap.html">
-                            bootstrap
+                        <a href="http://blog.pencilflip.com/tag/how-to.html">
+                            how-to
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -361,8 +351,18 @@ ask away.</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.pencilflip.com/tag/how-to.html">
-                            how-to
+                        <a href="http://blog.pencilflip.com/tag/bootstrap.html">
+                            bootstrap
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.pencilflip.com/tag/github.html">
+                            github
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.pencilflip.com/tag/blog.html">
+                            blog
                         </a>
                     </li>
                 </ul>

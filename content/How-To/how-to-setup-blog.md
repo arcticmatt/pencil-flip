@@ -35,9 +35,9 @@ and whatnot, but I will try my best. So, let's get started.
    ![Pelican Quickstart](/images/pelican-quickstart-prompt.png)
    Here I answered "no" to the last question, where it asks us if we want to use
    our personal page. This is just determining whether we want to use Github Page's
-   personal page, or Github Page's project page. The only practical difference is a
+   Personal Page, or Github Page's Project Page. The only practical difference is a
    slight change in setup, so it doesn't really matter. But for the purposes of this
-   how-to, I'll be showing how to set up the project page.
+   how-to, I'll be showing how to set up the Project Page.
    Once all these questions have been answered, your project should be all set up,
    and the structure should look like the following:
    ![Pelican Proj Structure](/images/pelican-proj-structure.png)
@@ -54,15 +54,15 @@ and whatnot, but I will try my best. So, let's get started.
        the results! Pretty sweet. When you're done testing, you should run
        `./develop_server.sh stop` to stop the development server.
 4. Now we basically have all our Pelican stuff set up. What's left? Well, we 
-   need to integrate it with Github pages, and get our custom domain name. So let's
+   need to integrate it with Github Pages, and get our custom domain name. So let's
    get started. First, go onto github and create a new repo. Initialize the repo
    in the directory where you created your blog, and then stop.
    So in other words, just run these commands (with your directory):  
    `cd ~/Documents/blog`  
    `git init`  
    Now we're going to set it up so that the Pelican site gets published as a Github
-   project page, following [these instructions](http://docs.getpelican.com/en/3.3.0/tips.html).
-   There's some stuff at the top of that page about publishing to project pages,
+   Project Page, following [these instructions](http://docs.getpelican.com/en/3.3.0/tips.html).
+   There's some stuff at the top of that page about publishing to Project Pages,
    but we can skip it and use a shorcut method. Here's what we'll do. Run
    these commands, and I'll explain after. For these to work, you'll need to 
    be in the root directory of your blog.  
@@ -76,13 +76,13 @@ and whatnot, but I will try my best. So, let's get started.
    on our site on the master branch. Then, whenever we want to update the site,
    we just add the relevant files and commit. `ghp-import` will then push the content
    of the `output` dir to the `gh-pages` branch, and that's that (the `gh-pages` branch
-   is what's used for a Github project page).  
+   is what's used for a Github Project Page).  
    So now that we've got that set up, we can run `git add -A` to add all our files,
    and then run `git commit` to update our site! It's as easy as that. Remember to push
    to `master` occasionally if you want to update your remote branch.
 5. At this point, you should be able to test your blog using `make devserver` and 
    looking at [http://localhost:8000](http://localhost:8000). You should also be
-   able to easily update the Github project site by simply commiting to the master
+   able to easily update the Github Project site by simply commiting to the master
    branch. So all that's left is getting that custom domain name. The first thing
    we'll do is navigate into the `content/` directory of our blog and run
    `mkdir extra`. Inside the newly created `extra` directory, put your desired
