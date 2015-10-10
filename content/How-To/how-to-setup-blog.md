@@ -8,8 +8,12 @@ Summary: The traditional post detailing how I set up this whole shebang.
 
 In other words, how I made my blog.
 
-I'm going to try to assume basically zero knowledge of how to set up a website,
-because that's how about much I had going in. So, let's get started.
+It seems like the first thing most people do after making a blog is write about how
+they made it. And hey, I have no complaints; this is a pretty useful practice.
+So I'll go ahead and give it a shot.  I'm going to try assume basically zero 
+knowledge of how to set up a website, because that's how about much I had going in.
+This will probably not go perfectly well as I start throwing around terminal commands
+and whatnot, but I will try my best. So, let's get started.
 
 1. First, let's install Pelican. [Here's how](http://docs.getpelican.com/en/3.3.0/getting_started.html).
    Basically you just want to do `pip install pelican` or `easy_install pelican`.
