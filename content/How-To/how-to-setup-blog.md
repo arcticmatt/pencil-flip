@@ -1,4 +1,4 @@
-Title: How To Set Up a Pelican Blog With Github Pages and pelican-bootstrap3
+Title: Blogging About My Blog
 Date: 2015-10-09 18:23
 Category: How-To
 Tags: pelican, github, blog, how-to, bootstrap
@@ -6,7 +6,11 @@ Slug: how-to-setup-blog
 Authors: arctictern
 Summary: The traditional post detailing how I set up this whole shebang.
 
+In other words, how to set up a pelican blog with github pages and pelican-bootstrap3.
+
 In other words, how I made my blog.
+
+Is the word *blog* starting to sound weird yet?
 
 It seems like the first thing most people do after making a blog is write about how
 they made it. And hey, I have no complaints; this is a pretty useful practice.
@@ -15,7 +19,7 @@ knowledge of how to set up a website, because that's how about much I had going 
 This will probably not go perfectly well as I start throwing around terminal commands
 and whatnot, but I will try my best. So, let's get started.
 
-##1. Install Pelican
+##1. Get the Bird
 First, let's install Pelican. [Here's how](http://docs.getpelican.com/en/3.3.0/getting_started.html).
 Basically you just want to do `pip install pelican` or `easy_install pelican`.
 If you want, you can create a virtual environment for Pelican before installing it.
@@ -23,10 +27,10 @@ The [reason](http://duncanlock.net/blog/2013/05/17/how-i-built-this-website-usin
 for doing this is to create a self-contained python environment for
 this python project. I didn't care about this, so I went ahead and skipped this
 step.
-####1a. Install Markdown
+####1a. Markdown for What
 If you plan on using Markdown as a markup format (which I recommend),
 also install Markdown with `pip install Markdown`.
-##2. Create the Project with Quickstart
+##2. Quickly Start It
 Navigate to the directory to where you want to create your blog. Let's say
 you want it to be located at *~/Documents/blog*. Then, you should do
 `cd ~/Documents/blog` (run `mkdir -p ~/Documents/blog` if the directory doesn't
@@ -53,7 +57,7 @@ and the structure should look like the following:
     ├── Makefile
     ├── pelicanconf.py       # Main settings file
     └── publishconf.py       # Settings to use when ready to publish
-####2a. Automation Tools 
+####2a. Make Your Life More Better
 There are some automation tools that wrap the `pelican` command and make
 it easier to generate, preview, and upload your blog. Again, the previous
 [link](http://docs.getpelican.com/en/3.3.0/getting_started.html) details
@@ -66,7 +70,7 @@ and automatically regenerate it when you make changes. So for example,
 if you save a new article, you just need to refresh the browser to see
 the results! Pretty sweet. When you're done testing, you should run
 `./develop_server.sh stop` to stop the development server.
-##3. Push the Project to Git
+##3. Push It Real Good
 Now we basically have all our Pelican stuff set up. What's left? Well, we 
 need to integrate it with Github Pages, and get our custom domain name. So let's
 get started. First, go onto github and create a new repo. Initialize the repo
@@ -94,7 +98,7 @@ is what's used for a Github Project Page).
 So now that we've got that set up, we can run `git add -A` to add all our files,
 and then run `git commit` to update our site! It's as easy as that. Remember to push
 to `master` occasionally if you want to update your remote branch.
-##4. Set Up Your Custom Domain Name, Part 1
+##4. Maybe You Should Start Thinking Of a Cool Domain Name...
 At this point, you should be able to test your blog using `make devserver` and 
 looking at [http://localhost:8000](http://localhost:8000). You should also be
 able to easily update the Github Project site by simply commiting to the master
@@ -110,7 +114,7 @@ Then, in `pelicanconf.py`, put these two lines:
 This tells Pelican to copy the `CNAME` file to your output directory.
 After running `git commit` to update your site, take a deep breath. You're almost
 there!
-##5. Set Up Your Custom Domain Name, Part 2
+##5. Good Choice. I Heartily Approve
 The last step involves actually purchasing and setting up your domain (and 
 possibly subdomain) on [godaddy.com](https://www.godaddy.com/). Or some other
 site. But [godaddy.com](https://www.godaddy.com/) is pretty swell. First you have 

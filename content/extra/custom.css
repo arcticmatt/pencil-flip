@@ -1,22 +1,22 @@
 body {
-    font-family: "medium-content-serif-font","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 1.52;
     color: #333;
 }
 .navbar-default {
     background-color: #fdf6e3;
     border-color: #F5F5F5;
-    font-size: 16px;
+    font-size: 15px;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
     background-color: #F8E8BD;
     border-color: #fdf6e3;
-    font-size: 16px;
+    font-size: 15px;
 }
 .fa-goodreads-square:before {
     content: "\f02d";
@@ -26,12 +26,12 @@ body {
 }
 #sidebar a {
     color: inherit;
-    font-size: 16px;
+    font-size: 14px;
 }
 .list-group-item {
     position: relative;
     display: block;
-    padding: 8px 15px;
+    padding: 6px 15px;
     margin-bottom: -1px;
     background-color: #FFF;
 }

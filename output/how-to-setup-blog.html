@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>How To Set Up a Pelican Blog With Github Pages and pelican-bootstrap3 - pencil flip</title>
+    <title>Blogging About My Blog - pencil flip</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -18,7 +18,7 @@
 
         <meta property="og:site_name" content="pencil flip" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="How To Set Up a Pelican Blog With Github Pages and pelican-bootstrap3"/>
+        <meta property="og:title" content="Blogging About My Blog"/>
         <meta property="og:url" content="/how-to-setup-blog.html"/>
         <meta property="og:description" content="The traditional post detailing how I set up this whole shebang."/>
         <meta property="article:published_time" content="2015-10-09" />
@@ -85,8 +85,8 @@
                 <h1>
                     <a href="/how-to-setup-blog.html"
                        rel="bookmark"
-                       title="Permalink to How To Set Up a Pelican Blog With Github Pages and pelican-bootstrap3">
-                        How To Set Up a Pelican Blog With Github Pages and pelican-bootstrap3
+                       title="Permalink to Blogging About My Blog">
+                        Blogging About My Blog
                     </a>
                 </h1>
             </header>
@@ -116,14 +116,16 @@
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>In other words, how I made my blog.</p>
+                <p>In other words, how to set up a pelican blog with github pages and pelican-bootstrap3.</p>
+<p>In other words, how I made my blog.</p>
+<p>Is the word <em>blog</em> starting to sound weird yet?</p>
 <p>It seems like the first thing most people do after making a blog is write about how
 they made it. And hey, I have no complaints; this is a pretty useful practice.
 So I'll go ahead and give it a shot.  I'm going to try assume basically zero 
 knowledge of how to set up a website, because that's how about much I had going in.
 This will probably not go perfectly well as I start throwing around terminal commands
 and whatnot, but I will try my best. So, let's get started.</p>
-<h2>1. Install Pelican</h2>
+<h2>1. Get the Bird</h2>
 <p>First, let's install Pelican. <a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">Here's how</a>.
 Basically you just want to do <code>pip install pelican</code> or <code>easy_install pelican</code>.
 If you want, you can create a virtual environment for Pelican before installing it.
@@ -131,10 +133,10 @@ The <a href="http://duncanlock.net/blog/2013/05/17/how-i-built-this-website-usin
 for doing this is to create a self-contained python environment for
 this python project. I didn't care about this, so I went ahead and skipped this
 step.</p>
-<h4>1a. Install Markdown</h4>
+<h4>1a. Markdown for What</h4>
 <p>If you plan on using Markdown as a markup format (which I recommend),
 also install Markdown with <code>pip install Markdown</code>.</p>
-<h2>2. Create the Project with Quickstart</h2>
+<h2>2. Quickly Start It</h2>
 <p>Navigate to the directory to where you want to create your blog. Let's say
 you want it to be located at <em>~/Documents/blog</em>. Then, you should do
 <code>cd ~/Documents/blog</code> (run <code>mkdir -p ~/Documents/blog</code> if the directory doesn't
@@ -163,7 +165,7 @@ and the structure should look like the following:</p>
 </pre></div>
 
 
-<h4>2a. Automation Tools</h4>
+<h4>2a. Make Your Life More Better</h4>
 <p>There are some automation tools that wrap the <code>pelican</code> command and make
 it easier to generate, preview, and upload your blog. Again, the previous
 <a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">link</a> details
@@ -176,7 +178,7 @@ and automatically regenerate it when you make changes. So for example,
 if you save a new article, you just need to refresh the browser to see
 the results! Pretty sweet. When you're done testing, you should run
 <code>./develop_server.sh stop</code> to stop the development server.</p>
-<h2>3. Push the Project to Git</h2>
+<h2>3. Push It Real Good</h2>
 <p>Now we basically have all our Pelican stuff set up. What's left? Well, we 
 need to integrate it with Github Pages, and get our custom domain name. So let's
 get started. First, go onto github and create a new repo. Initialize the repo
@@ -204,7 +206,7 @@ is what's used for a Github Project Page).<br />
 So now that we've got that set up, we can run <code>git add -A</code> to add all our files,
 and then run <code>git commit</code> to update our site! It's as easy as that. Remember to push
 to <code>master</code> occasionally if you want to update your remote branch.</p>
-<h2>4. Set Up Your Custom Domain Name, Part 1</h2>
+<h2>4. Maybe You Should Start Thinking Of a Cool Domain Name...</h2>
 <p>At this point, you should be able to test your blog using <code>make devserver</code> and 
 looking at <a href="http://localhost:8000">http://localhost:8000</a>. You should also be
 able to easily update the Github Project site by simply commiting to the master
@@ -220,7 +222,7 @@ Then, in <code>pelicanconf.py</code>, put these two lines:<br />
 This tells Pelican to copy the <code>CNAME</code> file to your output directory.
 After running <code>git commit</code> to update your site, take a deep breath. You're almost
 there!</p>
-<h2>5. Set Up Your Custom Domain Name, Part 2</h2>
+<h2>5. Good Choice. I Heartily Approve</h2>
 <p>The last step involves actually purchasing and setting up your domain (and 
 possibly subdomain) on <a href="https://www.godaddy.com/">godaddy.com</a>. Or some other
 site. But <a href="https://www.godaddy.com/">godaddy.com</a> is pretty swell. First you have 
@@ -334,7 +336,7 @@ that's what I did.</p>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
                         <a href="/how-to-setup-blog.html">
-                            How To Set Up a Pelican Blog With Github Pages and pelican-bootstrap3
+                            Blogging About My Blog
                         </a>
                     </li>
                 </ul>
