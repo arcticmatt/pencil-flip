@@ -123,128 +123,143 @@ So I'll go ahead and give it a shot.  I'm going to try assume basically zero
 knowledge of how to set up a website, because that's how about much I had going in.
 This will probably not go perfectly well as I start throwing around terminal commands
 and whatnot, but I will try my best. So, let's get started.</p>
-<ol>
-<li>First, let's install Pelican. <a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">Here's how</a>.
-   Basically you just want to do <code>pip install pelican</code> or <code>easy_install pelican</code>.
-   If you want, you can create a virtual environment for Pelican before installing it.
-   The <a href="http://duncanlock.net/blog/2013/05/17/how-i-built-this-website-using-pelican-part-1-setup/#comment-1767610380">reason</a>
-   for doing this is to create a self-contained python environment for
-   this python project. I didn't care about this, so I went ahead and skipped this
-   step.<ol>
-<li>If you plan on using Markdown as a markup format (which I recommend),
-   also install Markdown with <code>pip install Markdown</code>.</li>
-</ol>
-</li>
-<li>Navigate to the directory to where you want to create your blog. Let's say
-   you want it to be located at <em>~/Documents/blog</em>. Then, you should do
-   <code>cd ~/Documents/blog</code> (run <code>mkdir -p ~/Documents/blog</code> if the directory doesn't
-   exist yet).</li>
-<li>Then, run <code>pelican-quickstart</code> (for more details, refer again to the previous
-   <a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">link</a>).
-   It will prompt you to answer some questions
-   about your site, as shown below.
-   <img alt="Pelican Quickstart" src="/images/pelican-quickstart-prompt.png" />
-   Here I answered "no" to the last question, where it asks us if we want to use
-   our personal page. This is just determining whether we want to use Github Page's
-   Personal Page, or Github Page's Project Page. The only practical difference is a
-   slight change in setup, so it doesn't really matter. But for the purposes of this
-   how-to, I'll be showing how to set up the Project Page.
-   Once all these questions have been answered, your project should be all set up,
-   and the structure should look like the following:
-   <img alt="Pelican Proj Structure" src="/images/pelican-proj-structure.png" /><ol>
-<li>There are some automation tools that wrap the <code>pelican</code> command and make
-   it easier to generate, preview, and upload your blog. Again, the previous
-   <a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">link</a> details
-   these tools. One of them is Fabric. However, I recommend Make. A Makefile
-   is automatically generated for you if you say "yes" to one of the prompts
-   during the <code>pelican-quickstart</code> process, and the <code>make</code> command is already
-   built into most systems. The most handy command is <code>make devserver</code>. This 
-   will serve your site at <a href="http://localhost:8000">http://localhost:8000</a>,
-   and automatically regenerate it when you make changes. So for example,
-   if you save a new article, you just need to refresh the browser to see
-   the results! Pretty sweet. When you're done testing, you should run
-   <code>./develop_server.sh stop</code> to stop the development server.</li>
-</ol>
-</li>
-<li>Now we basically have all our Pelican stuff set up. What's left? Well, we 
-   need to integrate it with Github Pages, and get our custom domain name. So let's
-   get started. First, go onto github and create a new repo. Initialize the repo
-   in the directory where you created your blog, and then stop.
-   So in other words, just run these commands (with your directory):<br />
+<h2>1. Install Pelican</h2>
+<p>First, let's install Pelican. <a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">Here's how</a>.
+Basically you just want to do <code>pip install pelican</code> or <code>easy_install pelican</code>.
+If you want, you can create a virtual environment for Pelican before installing it.
+The <a href="http://duncanlock.net/blog/2013/05/17/how-i-built-this-website-using-pelican-part-1-setup/#comment-1767610380">reason</a>
+for doing this is to create a self-contained python environment for
+this python project. I didn't care about this, so I went ahead and skipped this
+step.</p>
+<h4>1a. Install Markdown</h4>
+<p>If you plan on using Markdown as a markup format (which I recommend),
+also install Markdown with <code>pip install Markdown</code>.</p>
+<h2>2. Create the Project with Quickstart</h2>
+<p>Navigate to the directory to where you want to create your blog. Let's say
+you want it to be located at <em>~/Documents/blog</em>. Then, you should do
+<code>cd ~/Documents/blog</code> (run <code>mkdir -p ~/Documents/blog</code> if the directory doesn't
+exist yet).
+Then, run <code>pelican-quickstart</code> (for more details, refer again to the previous
+<a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">link</a>).
+It will prompt you to answer some questions
+about your site, as shown below.
+<img alt="Pelican Quickstart" src="/images/pelican-quickstart-prompt.png" />
+Here I answered "no" to the last question, where it asks us if we want to use
+our personal page. This is just determining whether we want to use Github Page's
+Personal Page, or Github Page's Project Page. The only practical difference is a
+slight change in setup, so it doesn't really matter. But for the purposes of this
+how-to, I'll be showing how to set up the Project Page.
+Once all these questions have been answered, your project should be all set up,
+and the structure should look like the following:</p>
+<div class="highlight"><pre>yourproject/
+├── content
+│   └── (pages)
+├── output
+├── develop_server.sh
+├── fabfile.py
+├── Makefile
+├── pelicanconf.py       # Main settings file
+└── publishconf.py       # Settings to use when ready to publish
+</pre></div>
+
+
+<h4>2a. Automation Tools</h4>
+<p>There are some automation tools that wrap the <code>pelican</code> command and make
+it easier to generate, preview, and upload your blog. Again, the previous
+<a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">link</a> details
+these tools. One of them is Fabric. However, I recommend Make. A Makefile
+is automatically generated for you if you say "yes" to one of the prompts
+during the <code>pelican-quickstart</code> process, and the <code>make</code> command is already
+built into most systems. The most handy command is <code>make devserver</code>. This 
+will serve your site at <a href="http://localhost:8000">http://localhost:8000</a>,
+and automatically regenerate it when you make changes. So for example,
+if you save a new article, you just need to refresh the browser to see
+the results! Pretty sweet. When you're done testing, you should run
+<code>./develop_server.sh stop</code> to stop the development server.</p>
+<h2>3. Push the Project to Git</h2>
+<p>Now we basically have all our Pelican stuff set up. What's left? Well, we 
+need to integrate it with Github Pages, and get our custom domain name. So let's
+get started. First, go onto github and create a new repo. Initialize the repo
+in the directory where you created your blog, and then stop.
+So in other words, just run these commands (with your directory):<br />
 <code>cd ~/Documents/blog</code><br />
 <code>git init</code><br />
-   Now we're going to set it up so that the Pelican site gets published as a Github
-   Project Page, following <a href="http://docs.getpelican.com/en/3.3.0/tips.html">these instructions</a>.
-   There's some stuff at the top of that page about publishing to Project Pages,
-   but we can skip it and use a shorcut method. Here's what we'll do. Run
-   these commands, and I'll explain after. For these to work, you'll need to 
-   be in the root directory of your blog.<br />
+Now we're going to set it up so that the Pelican site gets published as a Github
+Project Page, following <a href="http://docs.getpelican.com/en/3.3.0/tips.html">these instructions</a>.
+There's some stuff at the top of that page about publishing to Project Pages,
+but we can skip it and use a shorcut method. Here's what we'll do. Run
+these commands, and I'll explain after. For these to work, you'll need to 
+be in the root directory of your blog.<br />
 <code>pip install ghp-import</code><br />
 <code>cd .git/hooks</code><br />
 <code>echo "pelican content -o output -s pelicanconf.py &amp;&amp; ghp-import output &amp;&amp; git push origin gh-pages" &gt;&gt; post-commit</code><br />
 <code>chmod +x post-commit</code><br />
-   Then navigate back to the root directory of your blog.
-   What we are doing is setting up a post-commit hook, which makes it so that
-   the Pelican site gets updated on each commit. This means that we can work
-   on our site on the master branch. Then, whenever we want to update the site,
-   we just add the relevant files and commit. <code>ghp-import</code> will then push the content
-   of the <code>output</code> dir to the <code>gh-pages</code> branch, and that's that (the <code>gh-pages</code> branch
-   is what's used for a Github Project Page).<br />
-   So now that we've got that set up, we can run <code>git add -A</code> to add all our files,
-   and then run <code>git commit</code> to update our site! It's as easy as that. Remember to push
-   to <code>master</code> occasionally if you want to update your remote branch.</li>
-<li>At this point, you should be able to test your blog using <code>make devserver</code> and 
-   looking at <a href="http://localhost:8000">http://localhost:8000</a>. You should also be
-   able to easily update the Github Project site by simply commiting to the master
-   branch. So all that's left is getting that custom domain name. The first thing
-   we'll do is navigate into the <code>content/</code> directory of our blog and run
-   <code>mkdir extra</code>. Inside the newly created <code>extra</code> directory, put your desired
-   custom domain name into a file called <code>CNAME</code>. So for example, <code>CNAME</code> could
-   have one line with<br />
+Then navigate back to the root directory of your blog.
+What we are doing is setting up a post-commit hook, which makes it so that
+the Pelican site gets updated on each commit. This means that we can work
+on our site on the master branch. Then, whenever we want to update the site,
+we just add the relevant files and commit. <code>ghp-import</code> will then push the content
+of the <code>output</code> dir to the <code>gh-pages</code> branch, and that's that (the <code>gh-pages</code> branch
+is what's used for a Github Project Page).<br />
+So now that we've got that set up, we can run <code>git add -A</code> to add all our files,
+and then run <code>git commit</code> to update our site! It's as easy as that. Remember to push
+to <code>master</code> occasionally if you want to update your remote branch.</p>
+<h2>4. Set Up Your Custom Domain Name, Part 1</h2>
+<p>At this point, you should be able to test your blog using <code>make devserver</code> and 
+looking at <a href="http://localhost:8000">http://localhost:8000</a>. You should also be
+able to easily update the Github Project site by simply commiting to the master
+branch. So all that's left is getting that custom domain name. The first thing
+we'll do is navigate into the <code>content/</code> directory of our blog and run
+<code>mkdir extra</code>. Inside the newly created <code>extra</code> directory, put your desired
+custom domain name into a file called <code>CNAME</code>. So for example, <code>CNAME</code> could
+have one line with<br />
 <code>blog.example.com</code><br />
-   Then, in <code>pelicanconf.py</code>, put these two lines:<br />
+Then, in <code>pelicanconf.py</code>, put these two lines:<br />
 <code>STATIC_PATHS = ['images', 'extra/CNAME']</code><br />
 <code>EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}</code><br />
-   This tells Pelican to copy the <code>CNAME</code> file to your output directory.
-   After running <code>git commit</code> to update your site, take a deep breath. You're almost
-   there!</li>
-<li>The last step involves actually purchasing and setting up your domain (and 
-   possibly subdomain) on <a href="https://www.godaddy.com/">godaddy.com</a>. Or some other
-   site. But <a href="https://www.godaddy.com/">godaddy.com</a> is pretty swell. First you have 
-   to buy the domain name you want. So do that. I can wait.<br />
-   ...<br />
-   Ok, so you've got your domain. Great! Now log onto Godaddy and go to that
-   domain's DNZ Zone File (first go to Manage My Domains, then click the settings dropdown
-   for that domain, then click Manage DNS). Now find where it says "Add Record" 
-   right under "Zone File" and click that. Now just add a <code>CNAME</code> record that
-   points to your Github URL (for the host, put the subdomain). It should end up
-   looking like this (this is for my <a href="http://blog.pencilflip.com/">blog.pencilflip.com</a> site).
-   <img alt="GoDaddy Cname" src="/images/godaddy-cname.png" /><br />
-   You might have to wait a bit for all the Godaddy stuff to take effect, but after that,
-   you should be able to go to <em>yoursubdomain.yourblogname.com</em>, and see your beautiful
-   blog in action. </li>
-<li>The rest of this is really optional. It's just a matter of giving your blog 
-   a nice theme, specifically <a href="https://github.com/DandyDev/pelican-bootstrap3">this one</a>.
-   This theme is nice because it's heavily documented (always a HUGE plus), looks 
-   nice, and is very flexible.
-   Most of the instructions are pretty self contained in that link. You basically
-   just clone the repo, and set up some variables in your <code>pelicanconf.py</code>.
-   I'll just mention the useful stuff I've found so far. If you want to display
-   tags on the sidebar, make sure to install the plugin <code>tag_cloud</code>. You can do
-   this by clonining the <code>pelican-plugins</code> repo and putting the following two lines
-   in your settings:<br />
+This tells Pelican to copy the <code>CNAME</code> file to your output directory.
+After running <code>git commit</code> to update your site, take a deep breath. You're almost
+there!</p>
+<h2>5. Set Up Your Custom Domain Name, Part 1</h2>
+<p>The last step involves actually purchasing and setting up your domain (and 
+possibly subdomain) on <a href="https://www.godaddy.com/">godaddy.com</a>. Or some other
+site. But <a href="https://www.godaddy.com/">godaddy.com</a> is pretty swell. First you have 
+to buy the domain name you want. So do that. I can wait.<br />
+...<br />
+Ok, so you've got your domain. Great! Now log onto Godaddy and go to that
+domain's DNZ Zone File (first go to Manage My Domains, then click the settings dropdown
+for that domain, then click Manage DNS). Now find where it says "Add Record" 
+right under "Zone File" and click that. Now just add a <code>CNAME</code> record that
+points to your Github URL (for the host, put the subdomain). It should end up
+looking like this (this is for my <a href="http://blog.pencilflip.com/">blog.pencilflip.com</a> site).
+<img alt="GoDaddy Cname" src="/images/godaddy-cname.png" /><br />
+You might have to wait a bit for all the Godaddy stuff to take effect, but after that,
+you should be able to go to <em>yoursubdomain.yourblogname.com</em>, and see your beautiful
+blog in action. </p>
+<h2>6. Make It Look Cool</h2>
+<p>The rest of this is really optional. It's just a matter of giving your blog 
+a nice theme, specifically <a href="https://github.com/DandyDev/pelican-bootstrap3">this one</a>.
+This theme is nice because it's heavily documented (always a HUGE plus), looks 
+nice, and is very flexible.
+Most of the instructions are pretty self contained in that link. You basically
+just clone the repo, and set up some variables in your <code>pelicanconf.py</code>.
+I'll just mention the useful stuff I've found so far. If you want to display
+tags on the sidebar, make sure to install the plugin <code>tag_cloud</code>. You can do
+this by clonining the <code>pelican-plugins</code> repo and putting the following two lines
+in your settings:<br />
 <code>PLUGIN_PATHS = ['../pelican-plugins']</code><br />
 <code>PLUGINS = ['tag_cloud']</code><br />
-   If you want to mess with the CSS, put the following lines in your settings:<br />
+If you want to mess with the CSS, put the following lines in your settings:<br />
 <code>CUSTOM_CSS = 'static/custom.css'</code><br />
 <code>EXTRA_PATH_METADATA = {'extra/custom.css': {'path': 'static/custom.css'},}</code><br />
-   The latter of these two lines changes the path of <code>custom.css</code> to <code>static/custom.css</code>
-   in the output directory.
-   Here's my current <code>custom.css</code> setup. In order, this code changes the background
-   color of the navbar, changes the background color of the navbar when active,
-   and adds some icons for social links (goodreads and bandcamp). It's pretty easy
-   to mess with stuff by just inspecting elements and adding things to this file; at least,
-   that's what I did.<div class="highlight"><pre><span class="na">.navbar-default</span> <span class="err">{</span>
+The latter of these two lines changes the path of <code>custom.css</code> to <code>static/custom.css</code>
+in the output directory.
+Here's my current <code>custom.css</code> setup. In order, this code changes the background
+color of the navbar, changes the background color of the navbar when active,
+and adds some icons for social links (goodreads and bandcamp). It's pretty easy
+to mess with stuff by just inspecting elements and adding things to this file; at least,
+that's what I did.</p>
+<div class="highlight"><pre><span class="na">.navbar-default</span> <span class="err">{</span>
     <span class="nl">background-color:</span> <span class="c">#fdf6e3;</span>
     <span class="nl">border-color:</span> <span class="c">#F5F5F5;</span>
 <span class="err">}</span>
@@ -263,10 +278,7 @@ and whatnot, but I will try my best. So, let's get started.</p>
 </pre></div>
 
 
-</li>
-</ol>
-<p>I hope this was at least a little bit helpful. If you have any comments or questions,
-ask away.</p>
+<p>I hope this was at least a little bit helpful. If you have any comments or questions, ask away.</p>
             </div>
             <!-- /.entry-content -->
     <hr/>
@@ -341,13 +353,13 @@ ask away.</p>
             <li class="list-group-item"><a href="http://blog.pencilflip.com/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                 <ul class="list-group " id="tags">
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.pencilflip.com/tag/how-to.html">
-                            how-to
+                        <a href="http://blog.pencilflip.com/tag/bootstrap.html">
+                            bootstrap
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.pencilflip.com/tag/pelican.html">
-                            pelican
+                        <a href="http://blog.pencilflip.com/tag/blog.html">
+                            blog
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -356,13 +368,13 @@ ask away.</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.pencilflip.com/tag/bootstrap.html">
-                            bootstrap
+                        <a href="http://blog.pencilflip.com/tag/how-to.html">
+                            how-to
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.pencilflip.com/tag/blog.html">
-                            blog
+                        <a href="http://blog.pencilflip.com/tag/pelican.html">
+                            pelican
                         </a>
                     </li>
                 </ul>
