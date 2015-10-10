@@ -106,9 +106,9 @@ and whatnot, but I will try my best. So, let's get started.
    right under "Zone File" and click that. Now just add a `CNAME` record that
    points to your Github URL (for the host, put the subdomain). It should end up
    looking like this (this is for my [blog.pencilflip.com](http://blog.pencilflip.com/) site).
-   ![GoDaddy Cname](/images/godaddy-cname.png)
+   ![GoDaddy Cname](/images/godaddy-cname.png)  
    You might have to wait a bit for all the Godaddy stuff to take effect, but after that,
-   you should be able to go to yoursubdomain.yourblogname.com, and see your beautiful
+   you should be able to go to *yoursubdomain.yourblogname.com*, and see your beautiful
    blog in action. 
 7. The rest of this is really optional. It's just a matter of giving your blog 
    a nice theme, specifically [this one](https://github.com/DandyDev/pelican-bootstrap3).
