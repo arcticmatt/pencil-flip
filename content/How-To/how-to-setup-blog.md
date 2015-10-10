@@ -1,4 +1,4 @@
-Title: How To Setup a Pelican Blog With Github Pages and pelican-bootstrap3
+Title: How To Set Up a Pelican Blog With Github Pages and pelican-bootstrap3
 Date: 2015-10-09 18:23
 Category: How-To
 Tags: pelican, github, blog, how-to, bootstrap
