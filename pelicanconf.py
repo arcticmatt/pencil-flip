@@ -4,7 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'arctictern'
 SITENAME = u'pencil flip'
-SITEURL = ''
+# Needed for Disqus URLS to work
+SITEURL = 'http://blog.pencilflip.com'
+RELATIVE_URLS = False
 
 PATH = 'content'
 
