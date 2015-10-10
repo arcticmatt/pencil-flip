@@ -25,9 +25,9 @@ on a panoply of interesting things: maybe Hofstede's dimensions, or Dunbar's Num
 Gotta keep it intellectual somehow. Besides that, it's gonna be a grab bag. One
 day there might be a post about why George Michael (of Arrested Development fame)
 is America's ultimate hero; the next, it might be all about writing cover letters
-to tech companies.
+for tech companies.
 
 If any of the above suits your fancy, then you're in luck! I hope that this blog
 will stave off your boredom while you're waiting for your friend to get ready, or
-during your daily dump. And if not, then may I recommend
+during your daily dump. And if not, then I recommend
 [theatlantic.com](https://www.theatlantic.com). It has some interesting articles.

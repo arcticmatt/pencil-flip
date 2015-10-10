@@ -5,7 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = u'arctictern'
 SITENAME = u'pencil flip'
 # Needed for Disqus URLS to work
-SITEURL = 'http://blog.pencilflip.com'
+#SITEURL = 'http://blog.pencilflip.com'
+SITEURL = ''
 RELATIVE_URLS = False
 
 PATH = 'content'
@@ -42,6 +43,7 @@ SOCIAL = (('spotify', 'https://open.spotify.com/user/1240806741'),
           ('linkedin', 'https://www.linkedin.com/pub/matt-lim/a6/1a5/b31'),)
 
 DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_TAGS_INLINE = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 RECENT_POST_COUNT = 5
