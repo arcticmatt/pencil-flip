@@ -14,7 +14,7 @@ Hey, what's up. I'm arctictern, or Matt. Here are some quick hitters about me.
 * I like reading books, articles, poems, and the back of shampoo bottles.
 * More specifically, the Golden State Warriors are my favorite basketball team,
   I enjoy playing Neutral Milk Hotel and Priscilla Ahn on guitar, and Ratatouille
-  is my favorite movie. And I occasionaly ponder the runtime of various algorithms.
+  is my favorite movie. And I occasionally ponder the runtime of various algorithms.
 
 So, what's this blog about? In short, it's about things I like, things I dislike,
 and things I find particularly interesting. This means there will be some
