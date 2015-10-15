@@ -48,7 +48,7 @@ a Caltech undergrad might hike “one Avery” to search for help to a particula
 hard problem set, to get free food, or perhaps to attend the infamous “ab night.” 
 It is certainly the rare occasion when one voluntarily undergoes a trip to Avery. 
 
-This is not a knock on Avery house. In fact, all the houses are fine houses. It 
+This is not a knock on Avery house. All the houses are alright. It 
 is merely an observation on the extreme endurance one must possess in order to 
 walk “one Avery.” I shudder to even think of those brave souls that attempt the 
 walk to off-campus housing.
