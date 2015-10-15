@@ -6,17 +6,19 @@ Slug: caltech-walkability
 Authors: arctictern
 Summary: Why it's so hard to walk farther than 5 minutes
 
-This is going to start a category where I talk about random Caltech related 
+This post starts a category where I talk about random Caltech related 
 things. Hopefully I don’t break any rules. And if I do, hopefully no one reads 
 these until after I graduate.
 
 ## Walkability
 This post is about Caltech and walkability. Walkability is a measure of how 
-friendly an area is to walking. It is also a great song by Way Yes; you should 
+friendly an area is to walking. It is also a 
+[great song by Way Yes](https://www.youtube.com/watch?v=8HpKUPvu_hk); you should 
 check it out. Caltech has an extremely small campus that houses an extremely 
 small number of undergraduates.
 
 ![caltech-olive-walk](/images/caltech-olive-walk.jpg)
+
 <sup>The Olive Walk, where most of Caltech's undergrad housing is 
 (red square on map)</sup>
 
@@ -30,9 +32,10 @@ from any of the houses on campus, it takes about 2-5 minutes to walk to class.
 Further, all the student housing is located no more than 5 minutes apart, with 
 most of them situated adjacently. This can bring the walk times down to 1 minute 
 at most! No student here denies that this is incredibly convenient. However, this 
-convenience has a somewhat unintended consequence: the students here become incredibly lazy. 
+convenience has a somewhat unintended consequence: students can become incredibly lazy. 
 
 ![caltech-map](/images/caltech-map.gif)
+
 <sup>A map highlighting Caltech's undergrad housing and the distance of one 
 Avery</sup>
 
