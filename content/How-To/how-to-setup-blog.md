@@ -4,7 +4,7 @@ Category: How-To
 Tags: pelican, github, blog, how-to, bootstrap
 Slug: how-to-setup-blog
 Authors: arctictern
-Summary: The traditional post detailing how I set up this whole shebang.
+Summary: The traditional post detailing how I set up this whole shebang
 
 In other words, how to set up a pelican blog with github pages and pelican-bootstrap3.
 
