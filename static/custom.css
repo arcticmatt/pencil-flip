@@ -6,15 +6,23 @@ body {
     line-height: 1.52;
     color: #333;
 }
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:focus, 
+.navbar-default .navbar-nav > .active > a:hover {
+    color: #333;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #333;
+}
 .navbar-default {
-    background-color: #fdf6e3;
+    background-color: #62AEF0;
     border-color: #F5F5F5;
     font-size: 15px;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-    background-color: #F8E8BD;
+    background-color: #378DD9;
     border-color: #fdf6e3;
     font-size: 15px;
 }
