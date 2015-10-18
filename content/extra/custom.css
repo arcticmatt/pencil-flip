@@ -15,14 +15,14 @@ body {
     color: #333;
 }
 .navbar-default {
-    background-color: #62AEF0;
+    background-color: #7DBAEE;
     border-color: #F5F5F5;
     font-size: 15px;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-    background-color: #378DD9;
+    background-color: #62AEF0;
     border-color: #fdf6e3;
     font-size: 15px;
 }
