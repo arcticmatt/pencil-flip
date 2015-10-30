@@ -57,7 +57,7 @@ and the structure should look like the following:
     ├── Makefile
     ├── pelicanconf.py       # Main settings file
     └── publishconf.py       # Settings to use when ready to publish
-####2a. Make Your Life More Better
+####2a. Make Your Life Better
 There are some automation tools that wrap the `pelican` command and make
 it easier to generate, preview, and upload your blog. Again, the previous
 [link](http://docs.getpelican.com/en/3.3.0/getting_started.html) details
