@@ -145,7 +145,7 @@ then Bandcamp is the place to be. The easiest way to discover new music on Bandc
 is to peruse the front page. Here you’ll find new and notable records, fan
 favorites, and albums that are being bought at the very moment. You’ll also
 find the Discover section, and this is the most useful out of the bunch.
-Bandcamp Discover let’s you browse Bandcamp’s selection by genre (rock,
+Bandcamp Discover lets you browse Bandcamp’s selection by genre (rock,
 alternative, etc), recommendations (best-selling, staff picks,
 artist-recommended), and format (digital, vinyl, etc.). So if you want to look
 at the best-selling alternative CDs on Bandcamp, you know where to go. 
@@ -247,7 +247,7 @@ action is to sort by top from the past week and click through the first few.
 ## Hugging's not a dance move
 There are many other ways of finding music that I didn’t cover here. A great
 source for music discovery is your friends; see what they listen to and check
-it out. Then you’ve got sites like BIRP, and tons of other online music
+it out. Then you’ve got sites like [BIRP](http://www.birp.fm/), and tons of other online music
 sources. The ones above are the methods I usually stick with. With everything
 that’s out there, it can be a bit overwhelming at times. Whatever you do, just
 keep it fun. 
