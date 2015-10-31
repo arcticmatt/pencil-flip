@@ -12,7 +12,7 @@ a nighttime car ride, or a postprandial game of monopoly. Here's a playlist
 with all the songs, for easy listening and whatnot: [the playlist with all 
 the songs](https://open.spotify.com/user/1240806741/playlist/4incH0kX0BA2gDCnL8ZLaO).
 
-#### 1). Blue Boy - Mac Demarco
+#### 1. Blue Boy - Mac Demarco
 Calm down, sweetheart; your haircut looks great. Sounds like lying on 
 half green, half yellow grass during the tail end of a do-nothing summer.
 
