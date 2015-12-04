@@ -74,3 +74,6 @@ CUSTOM_CSS = 'static/custom.css'
 DISQUS_SITENAME = 'pencilflip'
 DISQUS_SHORTNAME = 'pencilflip'
 DISQUS_DISPLAY_COUNTS = True
+
+# Exclude articles
+#ARTICLE_EXCLUDES = ['Life-in-Haiku']
