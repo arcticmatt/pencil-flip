@@ -7,6 +7,11 @@ Authors: arctictern
 Summary: 
 Type: Post
 
+### 12.05.15  
+are you inside out  
+just ask the superquadric  
+trace the ray till dawn  
+
 ### 12.04.15  
 early morning buzz  
 phone call disturbing slumber  
