@@ -7,6 +7,11 @@ Authors: arctictern
 Summary: 
 Type: Post
 
+### 12.06.15  
+free will red pill the  
+blonde girl sits prone, windowsill,  
+blame the architect  
+
 ### 12.05.15  
 are you inside out  
 just ask the superquadric  
