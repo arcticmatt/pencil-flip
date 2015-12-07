@@ -9,7 +9,7 @@ Type: Post
 
 ### 12.06.15  
 free will red pill the  
-blonde girl sits prone, windowsill,  
+blonde girl lies prone, windowsill,  
 blame the architect  
 
 ### 12.05.15  
