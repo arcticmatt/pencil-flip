@@ -7,6 +7,11 @@ Authors: arctictern
 Summary: 
 Type: Post
 
+### 12.07.15  
+year's end music plays  
+scroll through interminable   
+spotify rainbow  
+
 ### 12.06.15  
 free will red pill the  
 blonde girl lies prone, windowsill,  
