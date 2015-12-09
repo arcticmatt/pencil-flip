@@ -7,6 +7,11 @@ Authors: arctictern
 Summary: 
 Type: Post
 
+### 12.08.15  
+crock pot the pot's hot  
+passively cooking meal in  
+ceramic stoneware  
+
 ### 12.07.15  
 year's end music plays  
 scroll through interminable   
