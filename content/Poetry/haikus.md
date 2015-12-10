@@ -1,6 +1,6 @@
 Title: Life in Haiku
 Date: 2015-12-03 13:00
-Category: Life in Haiku
+Category: Poetry
 Tags: haiku
 Slug: life-in-haiku
 Authors: arctictern
