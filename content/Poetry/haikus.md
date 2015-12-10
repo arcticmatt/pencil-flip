@@ -5,7 +5,6 @@ Tags: haiku
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
-Type: Post
 
 ### 12.09.15  
 aardvark bucket hat  
