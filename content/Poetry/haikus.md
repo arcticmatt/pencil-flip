@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.10.15  
+where are all the youths  
+drive to old pasadena  
+crowded traffic jam  
+
 ### 12.09.15  
 aardvark bucket hat  
 forty year old fisherman  
