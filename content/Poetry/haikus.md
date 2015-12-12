@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.11.15  
+finals done squad brunch  
+christmas shopping paper source  
+fight club spliced durden  
+
 ### 12.10.15  
 where are all the youths  
 drive to old pasadena  
