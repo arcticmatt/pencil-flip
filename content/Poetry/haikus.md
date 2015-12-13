@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.12.15  
+familiar drive home  
+loud wind buffets blue chassis  
+cows smell, music plays  
+
 ### 12.11.15  
 finals done squad brunch  
 christmas shopping paper source  
