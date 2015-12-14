@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.13.15  
+sylvia and chill  
+innumerable entries  
+sinusoidal mood  
+
 ### 12.12.15  
 familiar drive home  
 loud wind buffets blue chassis  
