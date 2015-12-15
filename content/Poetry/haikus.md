@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.14.15  
+the episode ends  
+credits roll to exit song  
+next button beckons  
+
 ### 12.13.15  
 sylvia and chill  
 innumerable entries  
