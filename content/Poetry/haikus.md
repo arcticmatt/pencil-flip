@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.15.15  
+yo barnes & nobles  
+why you ain't got no dang books  
+gift card coercion  
+
 ### 12.14.15  
 the episode ends  
 credits roll to exit song  
