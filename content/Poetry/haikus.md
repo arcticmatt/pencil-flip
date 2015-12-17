@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.16.15  
+high school soccer game  
+fifa disconnect explains  
+lack of lob passes  
+
 ### 12.15.15  
 yo barnes & nobles  
 why you ain't got no dang books  
