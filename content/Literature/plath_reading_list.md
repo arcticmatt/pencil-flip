@@ -6,13 +6,13 @@ Slug: plath-reading-list
 Authors: arctictern
 Summary: Recommendations from the suicidal grave
 
-'Tis the season for book lists. The New Yorker and the New York Times have theirs.
+'Tis the season for reading lists. The New Yorker and the New York Times have theirs.
 Bill Gates has his. Ryan Holiday, whose reading list I am somehow subscribed to,
 has also recently e-recommended me a few life-changing reads. 
 
 I have not, however, scrolled through any Sylvia Plath curated lists. This is most likely
 because she is dead. What a shame. No one can make corncob rape or the name Ursula 
-sound as scintillating as SP. So let's get to it: here is your 2015 Sylvia Plath Book List.
+sound as scintillating as SP. So let's get to it: here is your 2015 Sylvia Plath Reading List.
 
 ### *The Lord of the Rings* (trilogy) - J.R.R. Tolkien
 > Finished the Tolkien trilogy. A triumph. A 
