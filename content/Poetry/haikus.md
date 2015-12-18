@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.17.15  
+finally finished  
+the unabridged journals of  
+sylvia plath yay  
+
 ### 12.16.15  
 high school soccer game  
 fifa disconnect explains  
