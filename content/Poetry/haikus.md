@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.18.15  
+sonorous resonations   
+of adam driver's sith voice  
+resound in my ears  
+
 ### 12.17.15  
 finally finished  
 the unabridged journals of  
