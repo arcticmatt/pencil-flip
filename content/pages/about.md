@@ -5,7 +5,7 @@ Tags: pelican, publishing
 Slug: about
 Authors: arctictern
 
-Hey, what's up. I'm arctictern, or Matt. Here are some quick hitters about me.
+Hey, what's up. I'm Matt. Here are some quick hitters about me.
 
 * I'm a college student at Caltech majoring in CS.
 * I like basketball: playing it, watching it, reading about it,  and talking about it.
