@@ -59,8 +59,8 @@ This observation is best explained with a quote:
 
 ### Lemon meringue pie is her go-to desert
 
-SP and Hughes frequently have friends and acquaintances over for dinner. At such
-gatherings, SP often whips up her damn good lemon meringue pie. 
+SP and Ted Hughes (her husband) frequently have friends and acquaintances over 
+for dinner. At such gatherings, SP often whips up her damn good lemon meringue pie. 
 
 > Tonight I shall somehow manage dinner for 5 & coffee for an extra two with
 > ease. My trusty angel-topped lemon meringue pie - if I serve a dinner once a
@@ -98,7 +98,7 @@ Here, she interprets her dream (with much liberality):
 > last night: a menstruating dream? (486)
 
 SP showing off her dream recall: 
-> Dreamed several nights ago of having a fivemounths (born at five months?) old
+> Dreamed several nights ago of having a five-mounths (born at five months?) old
 > blond baby boy named Dennis riding, facing me, my hips, a heavy sweet-smelling
 > child. The double amazement: that he was so beautiful and healthy and so
 > little trouble. Ted claims this is a rebirth of my deep soul. Auspicious.
