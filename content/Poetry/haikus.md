@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.19.15  
+a pattern to match  
+a module to be loaded  
+lazy functioning  
+
 ### 12.18.15  
 sonorous resonations   
 of adam driver's sith voice  
