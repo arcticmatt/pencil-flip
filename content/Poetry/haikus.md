@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.20.15  
+water window smears  
+from faulty windshield wipers  
+induce drowsiness  
+
 ### 12.19.15  
 a pattern to match  
 a module to be loaded  
