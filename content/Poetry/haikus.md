@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.25.15   
+chinese restaurant  
+rendezvous where teacups clink  
+where christmas cash flows  
+
 ### 12.20.15  
 water window smears  
 from faulty windshield wipers  
