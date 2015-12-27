@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.26.15   
+blanket shields cold  
+traps inside radiant heat  
+subdues wakefulness  
+
 ### 12.25.15   
 chinese restaurant  
 rendezvous where teacups clink  
