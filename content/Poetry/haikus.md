@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.29.15    
+countless books to read  
+new, or old and beloved  
+desires exceed  
+
 ### 12.26.15   
 blanket shields cold  
 traps inside radiant heat  
