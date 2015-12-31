@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.30.15  
+a book in the bag  
+aside compact disc in case  
+daily treasures held  
+
 ### 12.29.15    
 countless books to read  
 new, or old and beloved  
