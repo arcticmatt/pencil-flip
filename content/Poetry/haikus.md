@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.01.16  
+monopolies reign  
+advance to jedi council  
+rotten luck sure sucks   
+
 ### 12.30.15  
 a book in the bag  
 aside compact disc in case  
