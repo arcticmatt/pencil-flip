@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.04.16  
+sessions back in class  
+free time hangs, fragile larvae  
+to release havoc  
+
 ### 01.01.16  
 monopolies reign  
 advance to jedi council  
