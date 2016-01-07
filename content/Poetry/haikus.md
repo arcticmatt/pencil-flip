@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.06.16  
+heater dries the rain  
+soaked into wrinkled pages  
+dry the rain on me  
+
 ### 01.04.16  
 sessions back in class  
 free time hangs, fragile larvae  
