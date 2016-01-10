@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.09.16  
+mason jar ice tea  
+kinda makes it look like pee  
+i drink anyways  
+
 ### 01.07.16  
 sandwich thief at broad  
 making me wait forever  
