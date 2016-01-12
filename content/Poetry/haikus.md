@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.11.16   
+jambalaya pot  
+bottom burnt cancer stewing  
+exudes toxic fumes  
+
 ### 01.09.16  
 mason jar ice tea  
 kinda makes it look like pee  
