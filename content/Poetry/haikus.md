@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.12.16   
+roman candlelight  
+test tubes on sandy death row  
+acid executes  
+
 ### 01.11.16   
 jambalaya pot  
 bottom burnt cancer stewing  
