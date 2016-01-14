@@ -7,7 +7,7 @@ Authors: arctictern
 Summary: 
 
 ### 01.13.16   
-an iffy idea   
+iffy idea   
 implement a command shell   
 set it to default  
 
