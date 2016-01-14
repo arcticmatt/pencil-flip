@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.13.16   
+an iffy idea   
+implement a command shell   
+set it to default  
+
 ### 01.12.16   
 roman candlelight  
 test tubes on sandy death row  
