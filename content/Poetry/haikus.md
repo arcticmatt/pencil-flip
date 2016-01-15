@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.14.16   
+san pietro pres  
+caltech, land of exceptions  
+yes we are both matt  
+
 ### 01.13.16   
 iffy idea   
 implement a command shell   
