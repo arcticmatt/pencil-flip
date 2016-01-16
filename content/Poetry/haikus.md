@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.15.16  
+cliff edge roaring sea  
+below, hungry sharks rearing  
+jump in anyways  
+
 ### 01.14.16   
 san pietro pres  
 caltech, land of exceptions  
