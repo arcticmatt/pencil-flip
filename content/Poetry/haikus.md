@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.16.16   
+just yesterday the   
+sand was molten lava, jump!   
+now we're proposing  
+
 ### 01.15.16  
 cliff edge roaring sea  
 below, hungry sharks rearing  
