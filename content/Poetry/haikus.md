@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.17.16   
+bare necessity  
+breathe through life's suffocations  
+chem lab will soon pass  
+
 ### 01.16.16   
 just yesterday the   
 sand was molten lava, jump!   
