@@ -32,7 +32,7 @@ Happy-sad sing-song guy-girl Australian rock.
 
 #### 5. Melanie - TV Girl
 There's this girl named Melanie. She looks a lot like Jane. Jane looks a lot 
-like Amy, who looks a lot like Amy. Melanie never really talks to you. She's
+like Amy, who looks a lot like Emily. Melanie never really talks to you. She's
 always looking across the room, at someone who just came inside.
 
 **Links**  
