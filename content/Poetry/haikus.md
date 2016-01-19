@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.18.16  
+our coding skills suck  
+operating systems muck  
+eat butter chicken  
+
 ### 01.17.16   
 bare necessity  
 breathe through life's suffocations  
