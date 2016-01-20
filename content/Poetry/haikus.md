@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.19.16  
+interrupted sleep  
+details segmented dream state  
+trigger the handler  
+
 ### 01.18.16  
 our coding skills suck  
 operating systems muck  
