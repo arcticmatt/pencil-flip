@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.21.16   
+i want to pass out   
+by that i mean go to sleep   
+and dream of real life   
+
 ### 01.19.16  
 interrupted sleep  
 details segmented dream state  
