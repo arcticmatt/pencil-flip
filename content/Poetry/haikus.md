@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.22.16   
+sometimes I forget  
+how to interact with you  
+clumsy interview  
+
 ### 01.21.16   
 i want to pass out   
 by that i mean go to sleep   
