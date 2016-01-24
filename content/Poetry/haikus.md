@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.23.16   
+surrounded by gray   
+grandparents, leaning in towards  
+chambers of music  
+
 ### 01.22.16   
 sometimes I forget  
 how to interact with you  
