@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.24.16   
+multiple alarms  
+yet no roommate in gray view  
+morning in peril  
+
 ### 01.23.16   
 surrounded by gray   
 grandparents, leaning in towards  
