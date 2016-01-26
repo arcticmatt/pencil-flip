@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.25.16   
+freestyle singing to  
+the same sad set of chords, turn  
+shallow thoughts inwards   
+
 ### 01.24.16   
 multiple alarms  
 yet no roommate in gray view  
