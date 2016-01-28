@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.27.16   
+breakfast and a quiz  
+bagel and bleary answers  
+mind schmears on blank page  
+
 ### 01.25.16   
 freestyle singing to  
 the same sad set of chords, turn  
