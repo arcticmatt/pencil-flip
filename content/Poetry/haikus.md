@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.28.16  
+words roll off your tongue  
+as rain rolls down my windows  
+filling stifled air  
+
 ### 01.27.16   
 breakfast and a quiz  
 bagel and bleary answers  
