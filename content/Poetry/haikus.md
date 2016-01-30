@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.29.16   
+the sixth extinction  
+will kill off buttloads of bugs  
+i'll give it my code  
+
 ### 01.28.16  
 words roll off your tongue  
 as rain rolls down my windows  
