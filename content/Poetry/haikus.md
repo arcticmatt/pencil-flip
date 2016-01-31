@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.30.16   
+writer's block is just  
+sporadic youtube watching,  
+fleeing apathy  
+
 ### 01.29.16   
 the sixth extinction  
 will kill off buttloads of bugs  
