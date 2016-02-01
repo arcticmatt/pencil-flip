@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.31.16   
+priorities change;  
+frozen thin mints; flashing lines;  
+mind goes numb with null  
+
 ### 01.30.16   
 writer's block is just  
 sporadic youtube watching,  
