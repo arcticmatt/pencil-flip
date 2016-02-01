@@ -10,7 +10,7 @@ These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities. 
 
 ### 01.31.16
-I was informed today about "the most infamous rhyme" in Middle English, which
+I was informed about "the most infamous rhyme" in Middle English, which
 appears in Chaucer's *The Canterbury Tales*.
 >As clerkes ben ful subtile and ful queynte;  
 >And prively he caughte hire by the queynte,
