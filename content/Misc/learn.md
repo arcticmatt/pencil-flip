@@ -15,8 +15,8 @@ appears in Chaucer's *The Canterbury Tales*.
 >As clerkes ben ful subtile and ful queynte;  
 >And prively he caughte hire by the queynte,
 
-This chivalrous tidbit was told to me by my friend Sid, courtesy of 
-Jennifer Jahner (a professor at Caltech).
+My friend Sid, courtesy of Jennifer Jahner (a Caltech prof), told me this
+chivalrous tidbit. 
 
 ### 01.30.16
 My friend Sihui sent me a picture of congee, which is rice porridge.
