@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.01.16   
+if talking was as  
+thought out as texting, i would  
+never talk again   
+
 ### 01.31.16   
 priorities change;  
 frozen thin mints; flashing lines;  

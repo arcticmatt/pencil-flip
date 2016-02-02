@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.01.16
+After a few mishearings (Pareto? frontal? prandial?), my friend Bogdan 
+(with his Romanian accent) conveyed to me the existence of the Prandtl number. 
+It's not very exciting.
+
 ### 01.31.16
 I was informed about "the most infamous rhyme" in Middle English, which
 appears in Chaucer's *The Canterbury Tales*.
