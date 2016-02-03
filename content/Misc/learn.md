@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.02.16
+I (re)learned about a famous study that found guys are more likely to call an
+attractive woman if they're scared of dying. They called it "Some Evidence for 
+Heightened Sexual Attraction Under Conditions of High Anxiety." I read about it
+in Aziz's book. I also found out you can set conditional breakpoints in GDB; kinda
+wish I had known that a bit earlier.
+
 ### 02.01.16
 After a few mishearings (Pareto? frontal? prandial?), my friend Bogdan 
 (with his Romanian accent) conveyed to me the existence of the Prandtl number. 

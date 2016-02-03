@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.02.16   
+optimistic plans:  
+a rushed breakfast, quick shower,  
+and slight tardiness  
+
 ### 02.01.16   
 if talking was as  
 thought out as texting, i would  
