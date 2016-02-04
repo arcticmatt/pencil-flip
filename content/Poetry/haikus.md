@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.03.16   
+write tired edit tired  
+wake up tired go to sleep tired  
+nap and feel more tired  
+
 ### 02.02.16   
 optimistic plans:  
 a rushed breakfast, quick shower,  
