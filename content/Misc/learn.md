@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.04.16
+>All good things must come to an end.
+
+The origin of this optimism? *Troilus and Criseyde*, a rollicking romance set 
+during the Siege of Troy. I Wikipedia'd the story today for no particular reason 
+(I read it last term for En121).
+
 ### 02.03.16
 Whilst writing a political science paper for some fun school stuff, I happened
 across the following lines:

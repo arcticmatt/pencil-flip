@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.04.16   
+forget old, learn new,  
+dumb wheel spinning round in place  
+gaining time, not brains  
+
 ### 02.03.16   
 write tired edit tired  
 wake up tired go to sleep tired  
