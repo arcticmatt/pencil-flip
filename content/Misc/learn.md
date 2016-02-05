@@ -14,7 +14,8 @@ of my everyday life, through all its ups and downs and dull mundanities.
 
 The origin of this optimism? *Troilus and Criseyde*, a rollicking romance set 
 during the Siege of Troy. I Wikipedia'd the story today for no particular reason 
-(I read it last term for En121).
+(I read it last term for En121). Also, Criseyde is prounounced Chris-Aye-Duh. Or 
+at least that's the way it sounds nice to my ears.
 
 ### 02.03.16
 Whilst writing a political science paper for some fun school stuff, I happened
