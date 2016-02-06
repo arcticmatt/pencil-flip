@@ -5,7 +5,6 @@ Tags: music
 Slug: five-track-friday4
 Authors: arctictern
 Summary: See you on a dark night
-Status: draft
 
 Q: If you had a daemon, what would it be? The theme of this Friday is
 **muses**. Listen whilst reading Pyramus and Thisbe, wallowing in idealism,
