@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.05.16   
+blitz the dutch! we say,  
+cards scattered in disarray,  
+wooden table shakes  
+
 ### 02.04.16   
 forget new, learn old  
 dumb wheel spinning round in place  

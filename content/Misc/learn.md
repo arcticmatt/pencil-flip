@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.05.16
+Victor, one of my housemates, got sick today. It might be norovirus, which 
+is apparently highly contagious and can be transferred by eating someone's 
+stool. 
+
 ### 02.04.16
 >All good things must come to an end.
 
