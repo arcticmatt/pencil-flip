@@ -7,7 +7,7 @@ Authors: arctictern
 Summary: 
 
 ### 02.04.16   
-forget old, learn new  
+forget new, learn old  
 dumb wheel spinning round in place  
 gaining time, not brains  
 
