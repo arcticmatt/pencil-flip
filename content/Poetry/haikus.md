@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.06.16   
+is sylvia there.  
+uh... no, wrong number, sorry.  
+wait, what's this number?  
+
 ### 02.05.16   
 blitz the dutch! we say,  
 cards scattered in disarray,  
