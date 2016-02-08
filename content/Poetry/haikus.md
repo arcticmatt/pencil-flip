@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.07.16   
+first: kiss wife and child  
+next: celebrate with teammates  
+lastly: promote beer  
+
 ### 02.06.16   
 is sylvia there.  
 uh... no, wrong number, sorry.  
