@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.08.16   
+tanned birkenstocks flop  
+on another sunny day  
+into the cool night  
+
 ### 02.07.16   
 first: kiss wife and child  
 next: celebrate with teammates  

@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.08.16
+The Linux kernel switches schedulers a lot. The default scheduler right now
+is the Completely Fair Scheduler (CFS). There's also a scheduler, created 
+as an alternative to the CFS, called the Brain F Scheduler (BFS). I feel like
+profane names prophecy the inevitable non-mainstreamity of the namee, although
+I guess the name could always be changed.
+
 ### 02.07.16
 Indigo children supposedly possess special powers like talking to dead people and/or
 God. They're named after the blue aura which supposedly surrounds them. I suppose
