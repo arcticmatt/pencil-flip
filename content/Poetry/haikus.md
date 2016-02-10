@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.09.16   
+if you put an egg  
+into some boiling water  
+it might boil faster  
+
 ### 02.08.16   
 tanned birkenstocks flop  
 on another sunny day  

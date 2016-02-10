@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.09.16
+A bildungsroman is "a novel dealing with one person's formative years or spiritual 
+education." I came across this term in *Kafka on the Shore*, a book (quite good
+and weird so far) which uses it fairly frequently.
+
 ### 02.08.16
 The Linux kernel switches schedulers a lot. The default scheduler right now
 is the Completely Fair Scheduler (CFS). There's also a scheduler, created 
