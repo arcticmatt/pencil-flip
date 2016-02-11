@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.10.16
+Adolf Eichmann dabbled massively in the logistics of killing Jews. Another one
+from *Kafka*.
+
 ### 02.09.16
 A bildungsroman is "a novel dealing with one person's formative years or spiritual 
 education." I came across this term in *Kafka on the Shore*, a book (quite good

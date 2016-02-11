@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.10.16   
+if time flies it's cool  
+as an artic tern, gliding  
+to the moon and back  
+
 ### 02.09.16   
 if you put an egg  
 into some boiling water  
