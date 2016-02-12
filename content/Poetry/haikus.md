@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.11.16  
+at some point on this  
+road we diverged, from working  
+to completely broke  
+
 ### 02.10.16   
 if time flies it's cool  
 as an artic tern, gliding  

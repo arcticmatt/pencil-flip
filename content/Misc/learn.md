@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.11.16
+I feel like it would be better if the information intake in my life were a little
+more evenly distributed. It turns out that gravitational waves exist. Thanks
+LIGO & Caltech & smart people. Also, 99% of all households purchase milk (source:
+my friend Matt: source: random milk facts website).
+
 ### 02.10.16
 Adolf Eichmann dabbled massively in the logistics of killing Jews. Another one
 from *Kafka*.
