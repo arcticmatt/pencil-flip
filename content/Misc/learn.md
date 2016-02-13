@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.12.16
+There's a synthesizer called Synplant where you plant seeds that grow into
+synth patches; kind of like an organic, less numerical approach to sound. Found out
+about it in this [Grimes interview](http://imgur.com/gallery/S9esf/).
+
 ### 02.11.16
 I feel like it would be better if the information intake in my life were a little
 more evenly distributed. It turns out that gravitational waves exist. Thanks

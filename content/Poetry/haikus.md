@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.12.16  
+early morning run  
+with amazon mapreduce  
+sprint to convergence  
+
 ### 02.11.16  
 at some point on this  
 road we diverged, from working  
