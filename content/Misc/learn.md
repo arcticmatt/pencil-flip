@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.13.16
+Apparently, you can bike from Manhattan Beach to Manhattan Beach in about a month.
+
 ### 02.12.16
 There's a synthesizer called Synplant where you plant seeds that grow into
 synth patches; kind of like an organic, less numerical approach to sound. Found out
