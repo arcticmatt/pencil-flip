@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.14.16
+Pointer arithmetic on a `void *` is illegal in C and C++, but GCC allows it 
+(increments/decrements happen in byte size chunks). 
+
 ### 02.13.16
 Apparently, you can bike from Manhattan Beach to Manhattan Beach in about a month.
 

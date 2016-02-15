@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.14.16  
+intended heart lies  
+statically square as dusty  
+tomes vacantly loom  
+
 ### 02.13.16   
 speaking japanese  
 while screwing in a lightbulb  
