@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.15.16  
+day blurs, time stretches, 
+leg stretches bend down touch toes,  
+palms down to dense core  
+
 ### 02.14.16  
 intended heart lies  
 statically square as dusty  

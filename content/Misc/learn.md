@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.15.16
+After iterating through three Keegan facts, here's what popped out:
+Kanye West and Kanye North are 
+[parliamentary constituents of Botswana](https://en.wikipedia.org/wiki/Parliamentary_constituencies_of_Botswana).
+
 ### 02.14.16
 Pointer arithmetic on a `void *` is illegal in C and C++, but GCC allows it 
 (increments/decrements happen in byte size chunks). 
