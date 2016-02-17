@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.16.16   
+cook different things  
+put them in a large dish, bake  
+it should taste okay  
+
 ### 02.15.16  
 day blurs, time stretches,  
 leg stretches bend down touch toes,  
