@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.17.16   
+i should write something  
+or free something, all memory,  
+could use a pointer  
+
 ### 02.16.16   
 cook different things  
 put them in a large dish, bake  

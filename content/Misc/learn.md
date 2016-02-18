@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.17.16
+A study was done that found drunk people are more likely to push the
+fat man (or route the trolley).
+
 ### 02.16.16
 Ben & Jerry's is 5-10 times more expensive as some other ice creams (Lucerne, 
 Dreyer's, those other cheap ones). Per-X prices are handy.
