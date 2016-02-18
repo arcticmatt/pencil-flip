@@ -8,7 +8,7 @@ Summary:
 
 ### 02.17.16   
 i should write something  
-or free something, all memory,  
+free something, all memory,  
 could use a pointer  
 
 ### 02.16.16   
