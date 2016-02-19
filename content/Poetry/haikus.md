@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.18.16   
+i'm stuck on a block  
+erase it with a feather  
+and float to the ground  
+
 ### 02.17.16   
 i should write something  
 free something, all memory,  

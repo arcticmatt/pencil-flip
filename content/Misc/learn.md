@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.18.16
+My CS144 set had a variant of the [pirate game](https://en.wikipedia.org/wiki/Pirate_game)
+on it, which is a cool game-theory type brain teaser. 
+
 ### 02.17.16
 A study was done that found drunk people are more likely to push the
 fat man (or route the trolley).
