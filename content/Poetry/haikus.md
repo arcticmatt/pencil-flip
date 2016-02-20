@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.19.16   
+don't slip on the stack  
+it's a quick and jagged fall   
+to the tile below  
+
 ### 02.18.16   
 i'm stuck on a block  
 erase it with a feather  
