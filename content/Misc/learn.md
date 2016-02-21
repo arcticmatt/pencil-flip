@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.20.16
+People in Romania say "house of stone" when people get married. Roughly,
+it means "good luck and strong marriage." 
+
 ### 02.19.16
 Emily Dickinson wrote about 1500 poems. Of these, around 10 were published
 during her lifetime.

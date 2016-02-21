@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.20.16   
+the game is to mask  
+one's inebriation with   
+false and rubbish claims  
+
 ### 02.19.16   
 don't slip on the stack  
 it's a quick and jagged fall   
