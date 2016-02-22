@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.21.16    
+go to bed, it's late  
+sleep can be reality  
+when worn mind fades slow  
+
 ### 02.20.16   
 the game is to mask  
 one's inebriation with   

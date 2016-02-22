@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.21.16
+My old math prof, Matilde Marcolli, does art. I didn't see it, but my roommmate
+described it as "watercolor over math notes" - he saw her work on display at
+Century books. I heard there are some matrix rotations in there. 
+
 ### 02.20.16
 People in Romania say "house of stone" when people get married. Roughly,
 it means "good luck and strong marriage." 
