@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.22.16   
+science meets chance, cells  
+split towards converging paths  
+henrietta lacks  
+
 ### 02.21.16    
 go to bed, it's late  
 sleep can be reality  

@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.22.16
+HeLa is immortal! It also came about from a bunch of random factors (not all
+cancer cells grow in culture). Bioethics is interesting.
+
 ### 02.21.16
 My old math prof, Matilde Marcolli, does art. I didn't see it, but my roommmate
 described it as "watercolor over math notes" - he saw her work on display at
