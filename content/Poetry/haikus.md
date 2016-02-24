@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.23.16   
+socks before pants if  
+you want to dance, barefeet make  
+the moves stick too long  
+
 ### 02.22.16   
 science meets chance, cells  
 split towards converging paths  

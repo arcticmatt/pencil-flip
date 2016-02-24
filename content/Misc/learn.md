@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.23.16
+The [McDonald's theory of war](http://www.theguardian.com/world/2008/sep/06/russia.mcdonalds),
+which isn't actually true, posits that countries with McDonald's don't go to
+war with each other.
+
 ### 02.22.16
 HeLa is immortal! It also came about from a bunch of random factors (not all
 cancer cells grow in culture). Bioethics is interesting.
