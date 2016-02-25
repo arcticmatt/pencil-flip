@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.24.16
+"I Wandered Lonley as a Cloud" is a happy poem by William Woodsworth (thanks
+Katherine).
+
 ### 02.23.16
 The [McDonald's theory of war](http://www.theguardian.com/world/2008/sep/06/russia.mcdonalds),
 which isn't actually true, posits that countries with McDonald's don't go to

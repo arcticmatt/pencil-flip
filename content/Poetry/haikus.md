@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.24.16   
+big metal pot in  
+tall white fridge holding vast stock  
+of uniform meals  
+
 ### 02.23.16   
 socks before pants if  
 you want to dance, barefeet make  
