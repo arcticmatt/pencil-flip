@@ -6,6 +6,16 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.26.16   
+clap your hands say yeah  
+blow your nose through the whistle  
+move your feet floor's hot  
+
+### 02.25.16   
+it's always like that  
+it's sometimes like this, in the  
+bottom of the well  
+
 ### 02.24.16   
 big metal pot in  
 tall white fridge holding vast stock  

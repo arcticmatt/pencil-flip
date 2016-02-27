@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.26.16
+Kafka never finished *The Castle*.
+
+### 02.25.16
+Did you know that nose whistles exist?
+
 ### 02.24.16
 "I Wandered Lonley as a Cloud" is a happy poem by William Woodsworth (thanks
 Katherine).
