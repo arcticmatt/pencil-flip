@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.28.16
+Otto Plath was a really interesting guy. He "detested stock responses", 
+and used to skin, cook, and eat a rat during his college classes. The so-called
+"Bee-King", he used to follow bees to their nesting place and suck the honey
+from the hive with a long straw. He had a seemingly mystical power over
+bees; they never stung him when he caught them, and he once caught a bee in his fist
+and held it to his young daughter's ear.
+
 ### 02.26.16
 Kafka never finished *The Castle*.
 

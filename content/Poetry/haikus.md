@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.28.16   
+resting focus face  
+could scare the biggest of bears  
+breaks into a smile  
+
 ### 02.26.16   
 clap your hands say yeah  
 blow your nose through the whistle  
