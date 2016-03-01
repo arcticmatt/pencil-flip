@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 02.29.16   
+shopping cart saunter    
+snatching food in record time    
+forget the hand soap  
+
 ### 02.28.16   
 resting focus face  
 could scare the biggest of bears  

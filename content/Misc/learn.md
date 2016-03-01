@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 02.29.16
+Supreme Court Justice Clarence Thomas managed to go ten years without speaking
+during "oral arguments." He broke the streak by asking a question. This led
+to the fantastic headline, **Justice Clarence Thomas breaks 10-year streak, 
+asks question in court**.
+
 ### 02.28.16
 Otto Plath was a really interesting guy. He "detested stock responses", 
 and used to skin, cook, and eat a rat during his college classes. The so-called
