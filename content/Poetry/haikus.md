@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.01.16  
+glass breaks on pass fail  
+responsibility falls  
+on the ones who care  
+
 ### 02.29.16   
 shopping cart saunter    
 snatching food in record time    

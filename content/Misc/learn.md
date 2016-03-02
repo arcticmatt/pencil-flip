@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.01.16
+The psychoanalyst D.W. Winnicott invented the concepts of "True Self"
+and "False Self". "True Self" is the sense of self that comes from
+"authentic experience", and a feeling of being alive. "False Self" is a facade -
+the sense of self that arises when one, perhaps, is not completely comfortable 
+and puts on an overthought front. 
+
 ### 02.29.16
 Supreme Court Justice Clarence Thomas managed to go ten years without speaking
 during "oral arguments." He broke the streak by asking a question. This led
