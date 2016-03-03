@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.02.16
+Boba was invented in Taiwan. I feel like I might have known this already?
+
 ### 03.01.16
 The psychoanalyst D.W. Winnicott invented the concepts of "True Self"
 and "False Self". "True Self" is the sense of self that comes from

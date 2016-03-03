@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.02.16   
+after failing one   
+thousand runs, a spurious  
+pass leads to false smiles  
+
 ### 03.01.16  
 glass breaks on pass fail  
 responsibility falls  
