@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.06.16
+A zine containing Wikipedia lists (and lists of lists, and lists of lists
+of lists, etc.) informed me of Sweden's Donald Duck Party - a joke party that
+has been receiving joke/protests votes for years. At its peak, it was the 
+9th most popular party.
+
 ### 03.02.16
 Boba was invented in Taiwan. I feel like I might have known this already?
 

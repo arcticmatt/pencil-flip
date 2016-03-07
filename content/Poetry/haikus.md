@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.06.16   
+dyed hair is the new   
+breadcrumb, leading normal and   
+normal to the zines  
+
 ### 03.02.16   
 after failing one   
 thousand runs, a spurious  
