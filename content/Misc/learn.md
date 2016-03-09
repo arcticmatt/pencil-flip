@@ -9,6 +9,16 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.08.16
+The hard problem of consciousness can be phrased in the following way: "why do
+qualia exist?" In other words, what accounts for the unique sensation of color
+that people experience upon viewing the same night sky? This problem stands
+in contrast to easy problems, which can be explained via mechanisms.
+
+### 03.07.16
+The supremum is the least upper bound. Maybe if I type this down I'll actually
+remember it.
+
 ### 03.06.16
 A zine containing Wikipedia lists (and lists of lists, and lists of lists
 of lists, etc.) informed me of Sweden's Donald Duck Party - a joke party that

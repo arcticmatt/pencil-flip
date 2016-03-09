@@ -6,6 +6,16 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.08.16   
+funnels go in tray  
+drawer in dismal order  
+leave a place no worse  
+
+### 03.07.16   
+on a cold night the  
+clock's silent ticks warn me of  
+a looming pressure  
+
 ### 03.06.16   
 dyed hair is the new   
 breadcrumb, leading normal and   
