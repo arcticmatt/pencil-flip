@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.09.16   
+bubbly beverage   
+a tiddly girl shines brightly  
+red means you should stop?  
+
 ### 03.08.16   
 funnels go in tray  
 drawer in dismal order  

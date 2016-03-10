@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.09.16
+AlphaGo (AI developed by Google's DeepMind team) beat the legendary Go player
+Lee Se-dol, a seemingly big step forward for the field. Compare this to 
+Facebook's [darkforest](https://en.wikipedia.org/wiki/Darkforest)...
+
 ### 03.08.16
 The hard problem of consciousness can be phrased in the following way: "why do
 qualia exist?" In other words, what accounts for the unique sensation of color
