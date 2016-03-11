@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.10.16   
+the colossal looms  
+at daybreak, omnipresent  
+and overbearing  
+
 ### 03.09.16   
 bubbly beverage   
 a tiddly girl shines brightly  
