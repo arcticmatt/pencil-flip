@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.11.16   
+a table of friends  
+conversation flies like stale  
+arrows into wood  
+
 ### 03.10.16   
 the colossal looms  
 at daybreak, omnipresent  

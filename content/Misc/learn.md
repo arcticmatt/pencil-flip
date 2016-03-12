@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.11.16
+"Google recommends LuminPDF as its third-party provider for seamless PDF editing."
+Basically, you can open PDFs stored in Google Drive in the LuminPDF app, and then
+mark them up (highlight, underline, strikethrough, insert text, etc.). I couldn't
+actually figure out how to save the edited PDF back to drive, but I'm sure it's
+possible.
+
 ### 03.10.16
 In C, a static variable inside a function is locally scoped, but is changed on 
 a "global" level. For example, say we have the function

@@ -124,6 +124,28 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. </p>
+<h3>03.10.16</h3>
+<p>In C, a static variable inside a function is locally scoped, but is changed on 
+a "global" level. For example, say we have the function</p>
+<div class="highlight"><pre>void foo(void) {
+    static int x = 0;
+    x++;
+    printf(&quot;x = %d\n&quot;, x);
+}
+
+int main(void) {
+    foo(); // prints &#39;x = 1&#39;
+    foo(); // prints &#39;x = 2&#39;
+    foo(); // prints &#39;x = 3&#39;
+    foo(); // prints &#39;x = 4&#39;
+    foo(); // prints &#39;x = 5&#39;        
+}
+</pre></div>
+
+
+<p>This is neat. Note that static variables aren't stored on the stack or heap, 
+but instead are kept somewhere on the data segment or BSS segment (depending 
+whether the data is initialized).</p>
 <h3>03.09.16</h3>
 <p>AlphaGo (AI developed by Google's DeepMind team) beat the legendary Go player
 Lee Se-dol, a seemingly big step forward for the field. Compare this to 
