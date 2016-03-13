@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.12.16
+The income tax was first thought of in 1812 (war with England), adopted in 
+1861 (Civil War), adopted again in 1894 (Wilson-Gorman Tariff Act), and finalized
+with the 16th amendment.
+
 ### 03.11.16
 "Google recommends LuminPDF as its third-party provider for seamless PDF editing."
 Basically, you can open PDFs stored in Google Drive in the LuminPDF app, and then

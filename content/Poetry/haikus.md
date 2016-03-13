@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.12.16   
+decompress into  
+thin air. elation is a   
+temporary fling   
+
 ### 03.11.16   
 a table of friends  
 conversation flies like stale  
