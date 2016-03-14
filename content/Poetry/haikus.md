@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.13.16   
+scaling great mountains
+hiking precipitous trails
+writing parsing code
+
 ### 03.12.16   
 decompress into  
 thin air. elation is a   
