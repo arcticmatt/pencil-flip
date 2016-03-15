@@ -6,10 +6,15 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.14.16  
+eyes meet, exhibit  
+no recogition of that   
+fact and look away  
+
 ### 03.13.16   
-scaling great mountains
-hiking precipitous trails
-writing parsing code
+scaling great mountains  
+hiking precipitous trails  
+writing parsing code  
 
 ### 03.12.16   
 decompress into  

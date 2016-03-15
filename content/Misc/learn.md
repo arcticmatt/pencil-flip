@@ -9,10 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.14.16
+Steph Curry's birthday is Pi day. Steph Curry's birthday is today. Today is
+Pi day. Sadly, I ate no pie.
+
 ### 03.13.16
 Was busy spending quality time with Pintos today so I kind of cheated and just
 found this while browsing the front page of Reddit: 
-[There are more doughnut shops per capita in Canada than anywhere else on the planet] (http://www.cbc.ca/archives/entry/the-doughnut-unofficial-national-sugary-snack).
+[There are more doughnut shops per capita in Canada than anywhere else on the planet](http://www.cbc.ca/archives/entry/the-doughnut-unofficial-national-sugary-snack).
 
 ### 03.12.16
 The income tax was first thought of in 1812 (war with England), adopted in 
