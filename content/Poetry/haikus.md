@@ -8,7 +8,7 @@ Summary:
 
 ### 03.14.16  
 eyes meet, exhibit  
-no recogition of that   
+no recognition of that   
 fact and look away  
 
 ### 03.13.16   
