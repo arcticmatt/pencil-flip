@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.16.16
+Amsterdam is known for its tulips, amongst other things.
+
 ### 03.14.16
 Steph Curry's birthday is Pi day. Steph Curry's birthday is today. Today is
 Pi day. Sadly, I ate no pie.

@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.16.16   
+driving to a where  
+talking, thinking, and going  
+to a place that's there  
+
 ### 03.14.16  
 eyes meet, exhibit  
 no recognition of that   
