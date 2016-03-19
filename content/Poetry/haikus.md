@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.18.16    
+spread bacteria  
+kiss some babies, eat mud pies  
+eat the dirty food  
+
 ### 03.16.16   
 driving to a where  
 talking, thinking, and going  
