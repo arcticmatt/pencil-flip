@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.19.16    
+unbeknownst, arctic  
+may sound like hard prick, amongst  
+other variants  
+
 ### 03.18.16    
 spread bacteria  
 kiss some babies, eat mud pies  

@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.19.16
+According to the "Zinester's Guide to Portland (5th Ed.)" and Wikipedia, 
+Powell's City of Books is the largest independent bookstore in the world.
+They sure do have a lot of Sylvia Plath books.
+
 ### 03.18.16
 The FDA "alcohol line" stands at 0.5%. That is, any beverage whose alcoholic
 contents exceed that percentage are marked as booze.
