@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.20.16    
+an artist's signing  
+but lacking items past bought  
+or the funds required  
+
 ### 03.19.16    
 unbeknownst, arctic  
 may sound like hard prick, amongst  

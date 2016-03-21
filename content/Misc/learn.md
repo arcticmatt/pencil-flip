@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.20.16
+Portlanders sometimes refer to Portland (usually in text) as pdx. This abbreviation
+also refers to Portland's airport. It's analagous to calling Los Angeles lax, or 
+San Francisco sfo. I saw this used in various books, zines, and bumper stickers,
+and confirmed its usage with my airbnb host, Heidi.
+
 ### 03.19.16
 According to the "Zinester's Guide to Portland (5th Ed.)" and Wikipedia, 
 Powell's City of Books is the largest independent bookstore in the world.
