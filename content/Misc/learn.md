@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.21.16
+The Space Needle is 605 feet, or about 185 meters. Creepy game: pick a person
+and follow them (with your eyes) for as long as you can. Weird observation: 
+someone might be watching you at this very moment...
+
 ### 03.20.16
 Portlanders sometimes refer to Portland (usually in text) as pdx. This abbreviation
 also refers to Portland's airport. It's analagous to calling Los Angeles lax, or 

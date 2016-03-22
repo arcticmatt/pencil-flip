@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.21.16  
+rain rain go away  
+to another place and time  
+i'll just go inside  
+
 ### 03.20.16    
 an artist's signing  
 but lacking items past bought  
