@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.22.16  
+punk sound in jam room   
+make noise and play loud and shout  
+and hope its soundproof  
+
 ### 03.21.16  
 rain rain go away  
 to another place and time  
