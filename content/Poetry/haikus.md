@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.23.16   
+large spheres scattered, art  
+we call them big balls for the  
+anti-monument  
+
 ### 03.22.16  
 punk sound in jam room   
 make noise and play loud and shout  
