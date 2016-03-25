@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.24.16
+Merino is a type of sheep that was probably first bred in North Africa, and
+whose wool is nice and soft. Hence, "merino wool."
+
 ### 03.23.16
 The speedometers in cars have km/h as well as mph. Useful to avoid constantly
 multiplying numbers by .62. I feel like this is something I have known, but not 

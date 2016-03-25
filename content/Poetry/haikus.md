@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.24.16   
+chairs lift while i stand  
+in most uncomfortable  
+ambiguity  
+
 ### 03.23.16   
 large spheres scattered, art  
 we call them big balls for the  
