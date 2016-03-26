@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.25.16
+DFW mentions (in a short story) that the average American household watches
+6 hours of television a day. Not sure where he got that stat, but the current
+per-person number seems to be closer to 2 hours and 50 minutes. See
+[http://www.wsj.com/articles/were-working-more-hoursand-watching-more-tv-1435187603](http://www.wsj.com/articles/were-working-more-hoursand-watching-more-tv-1435187603)
+for more info.
+
 ### 03.24.16
 Merino is a type of sheep that was probably first bred in North Africa, and
 whose wool is nice and soft. Hence, "merino wool."

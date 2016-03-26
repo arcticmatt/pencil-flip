@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.25.16   
+suspended above  
+we intermingle and smile  
+and gape at the void  
+
 ### 03.24.16   
 chairs lift while i stand  
 in most uncomfortable  
