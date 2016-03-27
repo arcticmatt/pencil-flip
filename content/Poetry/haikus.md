@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.26.16  
+if you live in a  
+car you can pee in a jar,  
+eat sugar and carbs  
+
 ### 03.25.16   
 suspended above  
 we intermingle and smile  

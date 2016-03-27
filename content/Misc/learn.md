@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.26.16
+Freud wrote a bunch of stuff about dreams (see *The Interpretation of Dreams*,
+*On Dreams*). This work was focused towards helping his patients. That is,
+his goal was to use dream analysis to uncover repressed thoughts in his patients,
+which he supposed would help them out (emotionally, I guess). Although some
+people view his work through a philsophical lens, to him the matter was mainly
+clinical.
+
 ### 03.25.16
 DFW mentions (in a short story) that the average American household watches
 6 hours of television a day. Not sure where he got that stat, but the current
