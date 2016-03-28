@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.27.16
+In-N-Out closes on Easter Sunday. At least, the Kettleman one does.
+
 ### 03.26.16
 Freud wrote a bunch of stuff about dreams (see *The Interpretation of Dreams*,
 *On Dreams*). This work was focused towards helping his patients. That is,

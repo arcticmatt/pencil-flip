@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.27.16  
+in n out is closed  
+hunt for eggs and praise the lord  
+and eat mcdonalds  
+
 ### 03.26.16  
 if you live in a  
 car you can pee in a jar,  
