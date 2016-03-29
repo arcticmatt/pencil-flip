@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.28.16   
+'twas the last night for   
+totem and in a dim room  
+lone keyboard click clacked  
+
 ### 03.27.16  
 in n out is closed  
 hunt for eggs and praise the lord  
