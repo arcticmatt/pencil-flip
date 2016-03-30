@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.29.16
+The etymology of "poem" traces back to the Greek word "poema" which can
+be literally translated as "thing made or created".
+
 ### 03.28.16
 Facebook uses Haskell for spam filtering, according to Mr. Mike Vanier.
 
