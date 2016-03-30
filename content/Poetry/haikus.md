@@ -7,9 +7,9 @@ Authors: arctictern
 Summary: 
 
 ### 03.29.16   
-bio is the best
-the professor shouts loudly
-to rows of deaf ears
+bio is the best  
+the professor shouts loudly  
+to rows of deaf ears  
 
 ### 03.28.16   
 'twas the last night for   
