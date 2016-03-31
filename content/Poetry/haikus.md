@@ -1,14 +1,14 @@
 Title: Life in Haiku
 Date: 2015-12-03 13:00
 Category: Poetry
-Tags: haiku
+Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
 ### 03.30.16   
 stuck in slow decay  
-towards higher tuitions,
+towards higher tuitions,  
 all-meat sandwiches  
 
 ### 03.29.16   
