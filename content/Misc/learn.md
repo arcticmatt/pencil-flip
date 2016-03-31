@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.30.16
+The max number of photos a single Facebook album can contain is 1000. Still
+quite nice that, in general, Facebook can endlessly consume any amount of photos 
+you throw at it.
+
 ### 03.29.16
 The etymology of "poem" traces back to the Greek word "poema" which can
 be literally translated as "thing made or created".
