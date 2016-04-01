@@ -35,7 +35,7 @@ i must be on my way
 so a visit in short  
 becomes simple in nature  
 browse for notable titles  
-skim    buy for later  
+skim &nbsp; &nbsp; &nbsp; &nbsp; buy for later  
 in this way a bookshelf  
 becomes frightening and tall  
 when the books yet unread  
