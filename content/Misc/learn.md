@@ -9,6 +9,26 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 03.31.16
+Copying a large portions of these words from my friend Katherine because
+I am lazy, ...
+There are two major ways of looking at the meaning of words. The first 
+is the referentialist method, and the second is the internalist. According 
+to referentialists, words directly reference real objects. For 
+example, if someone is talking about a desk, a referentialist would say 
+they are "referencing" an actual desk in real life. On the other hand, 
+according to internalists, words refer to internal concepts. With this
+interpretation, the concept of a desk may vary between different people.
+
+Referentialists run into a problem when talking about fantastical characters
+like Santa Claus. The sentence "Santa Claus treats his reindeers rather 
+poorly" makes sense, but from a referentialist standpoint, Santa Claus
+should be referring to an actual, existing thing. In order to fix this
+problem, referentialists say that Santa Claus does exist, but as an
+abstract object (as opposed to a concrete one).
+
+And so on...
+
 ### 03.30.16
 The max number of photos a single Facebook album can contain is 1000. Still
 quite nice that, in general, Facebook can endlessly consume any amount of photos 

@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 03.31.16   
+advice through one ear  
+while you stand there and swallow  
+these most bitter sounds  
+
 ### 03.30.16   
 stuck in slow decay  
 towards higher tuitions,  
