@@ -7,10 +7,24 @@ Authors: arctictern
 Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
-of my everyday life, through all its ups and downs and dull mundanities. 
+of my evearyday life, through all its ups and downs and dull mundanities. 
+
+### 04.01.16  
+FILD, which stands for Finger Induced Lucid Dreaming, is a technique that utilizes
+finger movement in an attempt to induce lucid dreams. The overall idea is 
+as follows. Go to sleep. Wake up ~6hrs later (should probably be in the 
+middle of REM?). As you're going back to sleep, which should be very easy,
+perform an up-down motion with the index and middle fingers of one hand. That
+is, alternatively press the index finger down (with the middle finger up), and 
+then the middle finger down (lifting the index finger up), mimicking the motion
+used to repeatedly play two notes on a piano. Do this motion lightly, and focus
+on it while going to sleep. The author of the thread says to perform a reality
+check ~20 seconds after starting the finger movements; specifically, to pinch
+the nose and try breathing in. I haven't yet tried this for fear of suffocating
+but perhaps it is effective.
 
 ### 03.31.16
-Copying a large portions of these words from my friend Katherine because
+Copying large portions of these words from my friend Katherine because
 I am lazy, ...
 There are two major ways of looking at the meaning of words. The first 
 is the referentialist method, and the second is the internalist. According 

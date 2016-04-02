@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.01.16  
+lucid existence  
+pursue control on both sides  
+in rough trades of time   
+
 ### 03.31.16   
 advice through one ear  
 while you stand there and swallow  
