@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my evearyday life, through all its ups and downs and dull mundanities. 
 
+### 04.02.16  
+Philip K. Dick thinks we're all [living in 50 A.D.](https://overdoneit.wordpress.com/2013/10/10/philip-k-dick-living-in-50-a-d/).
+
 ### 04.01.16  
 FILD, which stands for Finger Induced Lucid Dreaming, is a technique that utilizes
 finger movement in an attempt to induce lucid dreams. The overall idea is 

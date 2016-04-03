@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.02.16   
+eat super spicy  
+tacos and mouth burns, on fire,  
+and you feel alive  
+
 ### 04.01.16  
 lucid existence  
 pursue control on both sides  
