@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.03.16   
+unknown grandeur at  
+which to marvel and explore  
+find the smaller things  
+
 ### 04.02.16   
 eat super spicy  
 tacos and mouth burns, on fire,  
