@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.04.16   
+secret disco ball   
+hangs from the rafters and shines   
+upon so much love   
+
 ### 04.03.16   
 unknown grandeur at  
 which to marvel and explore  

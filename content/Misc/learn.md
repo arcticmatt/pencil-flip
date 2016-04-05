@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my evearyday life, through all its ups and downs and dull mundanities. 
 
+### 04.04.16  
+Concert tickets have the open-door time; the venue's Twitter has the set times
+(usually). 
+
 ### 04.03.16  
 LP = long playing, EP = extended play (extended relative to a single).
 
