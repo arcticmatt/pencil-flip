@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.05.16   
+hi, good, how are you  
+chicken margerita please   
+to-go, side of fruit  
+
 ### 04.04.16   
 secret disco ball   
 hangs from the rafters and shines   
