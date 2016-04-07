@@ -9,6 +9,21 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my evearyday life, through all its ups and downs and dull mundanities. 
 
+### 04.06.16  
+I'm tired and it's late, so let's just copy & paste some cool stuff that I found
+today.
+
+> An aphorism (from Greek ἀφορισμός aphorismos, "delimitation") is a terse saying, 
+> expressing a general truth, principle, or astute observation, and spoken or 
+> written in a laconic and memorable form
+
+and...
+>The Cornell box is a test aimed at determining the accuracy of rendering software 
+> by comparing the rendered scene with an actual photograph of the same scene, 
+> and has become a commonly used 3D test model.
+
+For more information, I refer you to Google.
+
 ### 04.05.16  
 According to Alfred Hershey (of the Hershey-Chase experiments) heaven is:
 "To find one really good experiment and keep doing it over and over."

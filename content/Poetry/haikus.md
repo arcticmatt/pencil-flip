@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.06.16   
+tell me of the most  
+boring generalities  
+and inane details  
+
 ### 04.05.16   
 hi, good, how are you  
 chicken margerita please   
