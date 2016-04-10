@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.09.16   
+spitting ire clouds on  
+fire her book's for free i'll take  
+one please need kindling  
+
 ### 04.06.16   
 tell me of the most  
 boring generalities  

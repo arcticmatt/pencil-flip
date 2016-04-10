@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my evearyday life, through all its ups and downs and dull mundanities. 
 
+### 04.09.16  
+There's this drink called *bai*. It's 5 calories, got antioxidants, and 
+tastes pretty good. It's sweetened with stevia, which has some
+interesting history behind it (banned at one point for being carcinogenic, used
+as a sweetener by the Incan civilization, etc). I recommend the mango. 
+The carbonated ones aren't as good.
+
 ### 04.06.16  
 I'm tired and it's late, so let's just copy & paste some cool stuff that I found
 today.
