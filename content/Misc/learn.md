@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my evearyday life, through all its ups and downs and dull mundanities. 
 
+### 04.10.16  
+Pandan cake is a spongy green cake. It's spongy in texture (also kinda moist
+and chewy, it's nice) and also kinda looks like a green sponge. It's of Indonesian
+and Malaysian origins, and is flavoured with the juice of Pandanus amaryllifolius 
+leaves.
+
 ### 04.09.16  
 There's this drink called *bai*. It's 5 calories, got antioxidants, and 
 tastes pretty good. It's sweetened with stevia, which has some

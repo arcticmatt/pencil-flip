@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.10.16   
+records are meant to  
+be broken and ties are meant  
+to be left hanging  
+
 ### 04.09.16   
 spitting ire clouds on  
 fire her book's for free i'll take  
