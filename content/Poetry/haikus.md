@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.11.16   
+same alarm same sounds  
+we slow dance to old rhythms  
+snooze to rest tired eyes  
+
 ### 04.10.16   
 records are meant to  
 be broken and ties are meant  
