@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my evearyday life, through all its ups and downs and dull mundanities. 
 
+### 04.12.16  
+Another lazy day, another definition. 
+>ampipathic - adj. - hydrophilic + hydrophobic (molecule)
+My professor's first stab at pronouncing this: ampifapic.
+
 ### 04.11.16  
 >cutaneous - adj. - of, relating to, or affecting the skin.
 

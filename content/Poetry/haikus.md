@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.12.16   
+at first i am fair  
+power corrupts and i screw   
+you over, sorry  
+
 ### 04.11.16   
 same alarm same sounds  
 we slow dance to old rhythms  
