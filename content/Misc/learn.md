@@ -12,6 +12,7 @@ of my evearyday life, through all its ups and downs and dull mundanities.
 ### 04.12.16  
 Another lazy day, another definition. 
 >ampipathic - adj. - hydrophilic + hydrophobic (molecule)
+
 My professor's first stab at pronouncing this: ampifapic.
 
 ### 04.11.16  
