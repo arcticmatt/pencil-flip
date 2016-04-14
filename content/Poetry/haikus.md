@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.13.16   
+on mamba day we    
+witness basketball greatness    
+history is made  
+
 ### 04.12.16   
 at first i am fair  
 power corrupts and i screw   

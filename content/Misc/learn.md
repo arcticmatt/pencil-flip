@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my evearyday life, through all its ups and downs and dull mundanities. 
 
+### 04.13.16  
+Heard this from Jim Barnett while watching the Warriors win their 73rd regular 
+season game today. One of the Bull's 10 losses in their 72 win season came
+against the Charlotte Hornets, the team for which Dell Curry played. That game
+came down to the wire - specifically, Charlotte hit 2 free throws at the very
+end to win the game. Those free throws were sunk by none other than Dell Curry.
+In other words, Dell Curry gave Steph the chance to set this record!
+
 ### 04.12.16  
 Another lazy day, another definition. 
 >ampipathic - adj. - hydrophilic + hydrophobic (molecule)
