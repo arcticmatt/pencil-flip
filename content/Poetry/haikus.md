@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.14.16   
+we red for pleasure   
+we read to learn need to sleep    
+same sentence five times   
+
 ### 04.13.16   
 on mamba day we    
 witness basketball greatness    
