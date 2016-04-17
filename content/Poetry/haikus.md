@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.16.16   
+same day everyday   
+just like victor's spotify  
+we go on repeat  
+
 ### 04.14.16   
 we red for pleasure   
 we read to learn need to sleep    

@@ -7,7 +7,12 @@ Authors: arctictern
 Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
-of my evearyday life, through all its ups and downs and dull mundanities. 
+of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 04.16.16  
+Today is Record Store Day (RSD), a day where record stores stock exclusive
+releases (chavurches remixes on vinyl, for example) and possibly have 
+live performances and/or signings.
 
 ### 04.14.16  
 There's this really cool word,
