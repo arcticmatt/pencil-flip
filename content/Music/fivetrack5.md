@@ -22,9 +22,9 @@ in combination with the piano/synth/beautiful-noises/etc. are evocative and
 lovely and slightly sad.
 
 #### 3. Don't Watch Me Dancing - Little Joy
-This song does an awkward dance in my head. People dancing can be 
-funny/beautiful/awkward/dramatic/breathtakign. This song is a bit of each of those
-things. Maybe not that breathtaking.
+It does an awkward dance in your head. People dancing can be 
+funny/beautiful/awkward/dramatic/breathtaking: this song, too. Maybe not that 
+breathtaking.
 
 #### 4. Waiting - Alice Boman
 One of those really simple songs, lyrically speaking, that conveys a simple idea
