@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 04.17.16  
+Two-for-one. [First](http://www.nytimes.com/2016/04/17/magazine/letter-of-recommendation-squirrels.html?rref=collection%2Fcolumn%2Fletter-of-recommendation&action=click&contentCollection=magazine&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection): 
+a collective of squirrels is a *scurry*. [Second](http://www.nytimes.com/2016/04/03/magazine/letter-of-recommendation-segmented-sleep.html?rref=collection%2Fcolumn%2Fletter-of-recommendation&action=click&contentCollection=magazine&region=stream&module=stream_unit&version=latest&contentPlacement=3&pgtype=collection):
+in the days when segmented sleep was common (sleep, wake up and do stuff, sleep 
+again) the in-between period of wakefulness was called *dorveille* by the
+French. This roughly translates to "wakesleep". The English called this patch
+of time "the watch."
+
 ### 04.16.16  
 Today is Record Store Day (RSD), a day where record stores stock exclusive
 releases (chavurches remixes on vinyl, for example) and possibly have 

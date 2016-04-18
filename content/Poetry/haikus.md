@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.17.16   
+if it's free it's me  
+today we'll settle for clean  
+and book everything  
+
 ### 04.16.16   
 same day everyday   
 just like victor's spotify  
