@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.18.16    
+if life looked like stock  
+photography my chow mein  
+would be much better  
+
 ### 04.17.16   
 if it's free it's me  
 today we'll settle for clean  
