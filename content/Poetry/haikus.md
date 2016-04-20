@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.19.16    
+a poem read once  
+please read it again unless  
+time has truly shrunk  
+
 ### 04.18.16    
 if life looked like stock  
 photography my chow mein  

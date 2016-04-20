@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 04.19.16  
+"Brutalist" is a type of architecture. That is, Brutalist architecture 
+is characterized by its "ruggedness and lack of concern to look comfortable
+or easy" (Wikipedia).
+
 ### 04.18.16  
 To pasteurize something (milk, cheese, some other food) is simply to expose 
 said something to high temperatures for enough time to kill harmful microorganisms
