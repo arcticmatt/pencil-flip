@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 04.20.16  
+The origin of nuclear transfer... cloning... Briggs and King... sleep.
+
 ### 04.19.16  
 "Brutalist" is a type of architecture. That is, Brutalist architecture 
 is characterized by its "ruggedness and lack of concern to look comfortable
