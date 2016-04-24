@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.23.16   
+you know that sometimes   
+i can be romantic but   
+sometimes is not now   
+
 ### 04.20.16    
 subtle loose leaf tea  
 gets multiple brewings so    

@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 04.23.16  
+Ska stum: mute down, unmute up. Let's word that differently (better? maybe): 
+mute the downstroke, play the upstroke.
+
 ### 04.20.16  
 The origin of nuclear transfer... cloning... Briggs and King... sleep.
 
