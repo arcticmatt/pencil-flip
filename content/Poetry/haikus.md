@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.24.16   
+please wipe the floor boy   
+you only have one job boy   
+maybe it's just luck   
+
 ### 04.23.16   
 you know that sometimes   
 i can be romantic but   
