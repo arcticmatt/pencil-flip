@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 04.26.16  
+To overexpress a gene (have more of the corresponding protein be made), we 
+can put in plasmids with a bunch of that gene (and its promoter), or 
+modify the promoter to make it "stronger."
+
 ### 04.24.16  
 `history` to see list of past bash commands, `!x` to execute command past 
 command `x`. 

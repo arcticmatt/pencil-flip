@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.26.16   
+really annoying   
+dude being his annoying  
+self please be quiet  
+
 ### 04.24.16   
 please wipe the floor boy   
 you only have one job boy   
