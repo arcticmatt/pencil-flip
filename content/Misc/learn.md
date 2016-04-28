@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 04.27.16  
+I had previously thought Grimes studied neuroscience in McGill before dropping 
+out. It appears that she was actually in an Electroacoustics program, where 
+she studied how the brain interacts with music. In her words, this gave 
+her a "basic understanding of engineering." Here's the 
+[source](http://www.npr.org/2016/04/27/455769676/feeling-this-a-conversation-with-grimes).
+
 ### 04.26.16  
 To overexpress a gene (have more of the corresponding protein be made), we 
 can put in plasmids with a bunch of that gene (and its promoter), or 

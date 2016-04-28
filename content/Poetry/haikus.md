@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.27.16    
+it's the same routine  
+we study to remember   
+and live to forget   
+
 ### 04.26.16   
 really annoying   
 dude being his annoying  
