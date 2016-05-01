@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 04.30.16    
+i am really tired  
+but not yet too tired to write  
+words come out like blah  
+
 ### 04.27.16    
 it's the same routine  
 we study to remember   

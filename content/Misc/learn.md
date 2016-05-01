@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 04.30.16  
+The stable marriage problem is interesting. It should only take `O(n^2)` time 
+for everyone to get engaged. I can always fall back on the scaling factor as 
+an excuse. 
+
 ### 04.27.16  
 I had previously thought Grimes studied neuroscience in McGill before dropping 
 out. It appears that she was actually in an Electroacoustics program, where 
