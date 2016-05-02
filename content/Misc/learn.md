@@ -9,6 +9,20 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.01.16  
+Anne Sexton was a confessional poet, a bit like Sylvia Plath both as a 
+person (perhaps a generalization, but note that they bonded over their shared
+madness) and as a poet. Similarly to Plath, Anne battled depression and committed 
+suicide at an early age. There was a part of her that always wanted more: more 
+awards and accolades and affirmation. For a short period of her life, she 
+performed in her very own band called Anne Sexton & Her Kind. They experimented
+with a variety of musical styles - bebop and jazz and country and folk - with
+Anne Sexton providing the vocals. None of the songs are sung. Instead, they're 
+rhythmically read, in a way that differs from what one would expect from a 
+typical poetry reading. If you do want to hear Anne sing, her voice is 
+barely audible in the chorus of this [old live recording](https://www.youtube.com/watch?v=o_gCY1qhUoE). 
+Check out this [great piece](http://harpers.org/blog/2014/10/a-band-of-her-own/) for more info on Anne's band.
+
 ### 04.30.16  
 The stable marriage problem is interesting. It should only take `O(n^2)` time 
 for everyone to get engaged. I can always fall back on the scaling factor as 

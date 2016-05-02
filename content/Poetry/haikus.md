@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.01.16    
+translate your mind in  
+a functional way while thoughts  
+of for-loops still stray   
+
 ### 04.30.16    
 i am really tired  
 but not yet too tired to write  
