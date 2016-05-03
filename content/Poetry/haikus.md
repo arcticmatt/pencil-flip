@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.02.16     
+a superpower  
+see a document and say  
+margins are point 9  
+
 ### 05.01.16    
 translate your mind in  
 a functional way while thoughts  

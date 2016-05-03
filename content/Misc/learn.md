@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.02.16  
+Sylvia Plath sounds like an 80 year old english lady. It's a bit scary. 
+Most dreams happen in REM sleep. Ice cream places in Pasadena close at 10pm.
+
 ### 05.01.16  
 Anne Sexton was a confessional poet, a bit like Sylvia Plath both as a 
 person (perhaps a generalization, but note that they bonded over their shared
