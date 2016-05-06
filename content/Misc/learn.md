@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.05.16  
+>senescence - noun. - the condition or process of deterioration with age.
+
 ### 05.04.16  
 Sylvia Plath's family nickname (she signed her letters home with it) was 
 Sivvy.
