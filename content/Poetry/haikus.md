@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.07.16      
+go to chinese food   
+mechanically skilled we   
+can forgoe the forks  
+
 ### 05.06.16      
 if a tree falls and   
 no one hears it does it still  

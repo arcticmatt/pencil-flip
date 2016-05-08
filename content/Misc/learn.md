@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.07.16  
+Reddit used to be called snew.com ("what's new?"). The changed the name 
+to reddit.com because (for some reason) they couldn't keep that name. Reddit's 
+logo, the alien, is named Snoo, a designation of symbolic rememberance.
+
 ### 05.06.16  
 >If they survive the summer melt they are referred to as firn, German ‘of last year’. Firn are the building blocks of glaciers...
 
