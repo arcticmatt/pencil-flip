@@ -6,8 +6,10 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
-### 05.06.16     
-
+### 05.06.16      
+if a tree falls and   
+no one hears it does it still  
+manage to annoy  
 
 ### 05.05.16     
 sit and read and talk  
