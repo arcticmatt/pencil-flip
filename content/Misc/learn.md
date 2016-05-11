@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.10.16  
+Steph Curry is the NBA's first unanimous league MVP. Go dubs.
+
 ### 05.07.16  
 Reddit used to be called snew.com ("what's new?"). The changed the name 
 to reddit.com because (for some reason) they couldn't keep that name. Reddit's 

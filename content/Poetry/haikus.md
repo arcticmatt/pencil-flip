@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.10.16      
+i hit the wall and   
+it didn't budge i climbed it  
+but fell to the ground   
+
 ### 05.07.16      
 go to chinese food   
 mechanically skilled we   
