@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.12.16  
+When you die your muscles spontaneously relax and you pee and poop. 
+>I did not think of my body at needle point.  
+>Even the cornea and the leftover urine were gone.  
+>Suicides have already betrayed the body.
+
+\- Anne Sexton, "Wanting to Die".
+
 ### 05.10.16  
 Steph Curry is the NBA's first unanimous league MVP. Go dubs.
 

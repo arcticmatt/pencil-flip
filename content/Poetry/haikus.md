@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.12.16      
+i wrote something. what,   
+i cannot tell. my words are    
+leaves on which you trod.  
+
 ### 05.10.16      
 i hit the wall and   
 it didn't budge i climbed it  
