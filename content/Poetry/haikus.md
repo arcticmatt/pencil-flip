@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.13.16      
+if you can get ten  
+brews then it is of utmost  
+importance to try  
+
 ### 05.12.16      
 i wrote something. what,   
 i cannot tell. my words are    
