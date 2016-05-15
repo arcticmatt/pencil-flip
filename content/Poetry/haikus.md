@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.14.16      
+the light makes your plaid  
+shirt mutate from green & red   
+to purple and blue  
+
 ### 05.13.16      
 if you can get ten  
 brews then it is of utmost  

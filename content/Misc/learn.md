@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.14.16  
+copywriter : n : a person who writes the text of advertisements or publicity 
+material.
+
+Lil Dicky was a copywriter before becoming a professional rapper.
+
 ### 05.13.16  
 I present to you mindblowing anecdotes about twins. 
 >One pair of twins both suffered crippling migraines, owned dogs that they had named Toy, married women named Linda, and had sons named James Allan (although one spelled the middle name with a single “l”). Another pair—one brought up Jewish, in Trinidad, and the other Catholic, in Nazi Germany, where he joined the Hitler Youth—wore blue shirts with epaulets and four pockets, and shared peculiar obsessive behaviors, such as flushing the toilet before using it. Both had invented fake sneezes to diffuse tense moments. Two sisters—separated long before the development of language—had invented the same word to describe the way they scrunched up their noses: “squidging.” Another pair confessed that they had been haunted by nightmares of being suffocated by various metallic objects—doorknobs, fishhooks, and the like.
