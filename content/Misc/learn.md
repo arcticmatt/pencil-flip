@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.16.16  
+Symbolism is a literary movement/current, as well as that thing in books where
+something stands for something else (that light in Gatsby). There are also 
+a lot of other literary movements.
+
 ### 05.14.16  
 copywriter : n : a person who writes the text of advertisements or publicity 
 material.

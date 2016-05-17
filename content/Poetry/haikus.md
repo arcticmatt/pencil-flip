@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.16.16      
+i made some tacos  
+basically jut put stuff  
+in a pan and heat  
+
 ### 05.14.16      
 the light makes your plaid  
 shirt mutate from green & red   
