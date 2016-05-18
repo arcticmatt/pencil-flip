@@ -9,6 +9,21 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.17.16  
+John Cage's Roaratorio. An amalgamation of sounds and voice. More specifically,:  
+
+* Take every sound/location from Finnegan's Wake.  
+
+* Record every sound at its noted location. 
+ 
+* Lay the sounds out in sequence.  
+
+* Read passages of the book over them (some type of acrostic, still unclear
+about this).
+
+Brought to my attention by Ciaran Carson.
+
+
 ### 05.16.16  
 Symbolism is a literary movement/current, as well as that thing in books where
 something stands for something else (that light in Gatsby). There are also 

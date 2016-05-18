@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.17.16      
+realize that i am   
+butchering the poetic   
+form and continue  
+
 ### 05.16.16      
 i made some tacos  
 basically jut put stuff  
