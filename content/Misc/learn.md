@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.18.16  
+An exotic option has pricing features more complicated than typical
+vanilla options (e.g. European options, American options). For example,
+Asian options are *exotic*. Ooh.
+
 ### 05.17.16  
 John Cage's Roaratorio. An amalgamation of sounds and voice. More specifically,:  
 

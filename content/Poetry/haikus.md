@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.18.16      
+memorize a verse  
+and spit it on radio  
+call it a freestyle  
+
 ### 05.17.16      
 realize that i am   
 butchering the poetic   
