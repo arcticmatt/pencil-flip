@@ -9,6 +9,22 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 05.23.16  
+Traditionally, haikus contain:
+
+* Some aspect of "cutting" (juxtaposition of two ideas).
+
+* 17 on. An on is kinda like the Japanese version of a syllable, but 
+a bit different. For example, haibun contains 4 on: the elongated vowel gets
+two and the "n" at the end of a syllable gets another. 
+
+* Some involvement of nature.
+
+Typically, Americans butcher all or most of these properties. I guess we've 
+adopted our own kind of haiku, where we talk about random crap and our lives
+and stuff (you're also not supposed to use "I" in haikus, but that's also
+gone out the window).
+
 ### 05.18.16  
 An exotic option has pricing features more complicated than typical
 vanilla options (e.g. European options, American options). For example,

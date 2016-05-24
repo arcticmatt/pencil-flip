@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.23.16      
+flute for loot to boot   
+toot the shoot to make a hoot  
+trees die everyday  
+
 ### 05.18.16      
 memorize a verse  
 and spit it on radio  
