@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 05.25.16      
+made a rap song yo   
+it kinda sucks a lot yo   
+rethink my grand flow  
+
 ### 05.23.16      
 flute for loot to boot   
 toot the shoot to make a hoot  
