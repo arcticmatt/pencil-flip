@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 06.02.16
+metaphorical  
+toast upon which jam is   
+spread thin still eat it  
+
 ### 05.25.16      
 made a rap song yo   
 it kinda sucks a lot yo   

@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 06.02.16
+"Ut pictura poesis", a Latin phrase, translates literally to 
+"as is painting so is poetry." It occurs most famously in Horaces *Ars Poetica*,
+where he talks about how poetry should be interpreted just as carefully as 
+painting.
+
 ### 05.25.16  
 12 + 1 = 11 + 2
 
