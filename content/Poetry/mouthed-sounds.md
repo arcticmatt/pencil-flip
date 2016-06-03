@@ -6,7 +6,7 @@ Slug: mouthed-sounds
 Authors: arctictern
 Summary: 
 
-<span style="font-family:Courier New; font-size: 90%">
+<span style="font-family:Courier New; font-size: 85%">
 **mouthed sounds**  
 language is useless  
 so many times i have turned and  
