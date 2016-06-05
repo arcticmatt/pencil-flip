@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 06.04.16  
+woops apparently  
+the sun is out judging by  
+the less dark curtains   
+
 ### 06.02.16
 metaphorical  
 toast upon which jam is   
