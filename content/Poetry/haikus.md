@@ -6,6 +6,16 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 06.07.16   
+all the grass is dead  
+sun is up and your friend said   
+we could sit instead   
+
+### 06.06.16  
+small things big boxes  
+the stronger you are the less  
+awkward your carry  
+
 ### 06.04.16  
 woops apparently  
 the sun is out judging by  
