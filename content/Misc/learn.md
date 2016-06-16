@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 06.15.16
+PHP is server side.
+
 ### 06.07.16
 In artic wolf packs, alpha males and females have a shared distinct feature
 of raising one hind leg when they urinate. This "raised-leg urination" bonds

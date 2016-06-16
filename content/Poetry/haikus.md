@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 06.15.16   
+i work at facebook  
+that means i don't have to cook  
+still haven't seen zuck  
+
 ### 06.07.16   
 all the grass is dead  
 sun is up and your friend said   
