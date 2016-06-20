@@ -1,6 +1,6 @@
 Title: Observations on Sylvia Plath 
 Date: 2015-12-18 16:05 
-Category: Literature
+Category: Writing & Literature
 Tags: plath, literature, books 
 Slug: plath-observations 
 Authors: arctictern

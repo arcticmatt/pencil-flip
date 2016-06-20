@@ -1,6 +1,6 @@
 Title: Sylvia Plath's Reading List
 Date: 2015-12-18 00:18
-Category: Literature
+Category: Writing & Literature
 Tags: plath, literature, books
 Slug: plath-reading-list
 Authors: arctictern
