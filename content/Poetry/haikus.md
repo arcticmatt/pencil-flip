@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 06.21.16   
+work confidential  
+zero tolerance buzzword  
+i went bouldering  
+
 ### 06.15.16   
 i work at facebook  
 that means i don't have to cook  

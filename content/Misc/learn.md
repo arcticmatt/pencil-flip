@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 06.21.16
+*La petite mort*, literally translated as "the little death," is an expression
+originally associated with the meaning of "fainting fit." Over time, it has 
+taken on a sexual meaning, referring to "the brief loss or weakening of consciousness"
+post orgasm. Basically, it's a way of describing the transcendent or melancholy
+state one may feel after sex.
+
 ### 06.15.16
 PHP is server side.
 
