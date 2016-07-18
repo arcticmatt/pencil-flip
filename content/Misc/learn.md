@@ -9,6 +9,16 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 07.17.16
+There's this music game series called Pop'n Music. The many iterations  
+can be played on various consoles and in arcades. The characters are quite 
+aesthetic, and there are **a lot** to choose from. In pop'n music 14 FEVER!,
+there's a song called [FEVER HERO ED](https://www.youtube.com/watch?v=h8A_s_PBmJA).
+It's probably available in other versions too, but the point is, the song is 
+flat out amazing. You can wildly mash buttons to this song at the Gameworks 
+in downtown Seattle, amongst other locations around the world of which I am 
+unaware.
+
 ### 06.21.16
 *La petite mort*, literally translated as "the little death," is an expression
 originally associated with the meaning of "fainting fit." Over time, it has 

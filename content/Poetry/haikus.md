@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 07.17.16   
+anticipation  
+for the next episode might   
+blur current viewings  
+
 ### 06.21.16   
 work confidential  
 zero tolerance buzzword  
