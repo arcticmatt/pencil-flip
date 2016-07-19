@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 7.18.16
+`cmd-e` to split clips in Ableton Live. 
+
 ### 07.17.16
 There's this music game series called Pop'n Music. The many iterations  
 can be played on various consoles and in arcades. The characters are quite 

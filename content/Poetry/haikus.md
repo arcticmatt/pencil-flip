@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 07.18.16   
+podcast playing stop   
+and go traffic mirrors sound   
+to call attention   
+
 ### 07.17.16   
 anticipation  
 for the next episode might   
