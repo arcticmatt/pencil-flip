@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.10.16   
+diffing is like life   
+every second i live life   
+just as i push diffs  
+
 ### 07.18.16   
 podcast playing stop   
 and go traffic mirrors sound   

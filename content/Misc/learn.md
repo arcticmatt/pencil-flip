@@ -9,6 +9,17 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 8.10.16
+Figs and wasps have a [co-dependent relationship](http://www.newyorker.com/tech/elements/love-the-fig).
+A wasp mother will bury into 
+a fig and lay its eggs. However, due to the fig's booby-trapped entranced,
+the mother's wings get trapped, it cannot escape, and it dies in the fig.
+This results in some interesting sentences in the [Defect Levels Handbook](
+http://www.fda.gov/food/guidanceregulation/guidancedocumentsregulatoryinformation/sanitationtransportation/ucm056174.htm):
+
+> **Fig Paste**: Contains 13 or more insect heads per 100 grams of fig paste in each of 2 or more subsamples  
+**Figs**: Average of 10% or more by count are insect-infested and/or moldy and/or dirty fruit or pieces of fruit 
+
 ### 7.18.16
 `cmd-e` to split clips in Ableton Live. 
 
