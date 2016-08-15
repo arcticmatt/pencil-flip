@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.14.16   
+on a berkeley ledge   
+birkenstocks dangle in pairs   
+and pizza stuffs laughs  
+
 ### 08.13.16   
 do people go to   
 museums just to take a  

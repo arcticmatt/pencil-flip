@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 8.14.16
+The Olympics have an interesting false start policy. It makes sense that "actual"
+false starts get disqualified - that is, starts that occur before the gun. However,
+Olympics people also do calculations to ensure that no one is gaming the gun; that 
+is, they make sure that each person's reaction time is in the realm of possibility,
+and that no one is *anticipating* the gun (and timing it just right so that 
+they start after it goes but "triggered" themselves beforehand).
+
 ### 8.13.16
 The world record time for the 10,000m run (men) is 26:17.53 minutes. This 
 amounts to running 6.213712 miles in 26:17.53 minutes, which amounts to 
