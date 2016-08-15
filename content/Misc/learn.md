@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 8.13.16
+The world record time for the 10,000m run (men) is 26:17.53 minutes. This 
+amounts to running 6.213712 miles in 26:17.53 minutes, which amounts to 
+running more than 6 miles at a pace of ~4:13 minutes per mile, which amounts 
+to someone being really ridiculously fast. In other news, Mo Farah won the 
+10k at the Olympics again today.
+
 ### 8.10.16
 Figs and wasps have a [co-dependent relationship](http://www.newyorker.com/tech/elements/love-the-fig).
 A wasp mother will bury into 

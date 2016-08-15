@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.13.16   
+do people go to   
+museums just to take a  
+filtered face picture  
+
 ### 08.10.16   
 diffing is like life   
 every second i live life   
