@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.17.16   
+i didn't know a lot  
+like what was in that big fridge   
+or how to way find  
+
 ### 08.14.16   
 on a berkeley ledge   
 birkenstocks dangle in pairs   

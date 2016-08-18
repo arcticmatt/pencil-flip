@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 8.17.16
+In Python
+
+    a = b,
+
+makes `a` a tuple, and makes me waste two hours of my life.
+
 ### 8.14.16
 The Olympics have an interesting false start policy. It makes sense that "actual"
 false starts get disqualified - that is, starts that occur before the gun. However,
