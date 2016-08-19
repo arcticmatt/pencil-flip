@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.18.16   
+happy birthday friend   
+super friendly excited   
+for unwanted dates  
+
 ### 08.17.16   
 i didn't know a lot  
 like what was in that big fridge   
