@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.19.16   
+a movie or two    
+rotoscoped wizardry and   
+black and white slap stick   
+
 ### 08.18.16   
 happy birthday friend   
 super friendly excited   

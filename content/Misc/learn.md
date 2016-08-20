@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 8.19.16
+    reflect("java.util.UUID", "randomUUID")
+
+to generate unique ids in hive.
+
 ### 8.18.16
     wc -l < filename.txt
 
