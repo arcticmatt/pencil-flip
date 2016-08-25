@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.24.16   
+it slips through the cracks  
+there are a lot of these cracks  
+many things slip through  
+
 ### 08.19.16   
 a movie or two    
 rotoscoped wizardry and   

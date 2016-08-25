@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 8.24.16
+Python objects and being hashable:
+> All of Python’s immutable built-in objects are hashable, while no 
+mutable containers (such as lists or dictionaries) are. Objects which are 
+instances of user-defined classes are hashable by default; they all 
+compare unequal (except with themselves), and their hash value is derived 
+from their id().
+
 ### 8.19.16
     reflect("java.util.UUID", "randomUUID")
 
