@@ -9,6 +9,16 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 8.27.16
+A bike roller is a contraption used for indoor biking. It's composed of three
+steel "rollers", or cylinders, which are stuck between a frame to make 
+something that looks like this:
+
+|&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|
+
+Imagine those vertical lines being sandwiched by two horizontal lines and you get the idea. Anyways, you can put your bike on this thing and ride in place; the back wheel goes on the sister cylinders and the front wheel goes on the solo cylinder. It doesn't seem extremely difficult, although keep in mind that my point of reference is a few
+drunk college cyclers. The main challenge is staying straight. 
+
 ### 8.24.16
 Python objects and being hashable:
 > All of Python’s immutable built-in objects are hashable, while no 

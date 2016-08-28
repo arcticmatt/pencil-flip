@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.27.16    
+most comfortable   
+spot in this dingy roofed floor   
+consider levels   
+
 ### 08.24.16   
 it slips through the cracks  
 there are a lot of these cracks  
