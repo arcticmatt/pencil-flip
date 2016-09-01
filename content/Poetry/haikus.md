@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 08.31.16    
+start and i am bored  
+progression into sitting   
+busy at the worst times   
+
 ### 08.27.16    
 most comfortable   
 spot in this dingy roofed floor   

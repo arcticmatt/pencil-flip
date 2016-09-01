@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 8.31.16
+Two possible causes of Riso printer jams: layers with a lot of ink and 
+layers with objects close to the top of the page. 
+
 ### 8.27.16
 A bike roller is a contraption used for indoor biking. It's composed of three
 steel "rollers", or cylinders, which are stuck between a frame to make 
