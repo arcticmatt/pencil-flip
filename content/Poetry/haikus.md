@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.20.16    
+call for this and that  
+tit for tat no need i sat   
+to resole my shoes  
+
 ### 08.31.16    
 start and i am bored  
 progression into sitting   

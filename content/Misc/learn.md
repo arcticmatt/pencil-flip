@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.20.16    
+`ctrl-r` for reverse incremental search in terminal. In layman's term,
+this command searches for previously used commands.
+
 ### 8.31.16
 Two possible causes of Riso printer jams: layers with a lot of ink and 
 layers with objects close to the top of the page. 
