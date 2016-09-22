@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.21.16    
+Birkenstock resoling at Orinda Shoe Service is $65, or about half the original
+cost (I have the soft footbed ones). They have the actual Birkenstock sole material,
+they do it really nicely, and it only took a day, so it was pretty worth. 
+It's more expensive than 
+[birkenstock express, not including shipping](http://www.birkenstockexpress.com/Repair/birkenstock-repair-types.cfm), 
+but in the same price range.
+
 ### 09.20.16    
 `ctrl-r` for reverse incremental search in terminal. In layman's term,
 this command searches for previously used commands.

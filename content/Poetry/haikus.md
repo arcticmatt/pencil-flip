@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.21.16    
+a book thick and tall  
+being neither fat nor wide   
+is a pain to read   
+
 ### 09.20.16    
 call for this and that  
 tit for tat no need i sat   
