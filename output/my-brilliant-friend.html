@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>Blogging About My Blog - pencil flip</title>
+    <title>My Brilliant Friend - pencil flip</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -10,24 +10,23 @@
 
     <link href="/images/favicon.png" rel="icon">
 
-<link rel="canonical" href="/how-to-setup-blog.html">
+<link rel="canonical" href="/my-brilliant-friend.html">
 
         <meta name="author" content="arctictern" />
-        <meta name="keywords" content="pelican,github,blog,how-to,bootstrap" />
-        <meta name="description" content="The traditional post detailing how I set up this whole shebang" />
+        <meta name="keywords" content="ferrante,bildungsroman,literature,books" />
+        <meta name="description" content="Written while eating a peach" />
 
         <meta property="og:site_name" content="pencil flip" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="Blogging About My Blog"/>
-        <meta property="og:url" content="/how-to-setup-blog.html"/>
-        <meta property="og:description" content="The traditional post detailing how I set up this whole shebang"/>
-        <meta property="article:published_time" content="2015-10-09" />
-            <meta property="article:section" content="How-To" />
-            <meta property="article:tag" content="pelican" />
-            <meta property="article:tag" content="github" />
-            <meta property="article:tag" content="blog" />
-            <meta property="article:tag" content="how-to" />
-            <meta property="article:tag" content="bootstrap" />
+        <meta property="og:title" content="My Brilliant Friend"/>
+        <meta property="og:url" content="/my-brilliant-friend.html"/>
+        <meta property="og:description" content="Written while eating a peach"/>
+        <meta property="article:published_time" content="2016-09-21" />
+            <meta property="article:section" content="Writing & Literature" />
+            <meta property="article:tag" content="ferrante" />
+            <meta property="article:tag" content="bildungsroman" />
+            <meta property="article:tag" content="literature" />
+            <meta property="article:tag" content="books" />
             <meta property="article:author" content="arctictern" />
 
 
@@ -66,7 +65,7 @@
                         <li >
                             <a href="/category/caltech.html">Caltech</a>
                         </li>
-                        <li class="active">
+                        <li >
                             <a href="/category/how-to.html">How-to</a>
                         </li>
                         <li >
@@ -78,7 +77,7 @@
                         <li >
                             <a href="/category/poetry.html">Poetry</a>
                         </li>
-                        <li >
+                        <li class="active">
                             <a href="/category/writing-literature.html">Writing & literature</a>
                         </li>
             </ul>
@@ -98,10 +97,10 @@
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="/how-to-setup-blog.html"
+                    <a href="/my-brilliant-friend.html"
                        rel="bookmark"
-                       title="Permalink to Blogging About My Blog">
-                        Blogging About My Blog
+                       title="Permalink to My Brilliant Friend">
+                        My Brilliant Friend
                     </a>
                 </h1>
             </header>
@@ -111,7 +110,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2015-10-09T18:23:00-07:00"> Fri 09 October 2015</time>
+        <i class="fa fa-calendar"></i><time datetime="2016-09-21T22:26:00-07:00"> Wed 21 September 2016</time>
     </span>
 
 
@@ -119,183 +118,99 @@
 
 
 <span class="label label-default">Tags</span>
-	<a href="/tag/pelican.html">pelican</a>
+	<a href="/tag/ferrante.html">ferrante</a>
         /
-	<a href="/tag/github.html">github</a>
+	<a href="/tag/bildungsroman.html">bildungsroman</a>
         /
-	<a href="/tag/blog.html">blog</a>
+	<a href="/tag/literature.html">literature</a>
         /
-	<a href="/tag/how-to.html">how-to</a>
-        /
-	<a href="/tag/bootstrap.html">bootstrap</a>
+	<a href="/tag/books.html">books</a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>In other words, how to set up a pelican blog with github pages and pelican-bootstrap3.</p>
-<p>In other words, how I made my blog.</p>
-<p>Is the word <em>blog</em> starting to sound weird yet?</p>
-<p>It seems like the first thing most people do after making a blog is write about how
-they made it. And hey, I have no complaints; this is a pretty useful practice.
-So I'll go ahead and give it a shot.  I'm going to try assume basically zero 
-knowledge of how to set up a website, because that's how about much I had going in.
-This will probably not go perfectly well as I start throwing around terminal commands
-and whatnot, but I will try my best. So, let's get started.</p>
-<h2>1. Get the Bird</h2>
-<p>First, let's install Pelican. <a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">Here's how</a>.
-Basically you just want to do <code>pip install pelican</code> or <code>easy_install pelican</code>.
-If you want, you can create a virtual environment for Pelican before installing it.
-The <a href="http://duncanlock.net/blog/2013/05/17/how-i-built-this-website-using-pelican-part-1-setup/#comment-1767610380">reason</a>
-for doing this is to create a self-contained python environment for
-this python project. I didn't care about this, so I went ahead and skipped this
-step.</p>
-<h4>1a. Markdown for What</h4>
-<p>If you plan on using Markdown as a markup format (which I recommend),
-also install Markdown with <code>pip install Markdown</code>.</p>
-<h2>2. Quickly Start It</h2>
-<p>Navigate to the directory to where you want to create your blog. Let's say
-you want it to be located at <em>~/Documents/blog</em>. Then, you should do
-<code>cd ~/Documents/blog</code> (run <code>mkdir -p ~/Documents/blog</code> if the directory doesn't
-exist yet).
-Then, run <code>pelican-quickstart</code> (for more details, refer again to the previous
-<a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">link</a>).
-It will prompt you to answer some questions
-about your site, as shown below.
-<img alt="Pelican Quickstart" src="/images/pelican-quickstart-prompt.png" />
-Here I answered "no" to the last question, where it asks us if we want to use
-our personal page. This is just determining whether we want to use Github Page's
-Personal Page, or Github Page's Project Page. The only practical difference is a
-slight change in setup, so it doesn't really matter. But for the purposes of this
-how-to, I'll be showing how to set up the Project Page.
-Once all these questions have been answered, your project should be all set up,
-and the structure should look like the following:</p>
-<div class="highlight"><pre><span></span>yourproject/
-├── content
-│   └── (pages)
-├── output
-├── develop_server.sh
-├── fabfile.py
-├── Makefile
-├── pelicanconf.py       # Main settings file
-└── publishconf.py       # Settings to use when ready to publish
-</pre></div>
-
-
-<h4>2a. Make Your Life Better</h4>
-<p>There are some automation tools that wrap the <code>pelican</code> command and make
-it easier to generate, preview, and upload your blog. Again, the previous
-<a href="http://docs.getpelican.com/en/3.3.0/getting_started.html">link</a> details
-these tools. One of them is Fabric. However, I recommend Make. A Makefile
-is automatically generated for you if you say "yes" to one of the prompts
-during the <code>pelican-quickstart</code> process, and the <code>make</code> command is already
-built into most systems. The most handy command is <code>make devserver</code>. This 
-will serve your site at <a href="http://localhost:8000">http://localhost:8000</a>,
-and automatically regenerate it when you make changes. So for example,
-if you save a new article, you just need to refresh the browser to see
-the results! Pretty sweet. When you're done testing, you should run
-<code>./develop_server.sh stop</code> to stop the development server.</p>
-<h2>3. Push It Real Good</h2>
-<p>Now we basically have all our Pelican stuff set up. What's left? Well, we 
-need to integrate it with Github Pages, and get our custom domain name. So let's
-get started. First, go onto github and create a new repo. Initialize the repo
-in the directory where you created your blog, and then stop.
-So in other words, just run these commands (with your directory):<br />
-<code>cd ~/Documents/blog</code><br />
-<code>git init</code><br />
-Now we're going to set it up so that the Pelican site gets published as a Github
-Project Page, following <a href="http://docs.getpelican.com/en/3.3.0/tips.html">these instructions</a>.
-There's some stuff at the top of that page about publishing to Project Pages,
-but we can skip it and use a shorcut method. Here's what we'll do. Run
-these commands, and I'll explain after. For these to work, you'll need to 
-be in the root directory of your blog.<br />
-<code>pip install ghp-import</code><br />
-<code>cd .git/hooks</code><br />
-<code>echo "pelican content -o output -s pelicanconf.py &amp;&amp; ghp-import output &amp;&amp; git push origin gh-pages" &gt;&gt; post-commit</code><br />
-<code>chmod +x post-commit</code><br />
-Then navigate back to the root directory of your blog.
-What we are doing is setting up a post-commit hook, which makes it so that
-the Pelican site gets updated on each commit. This means that we can work
-on our site on the master branch. Then, whenever we want to update the site,
-we just add the relevant files and commit. <code>ghp-import</code> will then push the content
-of the <code>output</code> dir to the <code>gh-pages</code> branch, and that's that (the <code>gh-pages</code> branch
-is what's used for a Github Project Page).<br />
-So now that we've got that set up, we can run <code>git add -A</code> to add all our files,
-and then run <code>git commit</code> to update our site! It's as easy as that. Remember to push
-to <code>master</code> occasionally if you want to update your remote branch.</p>
-<h2>4. Maybe You Should Start Thinking Of a Cool Domain Name...</h2>
-<p>At this point, you should be able to test your blog using <code>make devserver</code> and 
-looking at <a href="http://localhost:8000">http://localhost:8000</a>. You should also be
-able to easily update the Github Project site by simply commiting to the master
-branch. So all that's left is getting that custom domain name. The first thing
-we'll do is navigate into the <code>content/</code> directory of our blog and run
-<code>mkdir extra</code>. Inside the newly created <code>extra</code> directory, put your desired
-custom domain name into a file called <code>CNAME</code>. So for example, <code>CNAME</code> could
-have one line with<br />
-<code>blog.example.com</code><br />
-Then, in <code>pelicanconf.py</code>, put these two lines:<br />
-<code>STATIC_PATHS = ['images', 'extra/CNAME']</code><br />
-<code>EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}</code><br />
-This tells Pelican to copy the <code>CNAME</code> file to your output directory.
-After running <code>git commit</code> to update your site, take a deep breath. You're almost
-there!</p>
-<h2>5. Good Choice. I Heartily Approve</h2>
-<p>The last step involves actually purchasing and setting up your domain (and 
-possibly subdomain) on <a href="https://www.godaddy.com/">godaddy.com</a>. Or some other
-site. But <a href="https://www.godaddy.com/">godaddy.com</a> is pretty swell. First you have 
-to buy the domain name you want. So do that. I can wait.<br />
-...<br />
-Ok, so you've got your domain. Great! Now log onto Godaddy and go to that
-domain's DNZ Zone File (first go to Manage My Domains, then click the settings dropdown
-for that domain, then click Manage DNS). Now find where it says "Add Record" 
-right under "Zone File" and click that. Now just add a <code>CNAME</code> record that
-points to your Github URL (for the host, put the subdomain). It should end up
-looking like this (this is for my <a href="http://blog.pencilflip.com/">blog.pencilflip.com</a> site).
-<img alt="GoDaddy Cname" src="/images/godaddy-cname.png" /><br />
-You might have to wait a bit for all the Godaddy stuff to take effect, but after that,
-you should be able to go to <em>yoursubdomain.yourblogname.com</em>, and see your beautiful
-blog in action. </p>
-<h2>6. Make It Look Cool</h2>
-<p>The rest of this is really optional. It's just a matter of giving your blog 
-a nice theme, specifically <a href="https://github.com/DandyDev/pelican-bootstrap3">this one</a>.
-This theme is nice because it's heavily documented (always a HUGE plus), looks 
-nice, and is very flexible.
-Most of the instructions are pretty self contained in that link. You basically
-just clone the repo, and set up some variables in your <code>pelicanconf.py</code>.
-I'll just mention the useful stuff I've found so far. If you want to display
-tags on the sidebar, make sure to install the plugin <code>tag_cloud</code>. You can do
-this by clonining the <code>pelican-plugins</code> repo and putting the following two lines
-in your settings:<br />
-<code>PLUGIN_PATHS = ['../pelican-plugins']</code><br />
-<code>PLUGINS = ['tag_cloud']</code><br />
-If you want to mess with the CSS, put the following lines in your settings:<br />
-<code>CUSTOM_CSS = 'static/custom.css'</code><br />
-<code>EXTRA_PATH_METADATA = {'extra/custom.css': {'path': 'static/custom.css'},}</code><br />
-The latter of these two lines changes the path of <code>custom.css</code> to <code>static/custom.css</code>
-in the output directory.
-Here's my current <code>custom.css</code> setup. In order, this code changes the background
-color of the navbar, changes the background color of the navbar when active,
-and adds some icons for social links (goodreads and bandcamp). It's pretty easy
-to mess with stuff by just inspecting elements and adding things to this file; at least,
-that's what I did.</p>
-<div class="highlight"><pre><span></span><span class="na">.navbar-default</span> <span class="err">{</span>
-    <span class="nl">background-color:</span> <span class="c">#fdf6e3;</span>
-    <span class="nl">border-color:</span> <span class="c">#F5F5F5;</span>
-<span class="err">}</span>
-<span class="na">.navbar-default</span> <span class="no">.navbar-nav</span> <span class="err">&gt;</span> <span class="no">.active</span> <span class="err">&gt;</span> <span class="no">a</span><span class="p">,</span>
-<span class="na">.navbar-default</span> <span class="no">.navbar-nav</span> <span class="err">&gt;</span> <span class="no">.active</span> <span class="err">&gt;</span> <span class="no">a</span><span class="p">:</span><span class="no">hover</span><span class="p">,</span>
-<span class="na">.navbar-default</span> <span class="no">.navbar-nav</span> <span class="err">&gt;</span> <span class="no">.active</span> <span class="err">&gt;</span> <span class="no">a</span><span class="p">:</span><span class="no">focus</span> <span class="err">{</span>
-    <span class="nl">background-color:</span> <span class="c">#F8E8BD;</span>
-    <span class="nl">border-color:</span> <span class="c">#fdf6e3;</span>
-<span class="err">}</span>
-<span class="nl">.fa-goodreads-square:</span><span class="nf">before</span> <span class="err">{</span>
-  <span class="nl">content:</span> <span class="err">&quot;\</span><span class="nf">f02d</span><span class="err">&quot;;</span>
-<span class="err">}</span>
-<span class="nl">.fa-bandcamp-square:</span><span class="nf">before</span> <span class="err">{</span>
-  <span class="nl">content:</span> <span class="err">&quot;\</span><span class="nf">f001</span><span class="err">&quot;;</span>
-<span class="err">}</span>
-</pre></div>
-
-
-<p>I hope this was at least a little bit helpful. If you have any comments or questions, ask away.</p>
+                <p>Bildungsroman is a romantic sounding word. It is "a novel about the moral
+and psychological growth of the main character." A quote from the New 
+Yorker describes <em>My Brilliant Friend</em> as a "large, captivating, amiably
+peopled bildungsroman," and I'd say that's fairly accurate. I'd liken 
+it to a modern, Italian, better written version of <em>Pride and Prejudice</em>.
+This isn't a perfect comparison. Unlike <em>Pride and Prejudice</em>, I actually
+enjoyed this book. There are also some other differences. But first,
+some similarities. Both plots are centered around the lives of 
+courtable women; romance plays a major role in the lives of these women;
+plots advance along with romantic relationships, and relationships advance
+family wealth and value; relationships are used as a launching pad for 
+major themes. These are fairly general similarities. Based on this 
+criteria, I could be comparing <em>Bend it like Beckham</em> with the life of 
+my grandma. I think it was ch. 16 that really put <em>Pride and 
+Prejudice</em> (which, by the way, is the only Jane Austen novel I've ever 
+read) into my mind. In this chapter, Lila dances with a variety of boys,
+many of whom are either interested in her, protective of her, jealous
+of someone who is interested in her, or some combination of the above. 
+Vague images of Elizabeth and Darcy dancing to a piano immediately sprung 
+to my mind some ten minutes later. Basically, my mind tends towards
+simplifying both these novels into "girls talking about and maybe
+dancing with boys who they then start dating." </p>
+<p>There are, however, some major differences. As aforementioned, <em>Pride 
+and Prejudice</em> is really boring. This book is pretty entertaining. Second,
+the writing is much better. It's not just "and she said this and he said
+that and she looked and him and he wasn't looking and her mom was being 
+stupid and her dad said nothing etc. etc. etc." I will note that Elena 
+Ferrante really likes to throw a crapton of commas into her sentences:</p>
+<blockquote>
+<p>When the two young men returned, interrupting our conversation, 
+Pasquale confessed, laughing, that he had left the work site without 
+saying anything to the boss, so he had to go back right away. (130)</p>
+</blockquote>
+<p>That's five in one - not too bad for just flipping to a random page. It's 
+not a negative per se, just a certain style. It can get a little jumbled
+at times if you're not used to it though. Third, the "major themes" I 
+mentioned earlier are different. Whereas <em>Pride and Prejudice</em> talks 
+about pride and prejudice, <em>My Brilliant Friend</em> is about family heritage
+and tradition. More specifically, it depicts the life of someone raised in 
+a very specific environment, where people go on to lead very specific
+lives, and asks the question: can she break free? What is it like to 
+try? How does an old generation raise a new one? </p>
+<p>There are small moments of bittersweetness contained throughout the book,
+which reads slightly like a journal from someone who is straining 
+to remember. The feeling of missing an old friend when she's standing
+right in front of you, of barely remembering someone while they hug you 
+tightly, of hating a parent that a sibling adores - all these are 
+captured and stated in simple yet moving ways. Here are some quotes
+that may or may not be unrelated to anything I have previously said.</p>
+<blockquote>
+<p>Marisa threw her arms around my neck with an enthusiasm I would never 
+have expected: in all those years I had never, absolutely never, thought 
+of her, while she said she had often thought of me with great nostalgia.
+(213)</p>
+<p>But the violence of those few carefully constructed sentenced hurt me. 
+Nino hated his father with all his strength, that was why be talked so 
+much about the Karamazovs. But that wasn't the point. What disturbed me 
+profoundly was that Donato Sarratore, as far as I had seen with my own 
+eyes, heard with my own ears, was not repellent, he was the father that 
+every girl, every boy should want, and Marisa in fact adored him. (221)</p>
+<p>[about Lila's writing] ...she left no trace of effort, you weren't 
+aware of the artifice of the written word. I read and I saw her, I heard 
+her. The voice set in the writing overwhelmed me, enthralled me even more 
+than when we talked face to face: it was completely cleansed of the cross 
+of speech, of the confusion of the oral... (227)</p>
+<p>I had never seen her naked, I was embarrassed. Today I can say that it 
+was the embarrassment of gazing with pleasure at her body, of being the not
+impartial witness of her sixteen-year-old's beauty a few hours before 
+Stefano touched her, penetrated her, disfigured her, perhaps, by making 
+her pregnant. At the time it was just a tumultuous sensation of necessary
+awkwardness, a state in which you cannot avert the gaze or take away 
+the hand without recognizing your own turmoil, without, by that retreat,
+declaring it, hence without coming into concfict with the undisturbed
+innocence of the one who is the cause of the turmoil... (312)</p>
+</blockquote>
+<p>This book is an easy and fast read. There are three other books in the 
+series, and while I hadn't the strongest urge to read the next right after
+finishing the first, I think I'll get around to it. There's nothing about 
+the book that blew me away, no specific passages that I stopped to read 
+again and again. But it's interesting, relatable, and the characters 
+stick with you (their names are repeated so many times it's kind of 
+inevitable). There's romance and drama and dissatisifcation with life, and
+that's enough to satisfy me.</p>
             </div>
             <!-- /.entry-content -->
     <hr/>
@@ -307,8 +222,8 @@ that's what I did.</p>
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = 'pencilflip'; // required: replace example with your forum shortname
 
-                    var disqus_identifier = 'how-to-setup-blog';
-                var disqus_url = '/how-to-setup-blog.html';
+                    var disqus_identifier = 'my-brilliant-friend';
+                var disqus_url = '/my-brilliant-friend.html';
 
             var disqus_config = function () {
                 this.language = "en";
