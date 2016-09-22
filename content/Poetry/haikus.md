@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.22.16    
+pack the entire day   
+pack up everything away    
+don't forget toothpaste   
+
 ### 09.21.16    
 a book thick and tall  
 being neither fat nor wide   

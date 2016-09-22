@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.22.16    
+According to this New Yorker article, "according to a recent CNBC report, 
+seventy per cent of American online-porn access occurs during the 
+nine-to-five workday." I have the first "according" because I didn't 
+actually check the source. That's a very high number. Makes you wonder
+when you go to use the bathroom at work, makes you wonder.
+
 ### 09.21.16    
 Birkenstock resoling at Orinda Shoe Service is $65, or about half the original
 cost (I have the soft footbed ones). They have the actual Birkenstock sole material,
