@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.23.16    
+Taken from the footnotes of War and Peace cause I'm lazy right now: 
+
+> The Cossacks were free peasants living in southern Russia, renowned for 
+their wild behaviour. The countess is virtually (and affectionately) calling 
+her a little savage.
+
 ### 09.22.16    
 According to this New Yorker article, "according to a recent CNBC report, 
 seventy per cent of American online-porn access occurs during the 

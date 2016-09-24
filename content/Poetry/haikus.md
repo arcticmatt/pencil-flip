@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.23.16    
+drive down the highway  
+forgotten things come to mind  
+and another one  
+
 ### 09.22.16    
 pack the entire day   
 pack up everything away    
