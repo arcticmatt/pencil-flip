@@ -6,6 +6,16 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.25.16     
+the strongest gets the   
+heavy load and he gets his   
+melting ice cream cone  
+
+### 09.24.16    
+flickering screens while   
+a fairy tale plays from bowed  
+guitar pounding drums  
+
 ### 09.23.16    
 drive down the highway  
 forgotten things come to mind  

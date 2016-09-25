@@ -9,6 +9,19 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.25.16    
+Screen printing and silkscreen printing are different terms for what is 
+basically the same technique. Screen printing is a printing technique 
+that uses a mesh to transfer ink onto a substrate. The shape is made by 
+a blocking stencil. The "silk" in silkscreen refers to the material of the mesh.
+However, polyester mesh has become more common in recent times.
+
+### 09.24.16    
+"Bowed guitar" is a method where you use a bow to play guitar. It sounds pretty
+noisy from my one live experience with it (Sigur Rós). The method is typically
+associated with Jimmy Page and Sigur Rós. As a bonus, Sigur Rós is named after
+Jónsi's (lead singer) sister, Sigurrós Elín.
+
 ### 09.23.16    
 Taken from the footnotes of War and Peace cause I'm lazy right now: 
 
