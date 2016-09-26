@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.26.16     
+bunk beds have two beds   
+on which they can fit two heads   
+or countless buttocks   
+
 ### 09.25.16     
 the strongest gets the   
 heavy load and he gets his   

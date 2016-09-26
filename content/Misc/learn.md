@@ -9,6 +9,23 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.26.16    
+The Unicode consortium is a "non-profit corporation devoted to developing, 
+maintaining, and promoting software internationalization standards and data, 
+particularly the Unicode Standard, which specifies the representation of text 
+in all modern software products and standards." In its technical report on
+Unicode Emoji (UTR 51), it proposes the following definitions. 
+
+> emoji - A colorful pictograph that can be used inline in text. Internally
+the representation is either (a) an image or (b) an encoded character. 
+The term *emoji character* can be used for (b) where not clear from context.
+
+> emoticon - (1) A series of text characters (typically punctuation or symbols) 
+that is meant to represent a facial expression or gesture such as ;-) (2) a 
+broader sense, also including emoji for facial expressions and gestures.
+
+> emoji character - A character that is recommended for use as emoji.
+
 ### 09.25.16    
 Screen printing and silkscreen printing are different terms for what is 
 basically the same technique. Screen printing is a printing technique 
