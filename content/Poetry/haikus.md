@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.27.16     
+small art room for two   
+or twenty five depending   
+on how you slice it   
+
 ### 09.26.16     
 bunk beds have two beds   
 on which they can fit two heads   

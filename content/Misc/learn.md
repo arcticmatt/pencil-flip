@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.27.16    
+Christo and Jeanne-Claude were a married pair of artists who made environmental
+art. For example, they put a bunch of umbrellas on hills, wrapped a bridge, 
+put a bunch of gates in Central Park, etc. Originally, credit was only given 
+to Christo (and even when I heard about Christo the other day, the name of his 
+wife never came up). It was only in 1994 that their works were retroactively 
+credited to "Christo and Jeanne-Claude." A cool thing: Christo and Jeanne-Claude
+were born on the same day!
+
 ### 09.26.16    
 The Unicode consortium is a "non-profit corporation devoted to developing, 
 maintaining, and promoting software internationalization standards and data, 
