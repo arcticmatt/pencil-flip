@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.28.16    
+`Boysenberry = European raspberry x European blackberry x American dewberry x Loganberry`
+
+Random fact from Wikipedia: New Zealand is the "largest marketer of boysenberries worldwide."
+
 ### 09.27.16    
 Christo and Jeanne-Claude were a married pair of artists who made environmental
 art. For example, they put a bunch of umbrellas on hills, wrapped a bridge, 

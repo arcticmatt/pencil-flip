@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.28.16     
+card game state of fluxx  
+keepers give the creepers cuts   
+who's the zombie boss  
+
 ### 09.27.16     
 small art room for two   
 or twenty five depending   
