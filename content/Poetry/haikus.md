@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.29.16     
+i'm so generous   
+do this experiment please    
+and keep the dollar   
+
 ### 09.28.16     
 card game state of fluxx  
 keepers give the creepers cuts   

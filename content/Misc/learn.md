@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.29.16    
+PAC stands for probably approximately correct, e.g. Hoeffding's inequality gives
+us a PAC equality. PAC learning is a framework for mathematical analysis of 
+machine learning.
+
 ### 09.28.16    
 `Boysenberry = European raspberry x European blackberry x American dewberry x Loganberry`
 
