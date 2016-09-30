@@ -5,7 +5,6 @@ Tags: music
 Slug: five-track-friday6
 Authors: arctictern
 Summary: z z z
-status: hidden
 
 Not recommended to set for your alarm clock tune. The theme of this Friday 
 is **ambient / atmospheric**. I listen to these songs when I want to 
