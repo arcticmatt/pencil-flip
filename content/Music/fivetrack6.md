@@ -10,11 +10,10 @@ Not recommended to set for your alarm clock tune. The theme of this Friday
 is **ambient / atmospheric**. I listen to these songs when I want to 
 listen to music and actually do work or take a nap in the afternoon. They're also
 handy when you need some neutral background music that probably no one will 
-know but that is generally fairly pleasing for most chill occasions where you 
-don't want much actually going on just something other than silence. Here's a 
+know but that is generally fairly pleasing for most chill occasions when you 
+don't want much going on, just something other than silence. Here's a 
 playlist with all the songs: [the playlist with all 
 the songs](https://open.spotify.com/user/1240806741/playlist/4incH0kX0BA2gDCnL8ZLaO).
-
 
 #### 1. Norrland - Gidge 
 The musical equivalent of an elevating hike through Norweigan Woods.
