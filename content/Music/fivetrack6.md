@@ -28,21 +28,21 @@ tension in every look and movement. And then at the very end everything is chill
 again. 
 
 #### 3. In a Forest With Leaves in Your Hair - Sad Souls 
-Much shorter than the above two songs. It's almost solely composed of a one
+Much shorter than the above two songs. It's almost solely composed of one
 catchy, repetitive loop which nicely captures the song title.
 
 #### 4. Albatross - Fleetwood Mac
-Different from the others on this list, with the main melody being played on 
-a guitar instead of being electronically generated. The feeling I get from it 
+Different from the others on this list, with the main melody played on 
+guitar instead of electronically generated. The feeling I get from it 
 is -slowly floating along-. 
 
 #### 5. Her Joy Was Complete - Sleeping At Last 
 A beautiful series of escalations and declines.
 
-**Links**
-[Norrland](https://www.youtube.com/watch?v=PTkGDRI1Bog)
+**Links**  
+[Norrland](https://www.youtube.com/watch?v=PTkGDRI1Bog)  
 [I Dreamed of Choirs Slow and Steady, the Song Was Ours, Its Woe Was Heavy](
-https://www.youtube.com/watch?v=it6cMn0C_ZA)
-[In a Forest With Leaves in Your Hair](https://www.youtube.com/watch?v=gcmklLrtMls)
-[Albatross](https://www.youtube.com/watch?v=8scHKFwr0og)
-[Her Joy Was Complete](https://www.youtube.com/watch?v=t1LwLTBhueg)
+https://www.youtube.com/watch?v=it6cMn0C_ZA)  
+[In a Forest With Leaves in Your Hair](https://www.youtube.com/watch?v=gcmklLrtMls)  
+[Albatross](https://www.youtube.com/watch?v=8scHKFwr0og)  
+[Her Joy Was Complete](https://www.youtube.com/watch?v=t1LwLTBhueg)  
