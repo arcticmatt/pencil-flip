@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 09.30.16    
+"Demosthenes, I know you by the pebble in your golden mouth!" - page 167 of 
+*War and Peace*. Demosthenes was a Greek orator who, according to legend, practiced 
+speaking with stones in his mouth. He also recited verses while running and strengthened
+his voice by speaking on the seashore over the roar of the waves, according to
+Wikipedia.
+
 ### 09.29.16    
 PAC stands for probably approximately correct, e.g. Hoeffding's inequality gives
 us a PAC equality. PAC learning is a framework for mathematical analysis of 

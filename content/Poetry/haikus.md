@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 09.30.16     
+amorphous circle   
+talking can be turn by turn   
+but directions change   
+
 ### 09.29.16     
 i'm so generous   
 do this experiment please    
