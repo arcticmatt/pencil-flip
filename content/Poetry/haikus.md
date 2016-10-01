@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.01.16     
+three or four is more   
+lazy weekends do no chores   
+do chores in college?  
+
 ### 09.30.16     
 amorphous circle   
 talking can be turn by turn   

@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.01.16    
+The coupon collector's problem goes as follows. There is a jar with *N* unique
+coupons. You are a collector. Each turn, you draw one coupon from the jar; after
+you draw it, you put it back. Each coupon is equally likely to be drawn. 
+What is the probability that more than *T* turns are needed to collect all 
+*N* coupons? Upon analysis, it can be found that the expected number of turns *T*
+is *O(n* log*n)*. For example, if there are *N = 50* coupons, it takes, on average,
+*225* turns to collect all the coupons.
+
 ### 09.30.16    
 "Demosthenes, I know you by the pebble in your golden mouth!" - page 167 of 
 *War and Peace*. Demosthenes was a Greek orator who, according to legend, practiced 
