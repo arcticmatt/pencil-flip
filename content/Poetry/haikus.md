@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.02.16     
+crowded office hours   
+for this i took a shower   
+ha ha just kidding   
+
 ### 10.01.16     
 three or four is more   
 lazy weekends do no chores   

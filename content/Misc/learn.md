@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.02.16    
+The Double ShackBurger at Shake Shack (cheeseburger with lettuce, tomatoes,
+Shack sauce) costs $8.09 at the West Hollywood location at the time this is 
+being written. Compare this to a Double-Double at In-N-Out, which currently 
+costs $3.60. Author's note: the ShackBurger is *delicious*.
+
 ### 10.01.16    
 The coupon collector's problem goes as follows. There is a jar with *N* unique
 coupons. You are a collector. Each turn, you draw one coupon from the jar; after
