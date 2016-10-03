@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.03.16     
+stop at sushi stop   
+spilled water will dry quickly    
+food always goes fast  
+
 ### 10.02.16     
 crowded office hours   
 for this i took a shower   

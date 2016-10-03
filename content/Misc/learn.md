@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.03.16    
+Found this cool [reddit thread](https://www.reddit.com/r/movies/comments/55hva4/disney_recycles_animation_when_they_are_on_a_time/)
+the other day, which shows how Disney reuses animation when they're stretched
+for time. In other words, a lot of their older movies have scenes that use 
+the exact same movements, albeit with different characters. The movie linked
+in the link shows it much better than I can explain it. 
+
 ### 10.02.16    
 The Double ShackBurger at Shake Shack (cheeseburger with lettuce, tomatoes,
 Shack sauce) costs $8.09 at the West Hollywood location at the time this is 
