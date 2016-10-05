@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.05.16      
+the key to pasta   
+plentiful red pepper flakes  
+it tastes like spicy  
+
 ### 10.04.16      
 name is melissa   
 please pronounce it like pizza   

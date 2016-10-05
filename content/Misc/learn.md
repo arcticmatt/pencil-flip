@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.05.16    
+It's a trap!
+
+> Truffle oil is controversial as a flavoring ingredient, as most truffle oil is 
+artificially produced and may lack the flavors or complexities of fresh 
+truffles. (Wikipedia)
+
 ### 10.04.16    
 A super beginner's guide to silk painting:
 
