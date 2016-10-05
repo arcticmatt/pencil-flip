@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.04.16      
+name is melissa   
+please pronounce it like pizza   
+ok melissa   
+
 ### 10.03.16     
 stop at sushi stop   
 spilled water will dry quickly    
