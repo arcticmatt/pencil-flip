@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.07.16    
+*Bon hiver* is a French phrase meaning "good winter", from which the 
+band Bon Iver derives its namesake.
+
 ### 10.06.16    
 Conditional probability, Kolmogorov definition: `P(A|B) = P(A ∩ B) / P(B)`  
 Bayes' theorem: `P(A|B) = P(B|A) P(A) / P(B)`  

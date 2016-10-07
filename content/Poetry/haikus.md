@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.07.16        
+boba late at night  
+will put easy sleep to flight  
+goodbye my sweet dreams  
+
 ### 10.06.16        
 99 papers   
 grade one down turn it around  
