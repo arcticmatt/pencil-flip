@@ -6,6 +6,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.08.16        
+late night jams in jams  
+tremendous absolute range   
+mediocre pitch   
+
 ### 10.07.16        
 boba late at night  
 will put easy sleep to flight  

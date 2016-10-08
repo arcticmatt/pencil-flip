@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.08.16    
+The column rank of a matrix *A* is the maximal number of linearly independent columns,
+which is equivalent to the dimension of the column space of *A* (space spanned
+by the columns).   
+The row rank of a matrix *A* is the maximal number of linearly independent rows,
+which is equivalent to the dimension of the row space of *A*.    
+For any matrix *A*, the column rank and row rank are always equal.  
+
 ### 10.07.16    
 *Bon hiver* is a French phrase meaning "good winter", from which the 
 band Bon Iver derives its namesake.
@@ -18,7 +26,6 @@ Conditional probability, Kolmogorov definition: `P(A|B) = P(A ∩ B) / P(B)`
 Bayes' theorem: `P(A|B) = P(B|A) P(A) / P(B)`  
 I didn't actually learn this stuff today/yesterday but it was relevant  
 b/c grading. 
-
 
 ### 10.05.16    
 It's a trap!
