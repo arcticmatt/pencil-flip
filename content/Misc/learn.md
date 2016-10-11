@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-10 23:36
+Date: 2016-10-11 10:11
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.11.16    
+Too lazy to write about the Canada Commando/Kanada Kommando/Kanadakommando so I'll
+just do this.
+
+>sangfroid - noun. - the ability to stay calm in difficult or dangerous situations.
+
+He played that game where you stab a sharp thing between your fingers with 
+remarkable sangfroid. 
 
 ### 10.10.16    
 Ben Saltzman (currently a "Weisman Postdoctoral Instructor in Medieval British Literature"

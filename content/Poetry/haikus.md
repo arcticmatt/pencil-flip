@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-10 23:35
+Date: 2016-10-11 15:36
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.11.16   
+one and one half hours    
+a magnificent struggle   
+regular class time  
 
 ### 10.10.16   
 that's a cool painting  
