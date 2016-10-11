@@ -1,10 +1,21 @@
 Title: Life in Haiku
 Date: 2015-12-03 13:00
+Modified: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.10.16   
+that's a cool painting  
+that's a cool seagull painting  
+it's an arctic tern  
+
+### 10.09.16   
+wake up super sick   
+just a feeling shower fix  
+just a morning cold  
 
 ### 10.08.16        
 late night jams in jams  

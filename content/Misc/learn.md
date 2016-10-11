@@ -1,5 +1,6 @@
 Title: Today I Learned
 Date: 2016-01-31 00:26
+Modified: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
 Slug: today-i-learned
@@ -8,6 +9,60 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.10.16    
+Ben Saltzman (currently a "Weisman Postdoctoral Instructor in Medieval British Literature"
+at Caltech) pointed out this specific passage to our English class:
+
+> The world rings its regular changes,  
+> its elements reconciled  
+> held in balance in their battle  
+> by its immutable laws.  
+> Phoebus comes on with rosy dawns  
+> in his flying golden car,  
+> and Phoebe brings the silver moon,  
+> fulfilling Hesperus' promise.  
+> The churning sea is confined to its bed  
+> and the land keeps to its bounds,  
+> for each is subject to a greater power  
+> the other helps to enforce.  
+> What governs earth and sea and sky  
+> is nothing less than love,  
+> whose tight rein if it ever slackened  
+> would leave creation in chaos  
+> of civil war's utter ruin.  
+> Love binds people too,  
+> in matrimony's sacred bonds  
+> where chaste lovers are met,  
+> and friends cement their trust and friendship.  
+> How happy is mankind,  
+> if the love that orders the stars above  
+> rules, too, in your hearts. (57-58, Boethius, The Consolation of Philosophy)
+
+Good to read at weddings and casual dinner parties and stuff. 
+
+### 10.09.16    
+Found this [interesting interview](http://www.treblezine.com/out-of-the-bungalow-bon-iver-interview/)
+of Bon Iver. Some notes:
+
+* *For Emma, Forever Ago* was recorded at Justin's "little bungalow house in Eau Claire, Wisconsin."
+However, he didn't go there for the purpose of recording an album. According to him,
+he went there "out of necessity." Some background: during the summer of 2006, he 
+was dealing with mono and pneumonia. During this time, he also broke up with his 
+band, and subsequently broke up with his girlfriend. After he broke up with his
+girlfriend, he continued to live with her while he worked on a record for 
+The Rosebuds (after he finished working on one of her records, for her band Nola).
+He also had a bad liver infection. After he was done with The Rosebuds record,
+he toook off.
+
+* When he had everything all mixed, he thought the songs were just demos. But 
+after showing them to friends and getting good reactions, everything took off.
+
+* About the process, he says: "I still, to a certain degree, will be insecure 
+always, but I think that I’ll continue to make records like this. I’m not going 
+to hire engineers; I’m not going to hire producers. I’m fully capable of doing 
+all that stuff, and I’m just going to keep it within myself, under my control 
+and surveillance."
 
 ### 10.08.16    
 The column rank of a matrix *A* is the maximal number of linearly independent columns,
