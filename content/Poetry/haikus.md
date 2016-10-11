@@ -1,6 +1,6 @@
 Title: Life in Haiku
-Date: 2015-12-03 13:00
-Modified: 2016-10-10 23:35
+Date: 2016-10-10 23:35
+DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku

@@ -1,6 +1,6 @@
 Title: Today I Learned
-Date: 2016-01-31 00:26
-Modified: 2016-10-10 23:36
+Date: 2016-10-10 23:36
+DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
 Slug: today-i-learned
