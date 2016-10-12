@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-11 10:11
+Date: 2016-10-12 12:06
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,26 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.12.16    
+Some good stuff on Unicode, specifically related to its use in software:
+
+* [Ned Batchelder](http://nedbatchelder.com/text/unipain.html)
+
+* [Joel](http://www.joelonsoftware.com/articles/Unicode.html)
+ 
+* [farmdev](http://farmdev.com/talks/unicode/)
+
+Now, since I'm to lazy to regurgitate any of that information, I'll instead
+steal from this [great askreddit thread](https://www.reddit.com/r/AskReddit/top/?sort=top&t=week)
+about pleasant and uplifting facts.   
+Maurice Sendak, the author of 
+*Where the Wild Things Are*, once replied to a child's letter with
+a letter and a sketch. The child's mom wrote back to Maurice and told him
+her son loved the letter so much that he ate it.   
+Did you know there are more public libraries than McDonalds in the US?  
+This is actually mindblowing: the voice actor of Spongebob is married to the voice
+actor of Plankton's computer wife.  
 
 ### 10.11.16    
 Too lazy to write about the Canada Commando/Kanada Kommando/Kanadakommando so I'll
