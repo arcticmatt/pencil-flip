@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-12 12:15
+Date: 2016-10-13 10:06
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.13.16     
+opportunity   
+class is canceled for the week  
+time to do nothing  
 
 ### 10.12.16    
 sample madonna   

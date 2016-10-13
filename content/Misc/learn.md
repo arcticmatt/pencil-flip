@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-12 12:06
+Date: 2016-10-13 10:04
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,17 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.13.16    
+The *Psychomachia* is a poem by Prudentius written in the fifth century AD.
+It's said to be the first and most influential "pure" medieval allegory. 
+The plot is pretty simple. There are some personified virtues (e.g. Hope, Sobriety,
+Faith, etc.), and some personified vices (Pride, Anger, Avarice, etc.). All
+the personifications are women, due to Latin word genders. The virtues and 
+vices duke it out one-on-one, with the virtues ultimately succeeding. Along 
+the way there are some Mortal Combat style fatalities, monologues about 
+stuff, etc. Psychomachia can also be used as a regular word to mean 
+"conflict within the soul", although it appears this is rare.
 
 ### 10.12.16    
 Some good stuff on Unicode, specifically related to its use in software:
