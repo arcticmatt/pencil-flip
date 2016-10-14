@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-13 10:06
+Date: 2016-10-14 11:08
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.14.16      
+come one and come all  
+linear algebra class   
+fundamental fun  
 
 ### 10.13.16     
 opportunity   

@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-13 10:04
+Date: 2016-10-14 11:11
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.14.16    
+Elementary row operations do not change the row space of a matrix. This means 
+that, given matrix `A`, `rowspace(A) == rowspace(rref(A))`. Another trick for 
+finding the row space of a matrix is to find the column space of the transpose
+of A. 
 
 ### 10.13.16    
 The *Psychomachia* is a poem by Prudentius written in the fifth century AD.
