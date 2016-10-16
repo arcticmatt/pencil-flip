@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-14 11:08
+Date: 2016-10-15 23:56
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.15.16      
+dj raise my hand    
+dancing fan youtube in hand    
+animal planet  
 
 ### 10.14.16      
 come one and come all  

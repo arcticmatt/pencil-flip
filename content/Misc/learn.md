@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-14 11:11
+Date: 2016-10-15 23:53
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.15.16    
+TIL you can make milk out of oats #postmilkgeneration. 
+SO [oatly.com](http://www.oatly.com/) SO Stockholm, CA.
 
 ### 10.14.16    
 Elementary row operations do not change the row space of a matrix. This means 
