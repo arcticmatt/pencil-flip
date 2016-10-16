@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.16.16      
+every morning goes  
+turn off airplane mode and drink  
+water, brush, water  
+
 ### 10.15.16      
 dj raise my hand    
 dancing fan youtube in hand    

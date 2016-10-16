@@ -10,6 +10,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.16.16    
+Etmyologically, the words "niggard" and "nigg^%" are unrelated. However, there 
+have been so many controversies about the word "niggard" that there is a [Wikipedia
+page about these controversies](https://en.wikipedia.org/wiki/Controversies_about_the_word_%22niggardly%22).
+One of these issues has led to a "national debate in the U.S." over whether the 
+word should be avoided.
+
 ### 10.15.16    
 TIL you can make milk out of oats #postmilkgeneration. 
 SO [oatly.com](http://www.oatly.com/) SO Stockholm, CA.
