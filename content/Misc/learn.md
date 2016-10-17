@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-15 23:53
+Date: 2016-10-16 15:05
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,16 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.17.16  
+There are `const` functions in C++. Only member methods should be labeled 
+as `const`, since they are used to make the function (implicitly) take 
+a `const` "this" pointer. In other words, a `const` function cannot modify 
+the object it's called on. Note that 
+
+* `const` functions can always be called
+
+* non-`const` functions can only be called by non-`const` objects
 
 ### 10.16.16    
 Etmyologically, the words "niggard" and "nigg^%" are unrelated. However, there 

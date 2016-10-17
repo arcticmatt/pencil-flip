@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-15 23:56
+Date: 2016-10-16 15:10
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.17.16  
+fevered fever dreams   
+eager beavers cut down things   
+future prospectus   
 
 ### 10.16.16      
 every morning goes  
