@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-16 15:05
+Date: 2016-10-16 10:12
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.18.16  
+Lobsters aren't immortal, they just have negligible senescence. Basically,
+when they die, it's not by gradual processes. Think I posted about 
+senescence some time ago.
 
 ### 10.17.16  
 There are `const` functions in C++. Only member methods should be labeled 

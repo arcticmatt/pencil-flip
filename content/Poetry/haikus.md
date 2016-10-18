@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-16 15:10
+Date: 2016-10-17 10:13
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.18.16  
+quickly write it down  
+understanding becomes drowned  
+that's way too much man  
 
 ### 10.17.16  
 fevered fever dreams   
