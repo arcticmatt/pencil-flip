@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-17 10:13
+Date: 2016-10-19 9:59
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.19.16   
+tastes like tomatoes  
+more chili powder more more    
+hm now its alright  
 
 ### 10.18.16  
 quickly write it down  
