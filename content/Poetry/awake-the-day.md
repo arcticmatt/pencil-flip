@@ -22,5 +22,5 @@ a daily schedule
 scares the stillness away   
 it is   
 unsettling to rest jolted by   
-monotonous reality  
+monotonous reality    
 </span>
