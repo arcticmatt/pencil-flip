@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-19 9:58
+Date: 2016-10-20 10:20
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,31 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.20.16  
+Two kinda interesting things this morning. First, Post-it TM notes are 
+bad for books (so are similar brands of sticky notes). They [leave behind 
+a residue](http://www.library.illinois.edu/prescons/services/education_training/stickynotes.html)
+which attracts dirt, makes pages stick together, or smears text,
+even if notes are immediately removed. This isn't just anecdotal evidence:
+the *National Archives and Records Administration (NARA)* conducted a study
+on this stuff. Further, some notes are made of poor quality paper, which 
+can cause damage over time. Even further, some notes (not THE Post-it TM note)
+use [poor quality adhesive](http://siarchives.si.edu/blog/post-it-or-not-post-it) 
+(butyrate) that discolors paper over time. Basically,
+this is actually kind of complicaed, and simply put, sticky notes are bad
+for books.
+
+Also this stackoverflow post about [how to check if a directory exists and create
+it if necessary?](http://stackoverflow.com/questions/273192/how-to-check-if-a-directory-exists-and-create-it-if-necessary)
+is quite good. It's a very simple question and then stuff starts to hit the 
+fan when blanket-catching `OSError`s as a workaround to a race condition doesn't
+work, etc. etc. 
+
+Note:  
+I think the poor quality paper thing is probably lignin paper. Apparently 
+[lignin reacts with light](http://cool.conservation-us.org/byauth/maravilla/deterioration-causes.html)
+and causes coloration. 
 
 ### 10.19.16  
 There are white guavas and pink guavas. Pink guavas get their color from an

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-19 9:59
+Date: 2016-10-20 10:10
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.20.16    
+writing everyday   
+can make your writing better   
+more succinct emails  
 
 ### 10.19.16   
 tastes like tomatoes  
