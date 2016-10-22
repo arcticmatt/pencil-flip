@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-20 10:10
+Date: 2016-10-21 23:24
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.21.16    
+sometimes the head aches    
+if sometimes was all the time   
+least we're not there yet   
 
 ### 10.20.16    
 writing everyday   

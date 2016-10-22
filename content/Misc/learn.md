@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-20 10:20
+Date: 2016-10-21 23:21
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.21.16  
+Etymology of [nausea](https://www.youtube.com/watch?v=JidJV1ue1lI) (comes from the Greek work *naus* for ship).
+
+> early 15c., vomiting, from Latin nausea "seasickness," from Ionic Greek nausia 
+(Attic nautia) "seasickness, nausea, disgust," literally "ship-sickness," from 
+naus "ship" (see naval). Despite its etymology, the word in English seems never 
+to have been restricted to seasickness.
 
 ### 10.20.16  
 Two kinda interesting things this morning. First, Post-it TM notes are 
