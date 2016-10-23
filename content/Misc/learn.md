@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-22 10:44
+Date: 2016-10-23 10:43
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.23.16  
+Chronic nosebleeds can be treated in a variety of ways. Cauterization seems 
+to be a common one, in which a stick of silver nitrate is stuck up 
+the nose and used to "burn the ends of all the blood vessels". Nasal packing,
+or the "application of sterile tampons to the nasal chambers", is another method.
+Finally, if neither of these methods succeed, surgery may be necessary. The
+patient is examined under general anesthesia and some type of surgical work on the 
+nose's blood vessels is performed to stem the bleeding.
 
 ### 10.22.16  
 > plash - noun - splash

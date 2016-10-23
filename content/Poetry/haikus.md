@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-23 00:11
+Date: 2016-10-23 10:45
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.23.16    
+shout out guava cheese  
+shout out efferdent plus mint  
+shout out holmes stand fan  
 
 ### 10.22.16    
 let's say distinctive    
