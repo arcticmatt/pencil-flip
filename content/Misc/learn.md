@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-21 23:21
+Date: 2016-10-22 10:44
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.22.16  
+> plash - noun - splash
+
+Found in *War and Peace*. 
 
 ### 10.21.16  
 Etymology of [nausea](https://www.youtube.com/watch?v=JidJV1ue1lI) (comes from the Greek work *naus* for ship).
@@ -513,7 +518,7 @@ logo, the alien, is named Snoo, a designation of symbolic rememberance.
 >If they survive the summer melt they are referred to as firn, German ‘of last year’. Firn are the building blocks of glaciers...
 
 ### 05.05.16  
->senescence - noun. - the condition or process of deterioration with age.
+>senescence - noun - the condition or process of deterioration with age.
 
 ### 05.04.16  
 Sylvia Plath's family nickname (she signed her letters home with it) was 

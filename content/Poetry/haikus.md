@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-21 23:24
+Date: 2016-10-23 00:11
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.22.16    
+let's say distinctive    
+unique or exceptional  
+it's one of a kind  
 
 ### 10.21.16    
 sometimes the head aches    
