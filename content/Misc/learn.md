@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-23 10:43
+Date: 2016-10-24 14:02
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,21 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.24.16  
+*Sic transit gloria mundi* - thus passes the glory of the world. Another
+interpretation: worldly things are fleeting. It appears many times 
+in pop culture (see Wikipedia), and used to be used in the ritual of 
+"papal coronation ceremonies" (crowning the pope). The phrase can also be used
+in reference to the stafflike instrument used in such ceremonies. 
+
+There's also a really nice [Emily Dickinson poem](http://www.poemhunter.com/best-poems/emily-dickinson/sic-transit-gloria-mundi/)
+which takes its name from this phrase.
+
+> "Sic transit gloria mundi,"  
+> "How doth the busy bee,"  
+> "Dum vivimus vivamus,"  
+> I stay mine enemy!   
 
 ### 10.23.16  
 Chronic nosebleeds can be treated in a variety of ways. Cauterization seems 
