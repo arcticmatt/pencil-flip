@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-24 14:02
+Date: 2016-10-25 15:52
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.25.16  
+In the original Old Testament (I think), Cain's sacrifice was put forward with 
+less good will than Abel's: "Abel, a generous shepherd, offered the fattest of 
+his sheep as an oblation to God. But Cain, a miserly farmer, offered only a 
+bunch of grass and some worthless seeds to him" (Wikipedia). However, in
+the Old Testament Narratives (Old English Poems which I'm actually reading
+for class), this detail is omitted. The entire recounting is quite sparse; 
+if I didn't know it was so important, I wouldn't think it was so important.
 
 ### 10.24.16  
 *Sic transit gloria mundi* - thus passes the glory of the world. Another

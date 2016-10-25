@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-24 13:54
+Date: 2016-10-25 15:52
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.25.16    
+pick up my package  
+check what is inside of it  
+it is a book yay  
 
 ### 10.24.16    
 i did all my sets   
