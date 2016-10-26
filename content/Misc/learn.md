@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-25 15:52
+Date: 2016-10-26 10:25
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,31 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.26.16  
+[www.tscapparel.com](http://www.tscapparel.com//) sells cheap clothes stuff "for the sole purpose of resale". Here's their official schpeal:
+> TSC is a distributor of blank apparel and accessories. We only sell to licensed 
+> screen printers, embroiderers, decorators, and members of the promotional products 
+> industry for the sole purpose of resale. 
+
+Here are some t-shirt models/prices that Caltech uses for silkscreening:
+
+    Gildan 5000 Heavyweight Tees
+      0274GL    $5.00
+    Gildan 64000 / SoftStyle Adult T-Shirt
+      0202gl    $7.00
+    Gildan 5V00L / Ladies V-Neck
+      0288gl    $7.00
+    Gildan 64V00 / SoftStyle Adult V-Neck T-Shirt -Unisex
+      0206gl    $7.00
+    Gildan Tanktops 2200
+      0409GL    $8.00
+    American Apparel unisex
+      0202AM    $9.00
+    American Apparel women’s Junior Fit 2102 cap sleeve
+      0213AM    $9.00
+    American Apparel Ladies’ Fine Jersey Tee
+      2102AM    $9.00
 
 ### 10.25.16  
 In the original Old Testament (I think), Cain's sacrifice was put forward with 

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-25 15:52
+Date: 2016-10-26 10:28
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.26.16    
+phone starts to vibrate  
+heart starts to beat excited  
+just security  
 
 ### 10.25.16    
 pick up my package  
