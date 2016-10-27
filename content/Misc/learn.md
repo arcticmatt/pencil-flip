@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-26 10:25
+Date: 2016-10-27 16:19
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.27.16  
+[Youtube keyboard shortcuts for ya](https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube).
+Some notable ones:
+
+`k/spacebar` - play/pause
+`left arrow` - rewind 5 seconds
+`right arrow` - fast forward 5 seconds
+`j` - rewind 10 seconds
+`l` - fast forward 10 seconds
+`0` - restart video
+`f` - toggle full screen
 
 ### 10.26.16  
 [www.tscapparel.com](http://www.tscapparel.com//) sells cheap clothes stuff "for the sole purpose of resale". Here's their official schpeal:

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-26 10:28
+Date: 2016-10-27 16:22
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.27.16    
+in-class math midterm  
+is this a speed writing race  
+what phrase should i use  
 
 ### 10.26.16    
 phone starts to vibrate  
