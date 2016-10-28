@@ -6,30 +6,36 @@ Slug: words-of-advice
 Authors: arctictern
 Summary: 
 
-<span style="font-family:Georgia">
-**Words of Advice**  
-Words flow from the mouth of a gregarious friend  
-towards the ears of a sagging man.  
-This rough river runs with intentions to save,  
-to uplift a sunken mass from the stony bed on which he lies.  
-Like any drug, there can be unintended side effects:  
-drowning, for one.  
+<p style="line-height: 125%">
+<span style="font-family:Georgia; font-size: 95%">
+<strong>Words of Advice</strong>  </br>
+Words flow from the mouth of a gregarious friend  </br>
+towards the ears of a sagging man.  </br>
+This rough river runs with intentions to save,  </br>
+to uplift a sunken mass from the stony bed on which he lies.  </br>
+Like any drug, there can be unintended side effects:  </br>
+drowning, for one.  </br>
 </span>
+</p>
   
-<span style="font-family:Georgia">
-Inevitably, a river becomes an ocean. A spill becomes  
-vast, beyond vision. The beach is meant for play,  
-but this void does not harbor such good will. Wave  
-after wave crashes on the dark surface as flecks of white  
-foam get flung to the sides. Moment after moment, a continuous  
-rise and fall.  
+<p style="line-height: 125%">
+<span style="font-family:Georgia; font-size: 95%">
+Inevitably, a river becomes an ocean. A spill becomes  </br>
+vast, beyond vision. The beach is meant for play,  </br>
+but this void does not harbor such good will. Wave  </br>
+after wave crashes on the dark surface as flecks of white  </br>
+foam get flung to the sides. Moment after moment, a continuous  </br>
+rise and fall.  </br>
 </span>
+</p>
   
-<span style="font-family:Georgia">
-To one man's eyes, these waters are refreshing: a cool dose  
-of reality. From the view of another, they submerge all  
-surroundings in an icy stasis. It's hard to breathe underwater.  
-But the former would not go for a swim himself. He is content  
-to sit by the shore, gazing at those who drown under the  
-weight of his words.  
+<p style="line-height: 125%">
+<span style="font-family:Georgia; font-size: 95%">
+To one man's eyes, these waters are refreshing: a cool dose  </br>
+of reality. From the view of another, they submerge all  </br>
+surroundings in an icy stasis. It's hard to breathe underwater.  </br>
+But the former would not go for a swim himself. He is content  </br>
+to sit by the shore, gazing at those who drown under the  </br>
+weight of his words.  </br>
 </span>
+</p>

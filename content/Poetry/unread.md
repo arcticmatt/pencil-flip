@@ -6,56 +6,58 @@ Slug: unread
 Authors: arctictern
 Summary: 
 
+<p style="line-height: 110%">
 <span style="font-family:Cantarell">
-**unread**  
-in a bookstore you'll find  
-an assortment of items  
-from actual books to  
-more knick-knacky trifles    
-there's the stack of cds  
-a collection of pens  
-tees whose bold graphics  
-recall books past read  
-once these items are browsed  
-curiosity sated  
-it’s time to move on to  
-the tomes that lay waiting  
-from cartoons and comics to  
-movies and fiction  
-philosophy psychology  
-a book on addiction  
-the number of spines may  
-outnumber us all  
-and to read through their contents  
-is a task far too tall  
-to read even one  
-might pass the whole day  
-though you may have the time  
-i must be on my way  
-so a visit in short  
-becomes simple in nature  
-browse for notable titles  
-skim &nbsp; &nbsp; &nbsp; &nbsp; buy for later  
-in this way a bookshelf  
-becomes frightening and tall  
-when the books yet unread  
-are most numerous of all  
-and the time left to read becomes  
-constantly shorter  
-the clock never stops ticking we just  
-keep getting older  
-yet the books don't stop coming  
-they just keep piling up  
-while some voice in your brain  
-whispers words that won't stop  
-*don't worry about   
-the old books on the shelf  
-they'll be taken care of  
-just take care of yourself  
-keep buying books that you  
-think you might read   
-even if they all sit here  
-indefinitely*  
-in a city you'll find  
-an assortment of bookstores  
+<strong>unread</strong>  <br/>
+in a bookstore you'll find  <br/>
+an assortment of items  <br/>
+from actual books to  <br/>
+more knick-knacky trifles    <br/>
+there's the stack of cds  <br/>
+a collection of pens  <br/>
+tees whose bold graphics  <br/>
+recall books past read  <br/>
+once these items are browsed  <br/>
+curiosity sated  <br/>
+it’s time to move on to  <br/>
+the tomes that lay waiting  <br/>
+from cartoons and comics to  <br/>
+movies and fiction  <br/>
+philosophy psychology  <br/>
+a book on addiction  <br/>
+the number of spines may  <br/>
+outnumber us all  <br/>
+and to read through their contents  <br/>
+is a task far too tall  <br/>
+to read even one  <br/>
+might pass the whole day  <br/>
+though you may have the time  <br/>
+i must be on my way  <br/>
+so a visit in short  <br/>
+becomes simple in nature  <br/>
+browse for notable titles  <br/>
+skim &nbsp; &nbsp; &nbsp; &nbsp; buy for later  <br/>
+in this way a bookshelf  <br/>
+becomes frightening and tall  <br/>
+when the books yet unread  <br/>
+are most numerous of all  <br/>
+and the time left to read becomes  <br/>
+constantly shorter  <br/>
+the clock never stops ticking we just  <br/>
+keep getting older  <br/>
+yet the books don't stop coming  <br/>
+they just keep piling up  <br/>
+while some voice in your brain  <br/>
+whispers words that won't stop  <br/>
+<i>don't worry about   <br/>
+the old books on the shelf  <br/>
+they'll be taken care of  <br/>
+just take care of yourself  <br/>
+keep buying books that you  <br/>
+think you might read   <br/>
+even if they all sit here  <br/>
+indefinitely</i><br/>
+in a city you'll find  <br/>
+an assortment of bookstores  <br/>
 </span>
+</p>

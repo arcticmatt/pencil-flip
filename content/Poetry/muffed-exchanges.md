@@ -6,37 +6,39 @@ Slug: muffed-exchanges
 Authors: arctictern
 Summary: 
 
+<p style="line-height: 100%">
 <span style="font-family:Courier New; font-size: 85%">
-**muffed exchanges with well-intentioned people**  
-sitting at a table with  
-impulsive substances discussing  
-tangential topics and laughing   
-intermittently  
-mason jar lightbulbs are  
-aesthetic and useless  
-the daylight is enough  
-to stare into her eyes  
-to watch them blink  
-blink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blink  
-stare  
-staring contest  
-the key is not to blink  
-good taste is key but   
-i wish i got what she got   
-old enough to know that looks aren’t  
-everything  
-but if that hair were shorter  
-would my heart still race  
-think back   
-or remember strangely to   
-find that all those friends  
-are losers  
-at least i’ve moulted conscious  
-enough to name that cover and   
-cough with restraint while fumbling over  
-lost names and wasted food   
-a slow exit and mechanical thanks is  
-all i can muster but you are welcome   
-for putting this china  
-away  
+<strong>muffed exchanges with well-intentioned people</strong>  </br>
+sitting at a table with  </br>
+impulsive substances discussing  </br>
+tangential topics and laughing   </br>
+intermittently  </br>
+mason jar lightbulbs are  </br>
+aesthetic and useless  </br>
+the daylight is enough  </br>
+to stare into her eyes  </br>
+to watch them blink  </br>
+blink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blink  </br>
+stare  </br>
+staring contest  </br>
+the key is not to blink  </br>
+good taste is key but   </br>
+i wish i got what she got   </br>
+old enough to know that looks aren’t  </br>
+everything  </br>
+but if that hair were shorter  </br>
+would my heart still race  </br>
+think back   </br>
+or remember strangely to   </br>
+find that all those friends  </br>
+are losers  </br>
+at least i’ve moulted conscious  </br>
+enough to name that cover and   </br>
+cough with restraint while fumbling over  </br>
+lost names and wasted food   </br>
+a slow exit and mechanical thanks is  </br>
+all i can muster but you are welcome   </br>
+for putting this china  </br>
+away  </br>
 </span>
+</p>

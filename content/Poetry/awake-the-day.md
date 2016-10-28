@@ -6,21 +6,23 @@ Slug: awake-the-day
 Authors: arctictern
 Summary: pt1
 
+<p style="line-height: 100%">
 <span style="font-family:Courier New; font-size: 85%">
-**awake the day**  
-when the sun rises my face depresses further  
-into pillows and breath builds up  
-within  
-releasing this rush of stale air again  
-and again a gradient of sleep returns me until  
-the sun’s signal is too strong to ignore  
-alone undercovers in soft darkness and  
-easy silence is not a cheap state   
-it takes effort to attain and   
-none to lose  
-a daily schedule   
-scares the stillness away   
-it is   
-unsettling to rest jolted by   
-monotonous reality    
+<strong>awake the day</strong>  <br/>
+when the sun rises my face depresses further  <br/>
+into pillows and breath builds up  <br/>
+within  <br/>
+releasing this rush of stale air again  <br/>
+and again a gradient of sleep returns me until  <br/>
+the sun’s signal is too strong to ignore  <br/>
+alone undercovers in soft darkness and  <br/>
+easy silence is not a cheap state   <br/>
+it takes effort to attain and   <br/>
+none to lose  <br/>
+a daily schedule   <br/>
+scares the stillness away   <br/>
+it is   <br/>
+unsettling to rest jolted by   <br/>
+monotonous reality    <br/>
 </span>
+</p>
