@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.28.16    
+9 million options   
+the choices kind of options   
+ah crap what to choose  
+
 ### 10.27.16    
 in-class math midterm  
 is this a speed writing race  

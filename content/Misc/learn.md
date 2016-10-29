@@ -10,6 +10,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.28.16  
+On mac, type `option-shift-k` and get . Google search this and whaddya know,
+www.apple.com is the first result. That's kinda cool. 
+
 ### 10.27.16  
 [Youtube keyboard shortcuts for ya](https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube).
 Some notable ones:
