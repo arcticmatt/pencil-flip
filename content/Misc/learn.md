@@ -10,6 +10,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 10.30.16  
+Cotton swabs were invented in the 1920s by this guy named Leo Gerstenzang. He
+got inspiration from watching his wife apply cotton wads to toothpicks in order
+to clean specific areas. He named his product *Baby Gays*. He later changed 
+this to *Q-Tips Baby Gays* (Q for quality), which then got shortened again to just
+*Q-Tips*.
+
 ### 10.29.16  
 Ok, this tip is actually legit. I think I learned this a while ago and I forgot,
 which I shouldn't have, because it's really important. You know those window 

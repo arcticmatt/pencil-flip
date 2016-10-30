@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 10.30.16    
+andrey natasha  
+a cute couple in russia  
+will they ever last  
+
 ### 10.29.16    
 you know whats real good  
 a trader joes burrito  
