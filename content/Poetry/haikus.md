@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-27 16:22
+Date: 2016-10-29 18:35
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 10.29.16    
+you know whats real good  
+a trader joes burrito  
+affordable too  
 
 ### 10.28.16    
 9 million options   

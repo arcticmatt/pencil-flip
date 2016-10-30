@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-27 16:19
+Date: 2016-10-29 18:34
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 10.29.16  
+Ok, this tip is actually legit. I think I learned this a while ago and I forgot,
+which I shouldn't have, because it's really important. You know those window 
+blinds, the ones made of a bunch of thin rectangles strung together than can
+be rotated to block/not-block light? And then you can also just raise the whole
+thing with a pull string? If you want to get the blinds to actually stay up,
+you pull the string, and then when you release it, make sure the string is 
+perfectly straight. That is, make sure your hand, or whatever you're pulling
+it with, is directly below where the string starts. If you want it to come 
+down, just pull the string and then give it slack when it's diagonal, or sideways,
+or something like that.
 
 ### 10.28.16  
 On mac, type `option-shift-k` and get . Google search this and whaddya know,
