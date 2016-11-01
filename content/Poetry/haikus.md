@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 11.01.16     
+an orange gourd dropped  
+shattered frozen didn't plop  
+kind of exciting  
+
 ### 10.30.16    
 andrey natasha  
 a cute couple in russia  

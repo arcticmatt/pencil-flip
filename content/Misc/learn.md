@@ -10,6 +10,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 11.01.16  
+On a mac, `option-shift-(volume up/down)` to adjust the volume by quarter
+increments.
+
 ### 10.30.16  
 Cotton swabs were invented in the 1920s by this guy named Leo Gerstenzang. He
 got inspiration from watching his wife apply cotton wads to toothpicks in order
