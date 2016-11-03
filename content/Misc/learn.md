@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-02 22:36
+Date: 2016-11-03 09:23
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.03.16  
+You should read some books faster than you think (Kant).
+You should read some books slower than you think (Hume, *Things Fall Apart*).
 
 ### 11.02.16  
 > bluestocking - noun (derogatory) - an intellectual or literary woman.

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-02 22:32
+Date: 2016-11-03 09:25
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.03.16     
+bathroom bottleneck   
+wait your turn to clean your back  
+should have got more sleep  
 
 ### 11.02.16     
 read that for salt man  
