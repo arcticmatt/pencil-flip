@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-10-29 18:35
+Date: 2016-11-02 22:32
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.02.16     
+read that for salt man  
+and made a presentation  
+overtly God reigns  
 
 ### 11.01.16     
 an orange gourd dropped  

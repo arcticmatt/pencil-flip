@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-10-29 18:34
+Date: 2016-11-02 22:36
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.02.16  
+> bluestocking - noun (derogatory) - an intellectual or literary woman.
+
+Found in *War and Peace*.
 
 ### 11.01.16  
 On a mac, `option-shift-(volume up/down)` to adjust the volume by quarter
@@ -108,7 +113,7 @@ patient is examined under general anesthesia and some type of surgical work on t
 nose's blood vessels is performed to stem the bleeding.
 
 ### 10.22.16  
-> plash - noun - splash
+> plash - noun - splash.
 
 Found in *War and Peace*. 
 
@@ -218,7 +223,7 @@ actor of Plankton's computer wife.
 Too lazy to write about the Canada Commando/Kanada Kommando/Kanadakommando so I'll
 just do this.
 
->sangfroid - noun. - the ability to stay calm in difficult or dangerous situations.
+>sangfroid - noun - the ability to stay calm in difficult or dangerous situations.
 
 He played that game where you stab a sharp thing between your fingers with 
 remarkable sangfroid. 
