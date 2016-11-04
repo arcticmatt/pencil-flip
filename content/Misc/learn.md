@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-03 09:23
+Date: 2016-11-04 13:58
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.04.16  
+[Caffeine toxicity](http://emedicine.medscape.com/article/821863-overview) is a 
+thing. Overdosing on caffeine ("ingesting in excessive amounts
+for extended periods") can result in headaches, agitation, seizures,
+chest pain, nausea, and more.
 
 ### 11.03.16  
 You should read some books faster than you think (Kant).

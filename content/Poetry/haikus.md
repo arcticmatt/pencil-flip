@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-03 09:25
+Date: 2016-11-04 13:53
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.04.16     
+full and half birthday   
+joey came and ate the time  
+barely any left  
 
 ### 11.03.16     
 bathroom bottleneck   
