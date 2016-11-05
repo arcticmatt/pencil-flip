@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-04 13:58
+Date: 2016-11-05 11:26
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.05.16  
+Gustave Flaubert worked on a few books before the famous *Madame Bovary*. 
+Included amongst these was the first version of *The Temptation of Saint
+Anthony*. He read the novel out loud to two friends over four days, and told 
+them to keep down any interruptions or opinions during that time. At the end
+of the reading, his friends told him to throw the manuscript in the fire, and 
+suggested that he write about day-to-day life instead of more fantastical subjects.
 
 ### 11.04.16  
 [Caffeine toxicity](http://emedicine.medscape.com/article/821863-overview) is a 

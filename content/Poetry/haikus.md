@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-04 13:53
+Date: 2016-11-05 11:30
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.05.16     
+band practice with hats   
+write down fast words say it back    
+pray and then listen  
 
 ### 11.04.16     
 full and half birthday   
