@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-05 11:30
+Date: 2016-11-06 10:26
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.06.16     
+where is paul allen   
+i see london i see france   
+and paul allen's head  
 
 ### 11.05.16     
 band practice with hats   

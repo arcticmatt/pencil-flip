@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-05 11:26
+Date: 2016-11-06 10:19
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,25 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.06.16  
+The title of the African novel *Things Fall Apart* is taken from the opening 
+lines of W.B. Yeat's poem ["The Second Coming"](https://www.poetryfoundation.org/poems-and-poets/poems/detail/43290):
+
+> *Turning and turning in the widening gyre*  
+> *The falcon cannot hear the falconer;*  
+> *Things fall apart; the centre cannot hold;*  
+> *Mere anarchy is loosed upon the world...*  
+
+Tangentially, here's a passage I liked from the novel. It's prefaced by Uchendu
+putting Okonkwo's problems into context by telling him of even greater problems,
+some of them personal. He ends his schpeal by asking if Okonkwo has heard "the song
+they sing when a woman dies", which goes like this:
+
+> *For whom is it well, for whom is it well?*  
+> *There is no one for whom it is well.*  
+
+This stuff is on page 135 (in my version).
 
 ### 11.05.16  
 Gustave Flaubert worked on a few books before the famous *Madame Bovary*. 
