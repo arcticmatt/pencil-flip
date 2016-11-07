@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-06 10:19
+Date: 2016-11-07 09:39
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.07.16  
+Sometimes I can't think of anything interesting.
+
+> blackamoor : noun : a dark-skinned person; *especially* : black
+
+I found this word in a Tintin book. I think Captain Haddock used it as 
+an insult (in a possibly racially offensive context). Not recommended for 
+real-world usage.
 
 ### 11.06.16  
 The title of the African novel *Things Fall Apart* is taken from the opening 
@@ -44,11 +53,11 @@ for extended periods") can result in headaches, agitation, seizures,
 chest pain, nausea, and more.
 
 ### 11.03.16  
-You should read some books faster than you think (Kant).
+You should read some books faster than you think (Kant).  
 You should read some books slower than you think (Hume, *Things Fall Apart*).
 
 ### 11.02.16  
-> bluestocking - noun (derogatory) - an intellectual or literary woman.
+> bluestocking : noun (derogatory) : an intellectual or literary woman.
 
 Found in *War and Peace*.
 
@@ -150,7 +159,7 @@ patient is examined under general anesthesia and some type of surgical work on t
 nose's blood vessels is performed to stem the bleeding.
 
 ### 10.22.16  
-> plash - noun - splash.
+> plash : noun : splash.
 
 Found in *War and Peace*. 
 
@@ -260,7 +269,7 @@ actor of Plankton's computer wife.
 Too lazy to write about the Canada Commando/Kanada Kommando/Kanadakommando so I'll
 just do this.
 
->sangfroid - noun - the ability to stay calm in difficult or dangerous situations.
+>sangfroid : noun : the ability to stay calm in difficult or dangerous situations.
 
 He played that game where you stab a sharp thing between your fingers with 
 remarkable sangfroid. 
@@ -657,7 +666,7 @@ logo, the alien, is named Snoo, a designation of symbolic rememberance.
 >If they survive the summer melt they are referred to as firn, German ‘of last year’. Firn are the building blocks of glaciers...
 
 ### 05.05.16  
->senescence - noun - the condition or process of deterioration with age.
+>senescence : noun : the condition or process of deterioration with age.
 
 ### 05.04.16  
 Sylvia Plath's family nickname (she signed her letters home with it) was 
@@ -758,12 +767,12 @@ In other words, Dell Curry gave Steph the chance to set this record!
 
 ### 04.12.16  
 Another lazy day, another definition. 
->ampipathic - adj. - hydrophilic + hydrophobic (molecule)
+>ampipathic : adj. : hydrophilic + hydrophobic (molecule)
 
 My professor's first stab at pronouncing this: ampifapic.
 
 ### 04.11.16  
->cutaneous - adj. - of, relating to, or affecting the skin.
+>cutaneous : adj. : of, relating to, or affecting the skin.
 
 ### 04.10.16  
 Pandan cake is a spongy green cake. It's spongy in texture (also kinda moist

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-06 10:26
+Date: 2016-11-07 09:35
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.07.16     
+natasha andrey  
+no more kissing in a tree  
+shipping for pierre  
 
 ### 11.06.16     
 where is paul allen   
