@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-07 09:39
+Date: 2016-11-08 15:44
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.08.16  
+There's a pretty decent [collection of Gimp plugins](http://registry.gimp.org/node/28613)
+that adds a bunch of Instagram filters to Gimp. Here's 
+[how to install](https://en.wikibooks.org/wiki/GIMP/Installing_Plugins) them. Basically
+you just download the python scripts, make sure they're executable, move them
+to some directory on your computer, and then restart Gimp.
 
 ### 11.07.16  
 Sometimes I can't think of anything interesting.

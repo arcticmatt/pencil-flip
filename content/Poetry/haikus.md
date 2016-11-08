@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-07 09:35
+Date: 2016-11-08 15:46
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.08.16     
+screened a few t-shirts  
+one of the bottoms got torn  
+it can still get worn  
 
 ### 11.07.16     
 natasha andrey  
