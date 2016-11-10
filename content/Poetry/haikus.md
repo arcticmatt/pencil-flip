@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-08 15:46
+Date: 2016-11-10 11:20
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.10.16     
+alarm rings for break   
+it's immediately snoozed   
+rivers come to mind  
 
 ### 11.08.16     
 screened a few t-shirts  

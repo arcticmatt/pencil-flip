@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-08 15:44
+Date: 2016-11-10 11:32
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.10.16  
+You can get awesome hand-crafted metal posters from [displate.com](https://displate.com/).
+They're super easy to hang because they come with an adhesive magnet. You can
+stick the magnet to the wall, and then attach the poster to the magnet, which
+allows for easy-repositioning of the poster. Apparently they have over 1,000 artists
+and 40,000 designs. They also plant 10 trees for each purchased Displate. 
+We have about six in our house now since my friend vic just bought us a bunch (thanks dude ~).
 
 ### 11.08.16  
 There's a pretty decent [collection of Gimp plugins](http://registry.gimp.org/node/28613)
