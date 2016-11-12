@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-10 11:20
+Date: 2016-11-12 12:37
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.12.16     
+in twenty odd years   
+road trip to braise & crumble    
+we'll look for zitch dogs  
 
 ### 11.10.16     
 alarm rings for break   

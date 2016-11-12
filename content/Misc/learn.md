@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-10 11:32
+Date: 2016-11-12 12:48
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,19 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.12.16  
+Boss Monster is a cool dungeon building card game. The goal of the game is to
+build up a strong dungeon that attracts and kills heroes (so a bit of a paradigm
+shift from the classic RPG). Each turn, you draw a "room" card which can be used
+to add to your dungeon. Then, a few heros are drawn. Heros are distributed to
+dungeons based on certain characteristics of the dungeons. If your dungeon kills 
+a hero, you get a point (first to 10 wins). Otherwise, you get wounded (5 wounds
+and you lose). There are a bunch of other intricacies involving spell cards and 
+room types/effects and whatnot; suffice it to say that the game gets suprisingly 
+(but not overly) strategic as the dungeons start to grow. Lastly, can't forget
+the awesome card designs - classic 8bit RPG goodness. Learned about this game 
+from Simon the Hag, and got it from Matt (thanks ~).
 
 ### 11.10.16  
 You can get awesome hand-crafted metal posters from [displate.com](https://displate.com/).
