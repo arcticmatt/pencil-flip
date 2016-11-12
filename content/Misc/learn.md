@@ -120,13 +120,13 @@ www.apple.com is the first result. That's kinda cool.
 [Youtube keyboard shortcuts for ya](https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube).
 Some notable ones:
 
-`k/spacebar` - play/pause
-`left arrow` - rewind 5 seconds
-`right arrow` - fast forward 5 seconds
-`j` - rewind 10 seconds
-`l` - fast forward 10 seconds
-`0` - restart video
-`f` - toggle full screen
+`k/spacebar` - play/pause  
+`left arrow` - rewind 5 seconds  
+`right arrow` - fast forward 5 seconds  
+`j` - rewind 10 seconds  
+`l` - fast forward 10 seconds  
+`0` - restart video  
+`f` - toggle full screen  
 
 ### 10.26.16  
 [www.tscapparel.com](http://www.tscapparel.com//) sells cheap clothes stuff "for the sole purpose of resale". Here's their official schpeal:
