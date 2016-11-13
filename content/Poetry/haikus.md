@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-12 12:37
+Date: 2016-11-13 10:07
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.13.16     
+fading fuzzy face   
+might run out of things to think  
+in seeable dark  
 
 ### 11.12.16     
 in twenty odd years   

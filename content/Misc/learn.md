@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-12 12:48
+Date: 2016-11-13 10:05
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.13.16  
+> helpmeet : noun : helpmate. A helpful companion or partner, especially one's husband or wife.
 
 ### 11.12.16  
 Boss Monster is a cool dungeon building card game. The goal of the game is to
