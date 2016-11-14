@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-13 10:05
+Date: 2016-11-14 10:19
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,23 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.14.16  
+Apparently Mike Will Made-It made the beat for Black Beatles in 10 minutes. Not
+sure how true this is, but [Forbes says it](http://www.forbes.com/sites/ogdenpayne/2016/11/11/what-you-didnt-know-about-rae-sremmurds-black-beatles-and-the-mannequinchallenge/#3c35e6f672a9). 
+
+Also, since that source is pretty unreliable, here's something that's actually 
+a thing. Bibliotherapy is, according to the *Online Dictionary for Library and
+Information Science*, 
+
+> The use of books selected on the basis of content in a planned reading program designed to facilitate the recovery of patients suffering from mental illness or emotional disturbance. Ideally, the process occurs in three phases: personal identification of the reader with a particular character in the recommended work, resulting in psychological catharsis, which leads to rational insight concerning the relevance of the solution suggested in the text to the reader's own experience. Assistance of a trained psychotherapist is advised.
+
+In a more basic sense, bibliotherapy is the use of books to help someone solve 
+their personal issues. The term was coined in 1916 by Samuel Crothers in an Atlantic
+Monthly article, but the practice/idea has been around for much longer. The oldest 
+known library motto in the world is "the house of healing for the soul", and 
+Marcus Aurelius's physician maintained a medicical library in the first century A.D.
+Was informed of this term by Kath (thanks ). 
 
 ### 11.13.16  
 > helpmeet : noun : helpmate. A helpful companion or partner, especially one's husband or wife.

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-13 10:07
+Date: 2016-11-14 12:05
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.14.16     
+beleaguer my fort   
+said johanna to sir gauss  
+he writes a quick sum  
 
 ### 11.13.16     
 fading fuzzy face   
