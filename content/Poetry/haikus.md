@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-14 12:05
+Date: 2016-11-15 15:48
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.15.16      
+hi my name is kale   
+i realize the namesake  
+my parents did not  
 
 ### 11.14.16     
 beleaguer my fort   

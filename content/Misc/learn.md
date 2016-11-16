@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-14 10:19
+Date: 2016-11-15 17:09
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,22 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.15.16  
+Some vi/vim things:
+
+* vi is pronounced vee-I but no one actually pronounces it like that.
+* vi was created by Bill Joy, who (of lesser importance) co-founded Sun Microsystems.
+* vi was originally written as the visual mode for a line editor called ex.
+* vi gets its name by abbreviating visual. Put into slightly more confusing but
+more technically correct language, it gets its name from "the shortest 
+unambiguous abbreviation for the ex command `visual`, which switches the ex 
+line editor to visual mode." ex is the line editor mentioned above.
+* vim = vi improved.
+
+The [Wikipedia page for vi](https://en.wikipedia.org/wiki/Vi), from which I stole
+basically all this information, is very interesting. You should read it. And then
+vim it. Don't geddit. Get it? Haha. I stole that joke from victor if he ever reads this.
 
 ### 11.14.16  
 Apparently Mike Will Made-It made the beat for Black Beatles in 10 minutes. Not
