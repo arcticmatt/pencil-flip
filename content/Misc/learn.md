@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-15 17:09
+Date: 2016-11-16 10:56
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,17 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.16.16  
+TIL of [water spouting](https://www.youtube.com/watch?v=z9r45O1eXtQ&feature=youtu.be).
+It was made famous by this guy called Hadji Ali in his "human flamethrower" act.
+For this act, he would drink a bunch of water followed by a bunch of kerosene.
+He would then forcefully regurgitate the kerosene ("spout" it) to incite large
+flames. Finally, he would put the flames out by spouting the water. David Blaine
+learned this trick from a guy in Africa, and now uses it in some of his acts (see
+the video linked above). Here's an [amazing gif](https://streamable.com/60n3)
+that may or may not demonstrate the trick (it might just be sleight of hand or 
+something). It also has Steph Curry, Drake, and Dave Chappelle in it which is cool.
 
 ### 11.15.16  
 Some vi/vim things:

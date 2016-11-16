@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-15 15:48
+Date: 2016-11-16 10:51
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.16.16      
+buy the first three books   
+was there even any point  
+time for the next three  
 
 ### 11.15.16      
 hi my name is kale   
