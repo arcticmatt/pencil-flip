@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-16 10:56
+Date: 2016-11-17 18:09
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.17.16  
+A theophany is the appearance of a deity to a human. A famous example would
+be God appearing to Moses as a burning bush. Another good example (not sure 
+how famous this is) pops up in the poem [*Andreas*](https://en.wikipedia.org/wiki/Andreas_(poem)),
+in which God disguises himself as a sailor. Under this guise, he captains a
+boat for Andrew, and asks him a bunch of questions about Christianity and 
+God and things of that nature.
 
 ### 11.16.16  
 TIL of [water spouting](https://www.youtube.com/watch?v=z9r45O1eXtQ&feature=youtu.be).
