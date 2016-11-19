@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-18 17:05
+Date: 2016-11-19 10:28
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.19.16      
+i want a thick kick   
+but master goes into red   
+how do you do it  
 
 ### 11.18.16      
 snap crackle pop as  

@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-18 16:58
+Date: 2016-11-19 11:56
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,17 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.19.16  
+Plumtree was a Halifax all-girl band. One day, Bryan Lee O'Malley woke up to 
+his morning alarm (a college radio station from the University of Western Ontario)
+and heard one of their songs playing. He got really into them; he liked their 
+"funny and violent and moody and dark" lyrics, and found it cool that they were 
+only a bit older than him (still in high school at the time). He went to their
+concert, and even got to hang out with the band a bit beforehand. Unfortunately,
+his sister and her friend were only ~16, so they had to leave early. He apparently
+still remembers the "searing guitar from the song 'Scott Pilgrim' blasting out the door"
+as they left. And that's the song that inspired the graphic novels.
 
 ### 11.18.16  
 Michael Voltaggio is an American chef who currently lives in LA. He's 
