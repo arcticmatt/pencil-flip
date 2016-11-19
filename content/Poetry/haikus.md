@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-17 18:05
+Date: 2016-11-18 17:05
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.18.16      
+snap crackle pop as  
+the cpu load goes up  
+and edges turn down  
 
 ### 11.17.16      
 late registration  

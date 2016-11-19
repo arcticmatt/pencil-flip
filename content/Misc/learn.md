@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-17 18:09
+Date: 2016-11-18 16:58
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,31 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.18.16  
+Michael Voltaggio is an American chef who currently lives in LA. He's 
+semi-famous because he won the sixth season of *Top Chef*. The head judge
+of *Top Chef* has said: "Out of all the cooks that have come through the show, 
+Michael is the most talented - both from a sensibility and technical standpoint.
+He has the chops to pull of what he's trying to do." MV has a two restaurants:
+ink.sack, which makes small, cheap, "artisanal" (unusual) sandwiches, and ink,
+which is a fancier "modern Los Angeles" restaurant right next to ink (like two
+doors down). Here's the current menu for ink, which changes frequently.
+![image](/images/ink_menu.png)
+Note that they also have dessert, which is really good. I guess the dessert menu
+is secret, because it's not listed on their website. The service at ink is great.
+The food came quickly, and the server always prefaced the dish
+with a quick description that went over our heads but sounded good and 
+fancy. We were probably served by around 5 different people throughout the 
+dinner. They recommended sharing and ordering all the dishes at once; I forget 
+what the reason was but I'm sure it's easier for them. There might be something about them ordering
+the dishes in a certain way, although if you order a lot this probably
+goes out the window. Anyways, we ordered 5 appetizers (1), 2 entrees (2),
+5 sides (+), and 4 desserts (all of them). The delineation between appetizers
+and entrees is kind of nonexistent. To get a complete meal, you need stuff 
+from both (1) and (2). (2) is more accurately classified as meatstuffs. 
+Anyways, one more interesting thing: apparently the hundreds (clothing company)
+did a collaboration with voltaggio on a tee called the "sack adam."
 
 ### 11.17.16  
 A theophany is the appearance of a deity to a human. A famous example would
