@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-19 11:56
+Date: 2016-11-20 10:40
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,23 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.20.16  
+A profile of Leo Tolstoy that I copied from my copy of *War and Peace* (Penguin,
+Anthony Briggs):
+
+> Leo Tolstoy was born in central Russia in 1828. He studied Oriental languages 
+and law (though failed to earn a degree in the latter) at the University of Kazan,
+and after a dissolute youth eventually joined an artillery regiment in the Caucasus 
+in 1852. He took part in the Crimean War, and the *Sebastopol Sketches* that emerged from 
+it established his reputation. After living for some time in St Petersburg and abroad, 
+he married Sofya Behrs in 1862 and they had thirteen children. The happiness this 
+brought gave him the creative impulse for his two greatest novels, *War and Peace* 
+(1869) and *Anna Karenina* (1877). Later in life his views became increasingly radical
+as he gave up his possessions in order to live a simple peasant life. After a quarrel 
+with his wife he fled home secretly one night to seek refuge in a monastery. He 
+became ill during this dramatic flight and died at the small railway station of 
+Astapovo in 1910.
 
 ### 11.19.16  
 Plumtree was a Halifax all-girl band. One day, Bryan Lee O'Malley woke up to 

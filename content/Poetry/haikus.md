@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-19 10:28
+Date: 2016-11-20 10:34
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.20.16      
+eat it in one bite  
+poop it in more than one poops  
+spicy all the time  
 
 ### 11.19.16      
 i want a thick kick   
