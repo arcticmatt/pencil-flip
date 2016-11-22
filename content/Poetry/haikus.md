@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-20 10:34
+Date: 2016-11-21 11:51
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.21.16   
+color to water   
+he says that's what you otter    
+otter pops are good  
 
 ### 11.20.16      
 eat it in one bite  

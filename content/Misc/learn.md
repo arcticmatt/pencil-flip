@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-20 10:40
+Date: 2016-11-21 11:52
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.21.16  
+TIL of a [lap steel guitar](https://en.wikipedia.org/wiki/Lap_steel_guitar). It's
+really cool. I'm too tired to write about it but now you know it exists. 
 
 ### 11.20.16  
 A profile of Leo Tolstoy that I copied from my copy of *War and Peace* (Penguin,
