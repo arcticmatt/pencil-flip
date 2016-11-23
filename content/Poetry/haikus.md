@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-21 11:51
+Date: 2016-11-22 21:45
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.22.16   
+wake up and no class  
+change of plans t swift drive fast   
+quick break for burgers   
 
 ### 11.21.16   
 color to water   

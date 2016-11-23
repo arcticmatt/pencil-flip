@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-21 11:52
+Date: 2016-11-22 22:19
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,20 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.22.16  
+[Set the Game](http://www.setgame.com/set/puzzle) is a thing. I had totally
+forgotten this existed. It's a card game where you look for patterns. You can
+also play online. The same company makes Quiddler which is also pretty fun. 
+But anyways, I'll briefly explain Set. The game is played by laying 12 cards 
+out in a 3 x 4 grid. There are 3 different shapes, 3 different colors, 3
+different shading patterns, and 3 different numbers (for a total of 81 cards, meaning
+each card is unique). For example, one card consists of a single-green-solid-squiggly
+(number-color-shading-shape). The goal is to look for triples 
+where each characteristic is completely the same or completely different. 
+For example, three cards that are all green but have three different shapes might
+be a valid triple. Whoever has the most cards at the ends wins. I played this game at 
+kath's house and lost very closely (out of practice).
 
 ### 11.21.16  
 TIL of a [lap steel guitar](https://en.wikipedia.org/wiki/Lap_steel_guitar). It's
