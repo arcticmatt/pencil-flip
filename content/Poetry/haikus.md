@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-22 21:45
+Date: 2016-11-23 10:46
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.23.16   
+drive to the car wash  
+do you want expensive one  
+i say no i'm good  
 
 ### 11.22.16   
 wake up and no class  

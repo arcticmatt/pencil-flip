@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-22 22:19
+Date: 2016-11-23 10:49
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.23.16  
+BIC pens are called BIC because the company was founded (in 1945) by a guy 
+called Baron Marcel Bich. So BIC is Bich minus the h.
 
 ### 11.22.16  
 [Set the Game](http://www.setgame.com/set/puzzle) is a thing. I had totally
