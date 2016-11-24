@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-23 10:49
+Date: 2016-11-24 10:18
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.24.16  
+Slow day.
+
+> imbroglio : noun : a complex dispute or argument. Or, an intriciate or complicated
+situation (as in a drama or novel).
 
 ### 11.23.16  
 BIC pens are called BIC because the company was founded (in 1945) by a guy 
