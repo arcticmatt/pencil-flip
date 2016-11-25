@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-24 10:01
+Date: 2016-11-25 8:56
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.25.16   
+what are the rules dude   
+dude the rules are that they change   
+what the heck man dude   
 
 ### 11.24.16   
 outside is freezing   

@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-24 10:18
+Date: 2016-11-25 9:29
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,26 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.25.16  
+Fluxx is a game. It's hard to explain how to play, so you should just play it.
+Just to give a little sense of how little sense it makes, it works a little like this.
+The game starts with one basic rule: draw one card, play one card. Everyone
+starts with a hand of three, and on their turn they follow the basic rule.
+As the game progresses, new rules (type of card) and goals (type of card) 
+will be played, changing how the game is played and won. For example, a rule 
+might be "Play 3 cards each turn", or "Draw 3 cards each turn," and a goal might 
+be "You win if you have a sandwich and a friend." Stuff like that. 
+
+A few more details - the game is supposed to take 5-30 minutes to play, and 
+is supposed to to be played with 2-6 players. It usually takes longer the more 
+players are involved; the goals change more frequently against each player,
+the keepers (good for winning, you'll get it if you play) are distributed more 
+widely, and there are just more turns to be played out. That being said, there's 
+not really a strategy to this game. It's so random and chaotic that any plans
+you may have often get destroyed as soon as you start making them. That's what
+makes it fun! Also, if you play with 7 players, it might take forever and annoy
+everyone (depending on who everyone is). Perhaps this game actually was playtested.
 
 ### 11.24.16  
 Slow day.
