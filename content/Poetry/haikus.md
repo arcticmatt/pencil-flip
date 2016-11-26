@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-25 8:56
+Date: 2016-11-26 10:11
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.26.16   
+dilated sun glass  
+look close to see rostopchin  
+is this white house down  
 
 ### 11.25.16   
 what are the rules dude   
