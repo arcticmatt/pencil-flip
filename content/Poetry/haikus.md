@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-26 10:11
+Date: 2016-11-27 9:56
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.27.16    
+song covering sucks   
+it doesn't suck but it's hard   
+mine sounds too midi  
 
 ### 11.26.16   
 dilated sun glass  

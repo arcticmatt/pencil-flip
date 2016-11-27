@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-25 9:29
+Date: 2016-11-27 10:12
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.27.16  
+[This article](http://www.theatlantic.com/health/archive/2015/11/plight-of-the-funny-female/416559/)
+about men not liking funny women is is pretty interesting. The three 
+main points I got from it are:
+
+* Men try harder to be funny (make more jokes) which makes them
+be perceived as funnier.
+* "Women want men who will tell jokes; men want women who will laugh at theirs."
+* Men can be turned off by a funny female. The experiment for this 
+sounds kind of weird though, so I'm not extremely sold on the evidence. 
+Indifference would make more sense to me.
 
 ### 11.26.16  
 Found my copy of *Reading the OED* at home so now I can do this.
