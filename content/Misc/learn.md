@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-27 10:12
+Date: 2016-11-28 17:45
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.28.16  
+Yellow Magic Orchestra was the first band to use the TR-808. 
+They were also one of the earliest, if not the earliest, to use it in a live
+performance when they performed their song ["1000 Knives."](https://www.youtube.com/watch?v=TT3W6Zl8bx4&index=1&list=RDTT3W6Zl8bx4). This is an electro-cover of Ryuichi Sakamoto's piano song 
+called ["Thousand Knives."](https://www.youtube.com/watch?v=0gBcVNcmgM8)
 
 ### 11.27.16  
 [This article](http://www.theatlantic.com/health/archive/2015/11/plight-of-the-funny-female/416559/)

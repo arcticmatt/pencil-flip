@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-27 9:56
+Date: 2016-11-28 17:34
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.28.16    
+the drive takes a while  
+so we ask many questions  
+and talk about plath  
 
 ### 11.27.16    
 song covering sucks   
