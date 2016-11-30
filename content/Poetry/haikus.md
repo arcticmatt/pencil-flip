@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-28 17:34
+Date: 2016-11-29 21:02
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.29.16    
+that mountain looks cool  
+like the idea of hiking  
+i'll enjoy the view  
 
 ### 11.28.16    
 the drive takes a while  

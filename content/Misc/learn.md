@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-28 17:45
+Date: 2016-11-29 21:08
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.29.16  
+> plangent : adj. : *of a sound* - loud, deep, and often sad.
 
 ### 11.28.16  
 Yellow Magic Orchestra was the first band to use the TR-808. 
