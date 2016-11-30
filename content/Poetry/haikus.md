@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-29 21:02
+Date: 2016-11-30 11:28
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 11.30.16    
+i love tensorflow  
+it's so understandable    
+haha just kidding  
 
 ### 11.29.16    
 that mountain looks cool  

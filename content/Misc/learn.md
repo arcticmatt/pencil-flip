@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-29 21:08
+Date: 2016-11-30 11:32
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 11.30.16  
+If you don't properly heat shirts after screening them, the whole design 
+might come off in the wash as one big layer of paint. Like, the whole thing will
+just peel off like an orange or something. Jim the art teacher informed us of this
+after we turned down the heat conveyer belt because it was slightly burning our 
+shirts. He told us to just make it faster. He also said something about the heat
+making the paint bond with the shirt instead of just laying on top of it (which
+is why it would peel off).
 
 ### 11.29.16  
 > plangent : adj. : *of a sound* - loud, deep, and often sad.
