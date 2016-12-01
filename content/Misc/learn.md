@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-11-30 11:32
+Date: 2016-12-01 10:04
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.01.16  
+An interesting bit from Susan Sontag's *Regarding the Pain of Others*:
+
+> Something becomes real - to those who are elsewhere, following it as "news" - 
+by being photographed. But a catastrophe that is experienced will often seem eerily
+like its representation. The attack on the World Trade Center on September 11, 2001,
+was described as "unreal," "surreal," "like a movie," in many of the first 
+accounts of those who escaped from the towers or watched from nearby. (After 
+four decades of big-budget Hollywood disaster films, "It felt like a movie" 
+seems to have displaced the way survivors of a catastrophe used to express the 
+short-term unassimilability of what they had gone through: "It felt like a dream.") (22 - 23)
 
 ### 11.30.16  
 If you don't properly heat shirts after screening them, the whole design 

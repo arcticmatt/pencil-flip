@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-11-30 11:28
+Date: 2016-12-01 9:57
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.01.16    
+poor peoples' poet  
+writes popular songs of love   
+and wanders weary   
 
 ### 11.30.16    
 i love tensorflow  
