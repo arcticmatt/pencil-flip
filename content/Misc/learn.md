@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-01 10:04
+Date: 2016-12-02 10:27
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.02.16  
+Donald Glover's third studio album, "Awaken, My Love!", came out today. Apparently
+he does all the vocals, which is pretty impressive considering the variation. 
+I'm not entirely sure how to check this; he doesn't list any collaborators,
+but I'm pretty sure (aka not really sure) you can just sample some random vocal 
+track, or get a random friend to do some vocals and not credit them on the album. 
 
 ### 12.01.16  
 An interesting bit from Susan Sontag's *Regarding the Pain of Others*:

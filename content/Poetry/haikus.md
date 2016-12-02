@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-01 9:57
+Date: 2016-12-02 9:57
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.02.16    
+free donuts for class   
+there are a bunch left over   
+so disappointing   
 
 ### 12.01.16    
 poor peoples' poet  
