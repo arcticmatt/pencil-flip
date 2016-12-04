@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-02 10:27
+Date: 2016-12-04 11:31
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,19 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.04.16  
+It's finals week so these might get kind of boring, if that changes anything.
+Modest Mouse has a song called "Sleepwalking" aka "Sleekwalkin'" aka 
+"Sleepwalking (Couples Only Dance Prom Night)" which appears on their *Interstate 8*
+EP and their *Building Nothing Out of Something* compilation album. I never thought
+about it before now, but that latter album name makes a lot of sense. Anyways,
+the intro is a "cover" or adaptation of the similarly named "Sleepwalk" by 
+Santo & Johnny, a song from the 1950s that gets its memorable melody from a steel
+guitar. More specifically, the sad little melody at the beginning of "Sleepwalking"
+is basically exactly the same as the introductory steel guitar part in "Sleepwalk."
+The loop that gets played through "Sleepwalking" also sounds kinda similar to the
+bassline in "Sleepwalk," but it's not exactly the same. 
 
 ### 12.02.16  
 Donald Glover's third studio album, "Awaken, My Love!", came out today. Apparently
