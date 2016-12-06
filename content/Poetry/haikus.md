@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-04 11:15
+Date: 2016-12-05 23:29
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.05.16    
+forgot the today   
+what the it's finals i guess    
+hm that makes some sense    
 
 ### 12.04.16    
 burning a cd   

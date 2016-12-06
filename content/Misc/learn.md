@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-04 11:31
+Date: 2016-12-05 23:32
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.05.16  
+Grandmaster Flash invented the thing where you move the vinyl with your hand.
+You know, to fastforward or rewind or loop a part over and over when you're 
+DJing. Before people would just move the tonearm, which was really imprecise.
+But then Grandmaster Flash was just like... I'm gonna touch the vinyl, even
+though it was taboo at the time. Got this tidbit from the Nextflix original
+Hip-Hop Evolution ep. 1, which is hosted by Shad(!).
 
 ### 12.04.16  
 It's finals week so these might get kind of boring, if that changes anything.
