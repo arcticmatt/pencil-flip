@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-05 23:32
+Date: 2016-12-06 16:32
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.06.16  
+I saw a TIL on Reddit today titled "TIL Stephen Colbert once took over a public
+access cable show in Michigan to interview Eminem on the air." So basically,
+it was someone posting a cool interview under the pretext of a TIL. I've
+decided to do the same thing here because [the video](https://youtu.be/PniJM5IwXfE?t) is just that phenomenal - not 
+just the Eminem part, but the entire thing.
 
 ### 12.05.16  
 Grandmaster Flash invented the thing where you move the vinyl with your hand.

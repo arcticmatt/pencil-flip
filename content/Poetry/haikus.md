@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-05 23:29
+Date: 2016-12-06 16:06
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.06.16    
+coffee and a scone  
+some energy for writing   
+or doing nothing  
 
 ### 12.05.16    
 forgot the today   
