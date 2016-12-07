@@ -10,7 +10,7 @@ Summary:
 ### 12.06.16    
 coffee and a scone  
 some energy for writing   
-or doing nothing  
+or doing nothing    
 
 ### 12.05.16    
 forgot the today   
