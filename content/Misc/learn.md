@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-06 16:32
+Date: 2016-12-07 9:46
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,30 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.07.16  
+My friend kshit explained the surprise exam paradox yesterday, which is 
+summarized as the [unexpected hanging paradox](https://en.wikipedia.org/wiki/Unexpected_hanging_paradox)
+on Wikipedia. I'll try to explain it here.
+
+So you're taking high school chemistry, and your teacher tells you that you have 
+a surprise test next week. She tells you that it will either be on Monday,
+Wednesday, or Friday. However, you realize that none of these days can be 
+a surprise. If the test is on Friday, then by Thursday night, you know 
+the test will be on Friday. So the test cannot be on Friday. Similarly, if 
+the test is on Wednesday, then by Tuesday night, you know the test will be
+on Wednesday, since it did not happen on Monday and cannot happen on Friday.
+The same logic applies to Monday. So you stride confidently into the week,
+knowing that there can be no suprise test. The test then happens on Monday
+and takes you by total surprise.
+
+One (perhaps naive) explanation is that this is a second order surprise. The
+teacher surprises you, the student, by defying your expectations. For example,
+you assume that the teacher will not have the test on Friday, because then 
+it would not be a surprise. But then, in order to surprise you, the teacher
+can put it on Friday. In that case, you wouldn't be surprised that the test 
+happened, but surprised that the test happened to happen (on Friday). Hopefully
+that makes some amount of sense. If not go ask kshit to explain it to you.
 
 ### 12.06.16  
 I saw a TIL on Reddit today titled "TIL Stephen Colbert once took over a public

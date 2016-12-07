@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-06 16:06
+Date: 2016-12-07 8:55
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.07.16    
+acm stud sesh   
+cause we're all acm studs  
+yea i factorize   
 
 ### 12.06.16    
 coffee and a scone  
