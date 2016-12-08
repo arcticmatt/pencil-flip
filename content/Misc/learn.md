@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-07 9:46
+Date: 2016-12-08 14:20
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.08.16  
+[There is no official/correct way to pronounce Moleskine.](http://www.moleskine.com/us/news/how-to-pronounce-the-name-moleskine-)
 
 ### 12.07.16  
 My friend kshit explained the surprise exam paradox yesterday, which is 
