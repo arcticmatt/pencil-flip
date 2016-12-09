@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-08 14:18
+Date: 2016-12-09 10:04
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.09.16    
+rapping fast is hard   
+so many takes they all suck   
+choose the least bad one   
 
 ### 12.08.16    
 shower air smells nice   

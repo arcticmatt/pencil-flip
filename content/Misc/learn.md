@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-08 14:20
+Date: 2016-12-09 10:11
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,30 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.09.16  
+I was reading this [article on theringer.com](https://theringer.com/the-great-j-cole-debate-31eb37c2a094#.rx6syvt5x) about whether or not J. Cole is good (his album came out today) 
+and there was an interesting thing about the Barnum effect. Shea Serrano
+wrote about it pretty well and I'm pretty lazy so I'll just copy his words here.
+It's a bit profane cause that's just the thug life so the censors are mine:
+
+> Serrano: Do you know what the Barnum effect is? I learned, like, maybe five 
+things in college that stuck with me after I graduated. The Barnum effect is
+one of them. The general definition of it is: "The observation that individuals
+will give high accuracy ratings to descriptions of their personality that
+supposedly are tailored specifically for them but are, in fact, vague and
+general enough to apply to a wide range of people." It’s the reason that things
+like horoscopes work. You read the horoscope, and it’s like, "Don’t ever cross
+a Gemini because it’s very hard to earn a Gemini’s trust back once you’ve
+broken it," and all the people who are Geminis are like, "Yup. That’s exactly
+right. That’s so me." It feels specific, but it’s mostly applicable to anyone.
+That is exactly what J. Cole is, and what he does. Take the J. Cole song
+"January 28th" as an example. He says: "If you ain’t aim too high / Then you
+aim too low." When you hear it while he’s rapping it, you’re like, "OK." But
+then you think about it for, like, five seconds, and it’s like, "Wait … what
+the eff?" I don’t think he’s actually relatable. I think he’s a familiar
+version of relatable, which people confuse with the real thing. 5/20. ("You the
+shiz only ’cause I digested you nignogs" — J. Cole, "See It to Believe It")
 
 ### 12.08.16  
 [There is no official/correct way to pronounce Moleskine.](http://www.moleskine.com/us/news/how-to-pronounce-the-name-moleskine-)
