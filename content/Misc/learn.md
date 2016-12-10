@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-09 10:11
+Date: 2016-12-10 9:38
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,16 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.10.16  
+[This article about sleep](https://www.theatlantic.com/magazine/archive/2017/01/how-to-sleep/508781/)
+mentions gelastic seizures, which are more interesting than the actual article.
+
+> A gelastic seizure, also known as "gelastic epilepsy" is a rare type of seizure 
+that involves a sudden burst of energy, usually in the form of laughing or crying.
+This syndrome usually occurs for no obvious reason and is uncontrollable. It 
+is slightly more common in males than females. The term Gelastic originates from 
+the Greek word "Gelos" which means laughter. (Wikipedia)
 
 ### 12.09.16  
 I was reading this [article on theringer.com](https://theringer.com/the-great-j-cole-debate-31eb37c2a094#.rx6syvt5x) about whether or not J. Cole is good (his album came out today) 

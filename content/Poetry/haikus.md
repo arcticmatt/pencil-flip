@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-09 10:04
+Date: 2016-12-10 9:36
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.10.16    
+big steam contraption    
+stands outside the art chateau   
+looks like its from mars   
 
 ### 12.09.16    
 rapping fast is hard   
