@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-10 9:38
+Date: 2016-12-11 20:11
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.11.16  
+I feel like I learned some things while driving today, but I also feel like
+I forgot all those things. I bought a *Midori* brand notebook the other day
+at a stationary store in Highland Park (the store was quite nice, it had cool 
+marine life posters). The notebook also seems pretty nice. I haven't
+used it yet, but it's cheaper than similarly sized Moleskines and looks like 
+it's of comparable quality. It doesn't have the accordian pocket at the back though,
+which is a bummer. Maybe I'll update this post after I use it for a bit.
 
 ### 12.10.16  
 [This article about sleep](https://www.theatlantic.com/magazine/archive/2017/01/how-to-sleep/508781/)
