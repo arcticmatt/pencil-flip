@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-11 20:03
+Date: 2016-12-12 22:32
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.12.16    
+i ran some errands   
+also did some christmas stuff  
+and watched atlanta   
 
 ### 12.11.16    
 what's a mangosteen   

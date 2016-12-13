@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-11 20:11
+Date: 2016-12-12 20:36
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.12.16  
+So Katz's Deli is super good. Everyone knows that. But does everyone know that
+kids love cinnamon toast crunch? Yes, everyone also knows that. But does everyone
+know that Katz's Deli has a super modern website and *ships* their product
+**nationwide**??? Probably not. [Check it](http://www.katzsdelicatessen.com/shipping.html).
+You can get *sliced pastrami by the pound* shipped from NY to your doorstep.
+You can get *matzoh ball soup* shipped from NY to your doorstep. What a 
+time to be alive.
 
 ### 12.11.16  
 I feel like I learned some things while driving today, but I also feel like
