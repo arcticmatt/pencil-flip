@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-12 22:32
+Date: 2016-12-13 11:56
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.13.16      
+waiting area   
+two matthews silently sit   
+orthodontists rule   
 
 ### 12.12.16    
 i ran some errands   

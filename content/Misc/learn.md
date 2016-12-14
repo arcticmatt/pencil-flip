@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-12 20:36
+Date: 2016-12-13 21:28
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.13.16  
+These are some good cookie recipes that my mom uses. I would describe the 
+cookies as thin yet chewy, and crispy at the edges. Either the "4 dozen"
+on the newspaper cutout is inaccurate or I don't know what 1.5 inches is.
+
+<img src="/images/cookie-recipes.jpg" style="width: 300px;"/>
+<!--![image](/images/cookie-recipes.jpg)-->
 
 ### 12.12.16  
 So Katz's Deli is super good. Everyone knows that. But does everyone know that
