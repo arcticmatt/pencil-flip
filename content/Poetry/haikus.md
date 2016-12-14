@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-13 11:56
+Date: 2016-12-14 10:46
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.14.16       
+finished war and peace   
+the peace parts were pretty sweet     
+war parts were ok   
 
 ### 12.13.16      
 waiting area   

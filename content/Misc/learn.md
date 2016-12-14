@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-13 21:28
+Date: 2016-12-14 10:48
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.14.16  
+Lil Yachty doesn't smoke or drink. He's straightedge. [He's the role model
+our kids need](https://youtu.be/Gz8Fo7R-dqg?t=492).
 
 ### 12.13.16  
 These are some good cookie recipes that my mom uses. I would describe the 
