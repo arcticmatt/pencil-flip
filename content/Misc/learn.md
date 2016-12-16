@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-14 10:48
+Date: 2016-12-16 14:22
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.16.16  
+Grand Moff Tarkin's first name is Wilhuff. I didn't even know that was a name.
+
+### 12.15.16  
+VST stands for virtual studio technology. A VST is basically just a software synth.
+It gets its name because it simulates "recording studio hardware" in software.
 
 ### 12.14.16  
 Lil Yachty doesn't smoke or drink. He's straightedge. [He's the role model

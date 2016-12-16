@@ -1,11 +1,21 @@
 Title: Life in Haiku
-Date: 2016-12-14 10:46
+Date: 2016-12-16 14:20
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.16.16       
+i spy fake tarkin   
+he looks realer than leia    
+she looks so fake dang      
+
+### 12.15.16       
+reading a novel   
+inside reading a novel   
+inside a novel   
 
 ### 12.14.16       
 finished war and peace   
