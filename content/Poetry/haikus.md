@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-16 14:20
+Date: 2016-12-19 13:56
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.19.16        
+saw an octopus   
+it was a cephalopod  
+jeez mom get it right  
 
 ### 12.16.16       
 i spy fake tarkin   

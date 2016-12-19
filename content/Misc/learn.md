@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-16 14:22
+Date: 2016-12-19 13:58
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.19.16  
+I was watching [this Buzzfeed video](https://www.youtube.com/watch?v=GTXP2FzQS94)
+and I learned that the first Korean astronaut ([Yi So-Yeon](https://en.wikipedia.org/wiki/Yi_So-yeon)) 
+brought kimchi to space. 
 
 ### 12.16.16  
 Grand Moff Tarkin's first name is Wilhuff. I didn't even know that was a name.
