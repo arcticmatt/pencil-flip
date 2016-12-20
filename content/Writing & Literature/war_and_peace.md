@@ -183,7 +183,7 @@ mind was assailed by thousands of reasons why it would be wrong, inconvenient
 and impossible to do so” (307). 
 
 <!-- -->
-> **About being to busy for women**  
+> **About being too busy for women**  
 “But he was at that stage of a young man’s life when he thinks he is too busy
 for that sort of thing and he is reluctant to tie himself down because freedom
 is so precious and necessary when there is so much to be done” (325). 
@@ -198,7 +198,7 @@ what she felt, though she said to herself, ‘No, I’ve probably got it all
 wrong. He must be as happy as I am’” (369). 
 
 <!-- -->
-> **About reuniting when a friend**  
+> **About reuniting with a friend**  
 “It always happens that when friends come together after a long separation the
 conversation jumps from one topic to another. Quick questions were met with
 short answers as they touched on things which they knew ought to be discussed
@@ -222,6 +222,7 @@ fellow men, Prince Andrey, on meeting someone new - especially someone like
 Speransky whom he knew but reputation - always entertained the hope of
 discovering in him a perfect blend of human qualities” (465). 
 
+<!-- -->
 > **About husbands and wives**  
 “Berg judged women by the standards of his own wife and considered all of them
 feeble and foolish. Vera judged men by the standards of her own husband and,
@@ -247,7 +248,7 @@ and irreproachable idleness that forms the chief attraction of military
 service, and it always will” (533). 
 
 <!-- -->
-> **About love, now** 
+> **About love, now**   
 “At that moment Natasha felt so overwhelmed by softness and tenderness that it
 wasn’t enough for her to love and know she was loved in return - now was what
 mattered, she wanted to embrace the man she loved now, to talk about love and
