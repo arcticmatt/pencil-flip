@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-19 13:58
+Date: 2016-12-20 10:03
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.20.16  
+The beat for the Beastie Boys song "Paul Revere" was made by reversing the 
+beat made by an 8O8 drum machine.
 
 ### 12.19.16  
 I was watching [this Buzzfeed video](https://www.youtube.com/watch?v=GTXP2FzQS94)

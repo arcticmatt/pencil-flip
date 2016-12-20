@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-19 13:56
+Date: 2016-12-20 10:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.20.16          
+rnb ballad  
+it still needs that 8O8  
+ok now it's hot  
 
 ### 12.19.16        
 saw an octopus   
