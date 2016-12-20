@@ -27,7 +27,8 @@ of someone who is interested in her, or some combination of the above.
 Vague images of Elizabeth and Darcy dancing to a piano immediately sprung 
 to my mind some ten minutes later. Basically, my brain tends towards
 simplifying both these novels into "girls talking about and maybe
-dancing with boys who they then start dating." 
+dancing with boys who they then start dating."   
+<br/>
 
 There are, however, some major differences. As aforementioned, *Pride 
 and Prejudice* is really boring. This book is pretty entertaining. Second,
@@ -48,7 +49,8 @@ about pride and prejudice, *My Brilliant Friend* is about family heritage
 and tradition. More specifically, it depicts the life of someone raised in 
 a very specific environment, where people go on to lead very specific
 lives, and asks the question: can she break free? What is it like to 
-try? How does an old generation raise a new one? 
+try? How does an old generation raise a new one?   
+<br/>
 
 There are small moments of bittersweetness contained throughout the book,
 which reads slightly like a journal from someone who is straining 
@@ -63,6 +65,7 @@ have expected: in all those years I had never, absolutely never, thought
 of her, while she said she had often thought of me with great nostalgia.
 (213)
 
+<!-- -->
 > But the violence of those few carefully constructed sentenced hurt me. 
 Nino hated his father with all his strength, that was why be talked so 
 much about the Karamazovs. But that wasn't the point. What disturbed me 
@@ -70,12 +73,14 @@ profoundly was that Donato Sarratore, as far as I had seen with my own
 eyes, heard with my own ears, was not repellent, he was the father that 
 every girl, every boy should want, and Marisa in fact adored him. (221)
 
+<!-- -->
 > [about Lila's writing] ...she left no trace of effort, you weren't 
 aware of the artifice of the written word. I read and I saw her, I heard 
 her. The voice set in the writing overwhelmed me, enthralled me even more 
 than when we talked face to face: it was completely cleansed of the cross 
 of speech, of the confusion of the oral... (227)
 
+<!-- -->
 > I had never seen her naked, I was embarrassed. Today I can say that it 
 was the embarrassment of gazing with pleasure at her body, of being the not
 impartial witness of her sixteen-year-old's beauty a few hours before 
@@ -85,6 +90,8 @@ awkwardness, a state in which you cannot avert the gaze or take away
 the hand without recognizing your own turmoil, without, by that retreat,
 declaring it, hence without coming into concfict with the undisturbed
 innocence of the one who is the cause of the turmoil... (312)
+
+<br/>
 
 This book is an easy and fast read. There are three other books in the 
 series, and while I hadn't the strongest urge to read the next right after
