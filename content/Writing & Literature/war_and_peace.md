@@ -6,7 +6,7 @@ Slug: war-and-peace
 Authors: arctictern  
 Summary: If I write it with an ampersand is it not legit
 
-I finally finished *War and Peace*. The story starts on page 5 (never really got
+&nbsp;&nbsp;&nbsp;&nbsp;I finally finished *War and Peace*. The story starts on page 5 (never really got
 why they don’t just start on page 1), and the epilogue ends on page 1358.
 There are also 13 pages of footnotes, most of which I did not read, 2 pages of
 character names and summaries, some maps, a section containing summaries of
@@ -39,9 +39,8 @@ I just read it and it's actually kinda similar, probably because we exchanged wo
 Just go read it it's good. Also on another related note, the BBC show is pretty
 good. Pierre looks kinda weird. Helene looks good. I'm not sure if it would
 make any sense if you haven't read the book though.  
-<br/>
 
-I won’t bore you with a detailed plot summary; I’m sure you can find that
+&nbsp;&nbsp;&nbsp;&nbsp;I won’t bore you with a detailed plot summary; I’m sure you can find that
 somewhere else on the internet. I will, however, give my version of a very
 high level summary. Let’s do it in five sentences. *War and Peace* is about the
 French invasion of Russia, which began in 1812. The peace parts follow the
@@ -50,9 +49,8 @@ affected by the war. The war parts follow the narrative of the war, talking
 about the soldiers as well as higher ups like the Tsar, Napoleon, and Kutuzov.
 There are also more philosophical sections during which Tolstoy lectures the
 reader about history, free will, etc.   
-<br/>
 
-I found the peace parts much more interesting than the war parts, which seems
+&nbsp;&nbsp;&nbsp;&nbsp;I found the peace parts much more interesting than the war parts, which seems
 to be the general consensus amongst the Amazon reviews that I read (not a huge
 sample size, I have other things to do). There are a ton of characters, and
 they’re all relatable in some way. Tolstoy is really good at writing sentences
@@ -77,9 +75,8 @@ on their own. In summary, you have a core group of characters, who change a
 lot but who still retain distinct personalities, and who interact with each
 other and with the outer cast. And the story is about these people, their
 lives and thoughts and growth. So it’s basically like *How I Met Your Mother*.   
-<br/>
 
-The war parts are not as interesting. They talk about what it’s like to be a
+&nbsp;&nbsp;&nbsp;&nbsp;The war parts are not as interesting. They talk about what it’s like to be a
 soldier in war, so there are some action scenes. They also talk about what
 it’s like to be an adjutant, or a commander, so there are a lot of scenes from
 their perspectives talking more about the strategic/communicative/political
@@ -94,23 +91,19 @@ soldiers fighting, the whole chain of command, in order to truly determine why
 events happen as they do. I include a quote about this below (the one on page
 914). I found Tolstoy’s musings about all this philosophical stuff to be a bit
 distracting from the story, and they weren’t particularly clear or convincing.  
-<br/>
 
-A few more random opinions I’d like to express. The beginning and ending
+&nbsp;&nbsp;&nbsp;&nbsp;A few more random opinions I’d like to express. The beginning and ending
 sentences are pretty terrible. The last 40 pages are Tolstoy’s philosophical
 musings, which was very unsatisfactory. I had just read 1300 pages for this
 guy, and he throws a bunch of complicated logic about free will at me. C’mon
 man.   
-<br/>
 
-Finally, here are some quotes that I liked. I probably bookmarked around 50
+&nbsp;&nbsp;&nbsp;&nbsp;Finally, here are some quotes that I liked. I probably bookmarked around 50
 places in this book, so I won’t list all of them. I will still list a lot of
 them though. It was kind of a pain to copy these because my particular version
 is not very conducive to laying flat open. I really wish Penguin would more
 strongly consider than when thinking about page dimensions and such. Ah well,
 here are the quotes - spoilers ahead.   
-<br/>
-
 
 > **About relationships**  
 “Even in the very warmest, friendliest and simplest of relationships you need

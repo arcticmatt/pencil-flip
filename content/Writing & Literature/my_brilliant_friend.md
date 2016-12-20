@@ -6,7 +6,7 @@ Slug: my-brilliant-friend
 Authors: arctictern  
 Summary: Written while eating a peach
 
-Bildungsroman is a romantic sounding word. It is "a novel about the moral
+&nbsp;&nbsp;&nbsp;&nbsp;Bildungsroman is a romantic sounding word. It is "a novel about the moral
 and psychological growth of the main character." A quote from the New 
 Yorker describes *My Brilliant Friend* as a "large, captivating, amiably
 peopled bildungsroman," and I'd say that's fairly accurate. I'd liken 
@@ -28,9 +28,8 @@ Vague images of Elizabeth and Darcy dancing to a piano immediately sprung
 to my mind some ten minutes later. Basically, my brain tends towards
 simplifying both these novels into "girls talking about and maybe
 dancing with boys who they then start dating."   
-<br/>
 
-There are, however, some major differences. As aforementioned, *Pride 
+&nbsp;&nbsp;&nbsp;&nbsp;There are, however, some major differences. As aforementioned, *Pride 
 and Prejudice* is really boring. This book is pretty entertaining. Second,
 the writing is much better. It's not just "and she said this and he said
 that and she looked and him and he wasn't looking and her mom was being 
@@ -50,9 +49,8 @@ and tradition. More specifically, it depicts the life of someone raised in
 a very specific environment, where people go on to lead very specific
 lives, and asks the question: can she break free? What is it like to 
 try? How does an old generation raise a new one?   
-<br/>
 
-There are small moments of bittersweetness contained throughout the book,
+&nbsp;&nbsp;&nbsp;&nbsp;There are small moments of bittersweetness contained throughout the book,
 which reads slightly like a journal from someone who is straining 
 to remember. The feeling of missing an old friend when she's standing
 right in front of you, of barely remembering someone while they hug you 
@@ -91,9 +89,8 @@ the hand without recognizing your own turmoil, without, by that retreat,
 declaring it, hence without coming into concfict with the undisturbed
 innocence of the one who is the cause of the turmoil... (312)
 
-<br/>
 
-This book is an easy and fast read. There are three other books in the 
+&nbsp;&nbsp;&nbsp;&nbsp;This book is an easy and fast read. There are three other books in the 
 series, and while I hadn't the strongest urge to read the next right after
 finishing the first, I think I'll get around to it. There's nothing about 
 the book that blew me away, no specific passages that I stopped to read 

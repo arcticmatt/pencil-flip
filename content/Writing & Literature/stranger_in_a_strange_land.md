@@ -6,7 +6,7 @@ Slug: stranger-in-a-strange-land
 Authors: arctictern  
 Summary: Playbook Entry #454: Pretend to be Man from Mars...  
 
-I came into this book having read two of Heinlen's kiddy books, 
+&nbsp;&nbsp;&nbsp;&nbsp;I came into this book having read two of Heinlen's kiddy books, 
 *The Star Beast* and *Time for the Stars*. The difference is probably 
 akin to that between the D-League and the NBA. That is, a lot more sex 
 happens. In short, the book parallels *The Jungle Book*. But instead 
@@ -60,7 +60,7 @@ prisoned inside her ruined body. He can make you feel the quiet, endless
 tragedy that there was never a girl born who ever grew older than eighteen
 in her heart... no matter what the merciless hours have done. (323)
 
-Overall, I would recommend this book. In both content and style, it 
+&nbsp;&nbsp;&nbsp;&nbsp;Overall, I would recommend this book. In both content and style, it 
 differs greatly from most modern books, making it interesting in 
 novelty alone. Besides that, it's just a good read: entertaining, funny,
 and sometimes eye-opening. At the very least, you can grok a bit more 

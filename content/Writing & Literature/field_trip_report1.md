@@ -8,13 +8,13 @@ Summary: Reading depressing poetry in a park
 
 *a field trip taken for En85, a poetry class*
 
-Our field trip took place in Tournament Park, located just below Caltech’s track
+&nbsp;&nbsp;&nbsp;&nbsp;Our field trip took place in Tournament Park, located just below Caltech’s track
 and field. Clouds obscured the sun, making the sky dreary and gray. A good day
 to read Anne Sexton. When we got to the park, a single group was there, two
 parents and two kids. The kids were playing and screaming, running around in the
 sand and riding on a small bike. We sat down at a table and started to read.  
 
-The situation was funny, in an odd, contrasting sort of way. There we were,
+&nbsp;&nbsp;&nbsp;&nbsp;The situation was funny, in an odd, contrasting sort of way. There we were,
 reading Anne’s depressing poetry about suicide and death and shunning religion,
 while right next to us carefree kids were making themselves tired with fun. I
 wonder what these people thought of us, if they inquired at all into what we
@@ -22,7 +22,7 @@ were doing. It would have been fairly obvious that we were reading some sort of
 literature, and perhaps fairly certain that we were discussing it. But I highly
 doubt thoughts veering towards suicide entered the minds of our watchers.  
 
-We can flip this situation on its head, look at it the other way round. I have
+&nbsp;&nbsp;&nbsp;&nbsp;We can flip this situation on its head, look at it the other way round. I have
 no idea what the parents were discussing. Maybe they were conversing about postpartum
 depression or extramarital affairs. Maybe they were wondering about us and what we
 were doing. Maybe they were talking about socks with dogs and frogs on them.
@@ -34,7 +34,7 @@ point of view, the situation seemed strange, unusual, a bit humorous. From their
 if they were even conscious of it, it most likely just seemed like any other day
 at the park.  
 
-Anne Sexton’s poetry is said to be largely confessional. In fact,
+&nbsp;&nbsp;&nbsp;&nbsp;Anne Sexton’s poetry is said to be largely confessional. In fact,
 she’s known to be one of the first confessional poets, alongside Sylvia Plath
 and Robert Lowell. There have, however, been claims that many of her poems have
 been misread, and that the supposed autobiographical elements they obtain do not
@@ -49,7 +49,7 @@ view of the poet, understand the state he or she was in at the time of writing.
 The same situation can be viewed in completely different ways, depending on
 whose eyes are doing the viewing.  
 
-Nonetheless, from the few poems I’ve read, I
+&nbsp;&nbsp;&nbsp;&nbsp;Nonetheless, from the few poems I’ve read, I
 would say Anne’s style is fairly confessional. She talks about her life in diary
 detail, breaking down familial deaths and suicide attempts with a keen
 precision. However, at the risk of sounding obvious and cliche, we must remember
