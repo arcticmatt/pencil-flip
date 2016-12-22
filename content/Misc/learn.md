@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-20 10:03
+Date: 2016-12-22 15:17
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,22 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.22.16  
+Opinion: Green Apple books is better than City Lights and Alley Cat. I think it's 
+bigger (I spent ~ an hour just wandering around the fiction & music annex until
+I realized that the main store was an entirely different thing) and it's got more
+personality (semicircular shelves are fun, cool staircases, music and records and dvds!,
+lots of used books, cool intercom system directing staff around, etc.). 
+Fact (according to the Google description): there are more than 60,000 new & 100,000 used books 
+at Green Apple books.  
+
+### 12.21.16  
+I bought a music box in Monterey yesterday. I'm too lazy to explain how it works,
+but it's very cool. They're different from gramophones if that's what you were
+thinking. The woman in the store told me they were invented in 1750, but it 
+appears they were actually invented in 1796 by Antoine Favre (at least
+that's when the "key advancement" was made, there were similar things before).
 
 ### 12.20.16  
 The beat for the Beastie Boys song "Paul Revere" was made by reversing the 

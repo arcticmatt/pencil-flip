@@ -1,11 +1,21 @@
 Title: Life in Haiku
-Date: 2016-12-20 10:00
+Date: 2016-12-22 9:51
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.22.16          
+my bookshelf is full    
+has duplicate DFWs  
+where did i get them      
+
+### 12.21.16          
+he shoots from halfcourt  
+he banks it like timmy d   
+he wins 5k bucks   
 
 ### 12.20.16          
 rnb ballad  
