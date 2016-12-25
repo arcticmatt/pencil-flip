@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 12.25.16          
+say merry christmas   
+on christmas eve (day before)   
+the wish should precede   
+
 ### 12.22.16          
 my bookshelf is full    
 has duplicate DFWs  

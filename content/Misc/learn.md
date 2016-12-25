@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-22 15:17
+Date: 2016-12-25 10:01
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.25.16  
+[Gucci Mane](https://www.youtube.com/watch?v=wlFQjExxD4U)
+made over $1,300,000 from prison. Also, Swizz Beatz is married to Alicia Keys.
+Crazy!
 
 ### 12.22.16  
 Opinion: Green Apple books is better than City Lights and Alley Cat. I think it's 
