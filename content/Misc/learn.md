@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-25 10:01
+Date: 2016-12-27 22:17
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.27.16  
+Cool facebook open source project: [PathPicker](https://github.com/facebook/pathpicker/).
 
 ### 12.25.16  
 [Gucci Mane](https://www.youtube.com/watch?v=wlFQjExxD4U)

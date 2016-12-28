@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-22 9:51
+Date: 2016-12-27 22:16
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.27.16          
+house or apartment  
+lap pool or outdoor hot tub  
+how far to safeway   
 
 ### 12.25.16          
 say merry christmas   
