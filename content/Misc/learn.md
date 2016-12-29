@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-27 22:17
+Date: 2016-12-29 8:46
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.29.16  
+TIL there's a diamond certification for records, which requires the sale of 
+10 million copies. For comparison, platinum is 1 million for an album, and 2 million for a single.
+Diamond doesn't have the album/single distinction; the 10 million applies to 
+any "single title".
 
 ### 12.27.16  
 Cool facebook open source project: [PathPicker](https://github.com/facebook/pathpicker/).

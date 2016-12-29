@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-27 22:16
+Date: 2016-12-29 8:42
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.29.16          
+stand behind the rock  
+three feet back avoids the splash   
+arrows till it's dead  
 
 ### 12.27.16          
 house or apartment  
