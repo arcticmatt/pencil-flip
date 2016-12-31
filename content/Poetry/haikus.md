@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-29 8:42
+Date: 2016-12-30 23:50
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 12.30.16          
+i bought some brown uggs   
+they keep my feet very warm   
+i wear them often  
 
 ### 12.29.16          
 stand behind the rock  

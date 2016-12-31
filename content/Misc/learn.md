@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-29 8:46
+Date: 2016-12-30 23:52
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 12.30.16  
+>douce : adj. : sober, gentle, and sedate. Also French for sweet.
 
 ### 12.29.16  
 TIL there's a diamond certification for records, which requires the sale of 
