@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2016-12-30 23:52
+Date: 2016-01-02 10:22
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,20 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.02.17  
+I found this out a while ago but I guess I forgot to use it. In Ableton,
+if you drag an clip into a midi track which has an instrument, it will convert
+the audio to midi (if no instrument is loaded, the midi track turns into an audio track
+and no conversion happens). Three options are given for the conversion: harmony, melody,
+and drums. Harmony supports polyphony, while melody is a monophonic conversion.
+The last option tries to pick up the percussive elements of the audio; if 
+the instrument loaded into the track is a drum rack, this type of conversion will
+be used automatically. You can also right-click the audio clip to access
+these conversions. Right-clicking also gives you the option to "Slice to New Midi Track,"
+which converts slices of the audio into samples for a drum rack (these slices
+can be set either automatically or with warp markers). All this info is available
+in the [Ableton Reference Manual](https://www.ableton.com/en/manual/converting-audio-to-midi/).
 
 ### 12.30.16  
 >douce : adj. : sober, gentle, and sedate. Also French for sweet.

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2016-12-30 23:50
+Date: 2016-01-02 10:04
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.02.17   
+he sings about it  
+she sings some more about it    
+none of it makes sense   
 
 ### 12.30.16          
 i bought some brown uggs   
