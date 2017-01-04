@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-02 10:04
+Date: 2017-01-04 10:20
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.04.17   
+question hot or cold   
+seems quite unambiguous   
+it's not beverages  
 
 ### 01.02.17   
 he sings about it  

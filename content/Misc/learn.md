@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-02 10:22
+Date: 2017-01-04 10:22
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.04.17  
+Found out about Jungian archetypes yesterday. Don't really understand them
+that much so I'll just [leave this Wikipedia link right here](https://en.wikipedia.org/wiki/Jungian_archetypes).
+I can say that they're related to the collective unconscious.
 
 ### 01.02.17  
 I found this out a while ago but I guess I forgot to use it. In Ableton,
