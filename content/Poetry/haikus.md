@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-04 10:20
+Date: 2017-01-05 20:44
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.05.17   
+sounds were being weird   
+reset synthino firmware    
+lfo was "wrong"  
 
 ### 01.04.17   
 question hot or cold   

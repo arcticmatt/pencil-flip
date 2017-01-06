@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-04 10:22
+Date: 2017-01-05 20:49
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,19 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.05.17  
+Some Lana Del Rey facts:
+
+* She was sent to Kent (private prep school) when she was 15 to deal with
+her "rampant alcohol abuse" (Wikipedia) 
+
+* She majored in philosophy at Fordham University
+
+* Lana on feminism: "For me, the issue of feminism is just not an interesting 
+concept. I'm more interested in, you know, SpaceX and Tesla, what's going to 
+happen with our intergalactic possibilities. Whenever people bring up feminism, 
+I'm like, god. I'm just not really that interested" ([FADER](https://web.archive.org/web/20140606052802/http://www.thefader.com/2014/06/04/lana-del-rey-cover-interview/))
 
 ### 01.04.17  
 Found out about Jungian archetypes yesterday. Don't really understand them
