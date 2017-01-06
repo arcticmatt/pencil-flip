@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-05 20:49
+Date: 2017-01-06 10:26
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.06.17  
+KitKats have three parts: the outside chocolate, the wafers, and the stuff between
+the layers. I always assumed that the stuff between the layers was just chocolate,
+although I guess I never thought about it too much. [Turns out that part is 
+made up of smashed-up KitKats](http://www.news.com.au/lifestyle/food/eat/kitkats-shocking-secret-revealed-whats-really-between-the-wafer-layers/news-story/62a49da8d5e0798f67736605141a5e3d).
+Woah.
 
 ### 01.05.17  
 Some Lana Del Rey facts:

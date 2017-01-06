@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-05 20:44
+Date: 2017-01-06 10:21
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.06.17   
+nino is dodo   
+why he acting stupido   
+i i do not know  
 
 ### 01.05.17   
 sounds were being weird   
