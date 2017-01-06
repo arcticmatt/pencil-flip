@@ -293,7 +293,7 @@ is to get to know them better.* (179)
 > **"Stupid script"**   
 *Melancholy isn't always a disorder that needs to be cured. It can be a species
 of intelligent grief which arises when we come face-to-face with the certainity
-that disappointment is written into the script from the start.*
+that disappointment is written into the script from the start.*   
 &nbsp;&nbsp;&nbsp;&nbsp;*We have not been singled out. Marrying anyone, even 
 the most suitable of beings, comes down to a case of identifying which variety
 of suffering we would most like to sacrifice ourselves for.* (181-182)
