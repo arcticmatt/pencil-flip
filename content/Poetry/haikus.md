@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-06 10:21
+Date: 2017-01-07 8:59
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.07.17   
+i hit the ball straight   
+he wacks upwards like a jerk    
+so much for the game   
 
 ### 01.06.17   
 nino is dodo   
