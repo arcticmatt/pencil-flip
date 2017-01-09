@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-07 8:59
+Date: 2017-01-09 9:44
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.09.17   
+i see the sea hare   
+i move the sea hare and it   
+does not care at all   
 
 ### 01.07.17   
 i hit the ball straight   

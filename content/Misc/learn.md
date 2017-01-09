@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-07 11:33
+Date: 2017-01-09 9:47
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,17 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.09.17  
+"Nudibranchs are a group of soft-bodied, marine gastropod molluscs which shed 
+their shells after their larval stage. They are noted for their often 
+extraordinary colours and striking forms. Currently, about 2,300 valid species 
+of nudibranchs are known.   
+
+Nudibranchs are often casually called sea slugs, but many sea slugs belong to 
+several taxonomic groups which are not closely related to nudibranchs."   
+
+Alternatively, a fancy way of describing slimy things in the sea.   
 
 ### 01.07.17  
 Virginia Woolf wrote "a woman must have money and a room of her own if she is
