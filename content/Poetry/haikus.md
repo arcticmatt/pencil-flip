@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-09 9:44
+Date: 2017-01-10 10:05
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.10.17   
+a blurry snowflake   
+appears on a square of silk   
+in wintry colors   
 
 ### 01.09.17   
 i see the sea hare   

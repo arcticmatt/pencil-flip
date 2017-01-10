@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-09 9:47
+Date: 2017-01-10 10:10
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,20 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.10.17  
+>metonymy : noun : the substitution of the name of an attribute or adjunct for 
+that of the thing meant, for example *suit* for *business executive*, or the 
+*track* for *horse racing*.
+
+<!-- -->
+> "Is it really *her* I love," I thought as I looked again at Chloe reading
+on the sofa across the room, "or simply an idea that collects itself around her 
+mouth, her eyes, her face?" In using her face as a guide to my soul, was I not perhaps
+guilty of mistaken **metonymy**, whereby an attribute of an entity is substituted
+for the entity itself (the crown for the monarchy, the wheel for the car, the 
+White House for the U.S. government, Chloe's angelic expression for Chloe...)?
+(*On Love*, pg. 86)
 
 ### 01.09.17  
 "Nudibranchs are a group of soft-bodied, marine gastropod molluscs which shed 
