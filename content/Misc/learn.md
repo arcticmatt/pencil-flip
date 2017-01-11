@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-10 10:10
+Date: 2017-01-11 9:39
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.11.17  
+The lecturer for my "Logic Model Checking for Formal Software Verification"
+class created [Spin](http://spinroot.com/spin/whatispin.html), a tool used 
+to formally verify multi-threaded software applications.
 
 ### 01.10.17  
 >metonymy : noun : the substitution of the name of an attribute or adjunct for 
