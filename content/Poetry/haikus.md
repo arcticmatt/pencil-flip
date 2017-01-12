@@ -1,5 +1,5 @@
 Title: Life in Haiku
-Date: 2017-01-11 9:31
+Date: 2017-01-12 9:20
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
@@ -7,10 +7,15 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.12.17    
+make some lentil soup   
+because we eat like peasants    
+who love potatoes   
+
 ### 01.11.17   
 it's impossible  
 to focus in power hum  
-(too long three hours hum)  
+(three hours too long hum)  
 
 ### 01.10.17   
 a blurry snowflake   

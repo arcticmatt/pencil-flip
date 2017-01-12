@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-11 9:39
+Date: 2017-01-12 9:54
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.12.17  
+>anhedonia : noun : inability to feel pleasure.
+
+<!-- -->
+>Dr. Saavedra had diagnosed a case of anhedonia, a disease defined by the British
+Medical Association as a reaction remarkably close to mountain sickness resulting
+from the sudden terror brought on by the threat of happiness. It was a common disease
+among tourists in this region of Spain, faced in these idyllic surroundings with
+the sudden realization that earthly happiness might be within their grasp, and prey
+therefore to a violent physiological reaction designed to counteract such a daunting
+possibility. (*On Love*, pg. 123)
 
 ### 01.11.17  
 The lecturer for my "Logic Model Checking for Formal Software Verification"
