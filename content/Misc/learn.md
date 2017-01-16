@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-12 9:54
+Date: 2017-01-16 11:25
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,28 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.16.17  
+>bathetic : adj. : producing an unintentional effect of anticlimax. Or, characterized
+by bathos, which is "the sudden appearance of a silly idea or event in a book, movie,
+etc., that is serious in tone." 
+
+### 01.15.17  
+I read *The Castle of Otranto* today. It's a pretty interesting book that fails
+the Bechdel test quite nicely. In the introduction it says this:
+
+> Accordingly, the Goths laid the foundations of culture - particularly of 
+literary culture. While Temple agreed that the Goths invented rhyme, he 
+placed this innovation within the powerful cultural context of literacy. 
+The Goths, it was imagined, wrote in a Runic alphabet comparable in the 
+development of written language to the Hieroglyphs of ancient Egypt. (xx)
+
+I can't verify it on the internet (Wikipedia has contrasting information) but
+I guess it's still slightly interesting.
+
+### 01.14.17  
+The top DJs in the world make order of [$10 million a year](http://www.forbes.com/pictures/eeel45jfeg/1-tiesto-22-million/#2f7967f6ccc9).
+On a related note, here's an interesting article about [Skrillex](http://www.forbes.com/sites/zackomalleygreenburg/2012/08/02/skrillex-the-15-million-dj/#3f97aa7e407a).
 
 ### 01.12.17  
 >anhedonia : noun : inability to feel pleasure.

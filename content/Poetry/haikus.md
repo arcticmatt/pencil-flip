@@ -1,5 +1,5 @@
 Title: Life in Haiku
-Date: 2017-01-12 9:20
+Date: 2017-01-16 11:13
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
@@ -7,10 +7,25 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.16.17    
+a crock pot morning   
+involves washing, chopping, and   
+some light seasoning   
+
+### 01.15.17    
+arpeggiated   
+e11 chord and a   
+key switch, she's in love   
+
+### 01.14.17    
+if you can't play it   
+draw it move it loop it like   
+dead mau5 always does   
+
 ### 01.12.17    
 make some lentil soup   
 because we eat like peasants    
-who love potatoes   
+and love potatoes   
 
 ### 01.11.17   
 it's impossible  
