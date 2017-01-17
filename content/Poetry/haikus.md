@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-16 11:13
+Date: 2017-01-17 9:55
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.17.17    
+research haskell for   
+e11 the best class    
+facebook uses it   
 
 ### 01.16.17    
 a crock pot morning   

@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-16 11:25
+Date: 2017-01-17 9:57
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.17.17  
+The backends of [Chordify](https://chordify.net/) and [Detexify](http://detexify.kirelabs.org/classify.html)
+are written in Haskell.
 
 ### 01.16.17  
 >bathetic : adj. : producing an unintentional effect of anticlimax. Or, characterized
