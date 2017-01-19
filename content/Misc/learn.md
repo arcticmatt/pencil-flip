@@ -10,6 +10,13 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 01.18.17  
+I should do something about Margaret Cavendish (super cool lady), but I'm
+a bit too tired to synthesize information right now. So instead I'll just
+post something about volplaning, which is a super cool sounding word.
+
+>volplane : verb : to glide in or as if in an airplane.
+
 ### 01.17.17  
 The backends of [Chordify](https://chordify.net/) and [Detexify](http://detexify.kirelabs.org/classify.html)
 are written in Haskell.

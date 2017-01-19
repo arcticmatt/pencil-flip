@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary: 
 
+### 01.18.17    
+there's nothing harder    
+than pinning proper pages     
+there's always one left   
+
 ### 01.17.17    
 research haskell for   
 e11 the best class    
