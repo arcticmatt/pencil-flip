@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-17 9:57
+Date: 2017-01-22 23:57
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.22.17  
+[Rihanna sampled Tame Impala and it's awesome](https://www.youtube.com/watch?v=Sl7weoMRqKU).
 
 ### 01.18.17  
 I should do something about Margaret Cavendish (super cool lady), but I'm

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-17 9:55
+Date: 2017-01-22 23:56
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.22.17     
+word is obliscence   
+but phones off, don't look it up    
+just decide yourself   
 
 ### 01.18.17    
 there's nothing harder    
