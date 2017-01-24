@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-22 23:57
+Date: 2017-01-24 10:12
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,16 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.24.17  
+There's this game called [Wild Animal Racing](http://store.steampowered.com/app/389510/).
+If you play it, your IQ might drop by 15-25%. Here's a sample review:
+
+>this game actually cured my depression and id love to thank the devs. thank you. 
+my life has meaning again and ill continue to gift this to an insane amount of 
+my friends in the future. 
+
+Why haven't you bought it yet?
 
 ### 01.22.17  
 [Rihanna sampled Tame Impala and it's awesome](https://www.youtube.com/watch?v=Sl7weoMRqKU).

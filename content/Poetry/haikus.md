@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-22 23:56
+Date: 2017-01-24 10:09
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.24.17     
+forty two at lunch    
+i've never seen that happen    
+and i'm super old   
 
 ### 01.22.17     
 word is obliscence   
