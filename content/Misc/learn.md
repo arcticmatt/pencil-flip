@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-24 10:12
+Date: 2017-01-27 10:37
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.27.17  
+> "The tendency to like (or dislike) everything about a person - including things
+you have not observed - is known as the halo effect" (*Thinking, Fast and Slow*, 82).
+
+A couple of examples:
+
+* My new iPhone is amazing! -> Apple is amazing!
+
+* That girl was really nice (and quite attractive), and we had a great ten-minute 
+conversation. -> She is definitely marriage material.
+
 
 ### 01.24.17  
 There's this game called [Wild Animal Racing](http://store.steampowered.com/app/389510/).

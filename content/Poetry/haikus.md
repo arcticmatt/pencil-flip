@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-24 10:09
+Date: 2017-01-27 10:29
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.27.17     
+woolf had her own room    
+pizan built a tall castle     
+both need foundations   
 
 ### 01.24.17     
 forty two at lunch    
