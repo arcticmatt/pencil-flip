@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-27 10:37
+Date: 2017-01-29 23:44
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,22 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 01.29.17  
+My bro kshit is at a big Indian wedding right now. He's keeping us updated
+with a lot of interesting/funny/strange (to me) wedding traditions. One of them 
+is called **Joota chupai**. Here's what [Wikipedia says about it](https://en.wikipedia.org/wiki/Punjabi_wedding_traditions):
+
+> It literally means 'hiding the shoes'. The bride’s sisters indulge in stealing 
+of shoes. It is a fun tradition, in which the girls charge a fee for agreeing 
+to return the shoes. They demand Kalecharis of gold for the bride's sisters 
+and of silver for her cousins. 
+
+So basically, the bride's sisters steal the grooms shoes and make him pay for them 
+(Wikipedia says gold and silver, but it's usually just cash nowadays).
+Apparently, for the weddig kshit is at, this thing ended at 4 (I'm assuming AM)
+and the dude paid 5100 rupees (~75 USD) because everyone was too tired to 
+negotiate.
 
 ### 01.27.17  
 > "The tendency to like (or dislike) everything about a person - including things

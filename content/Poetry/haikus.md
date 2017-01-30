@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-01-27 10:29
+Date: 2017-01-29 23:39
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 01.29.17     
+ginger raised prices    
+the used bookstore has roahl dahl   
+funny instrument   
 
 ### 01.27.17     
 woolf had her own room    
