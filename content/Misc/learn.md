@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-01-29 23:44
+Date: 2017-02-01 10:19
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.01.17  
+Victor is bros with the beard dude at Red Door. He even gave him one of our
+beaver division shirts. He told me that the Red Door guy told him that 
+Joy Division (the band) is named after a Nazi concentration camp where soldiers would 
+go to rape the occupants. Doing some [quick googling](http://www.spiegel.de/international/nazi-sex-slaves-new-exhibition-documents-forced-prostitution-in-concentration-camps-a-459704.html),
+it appears that these camps acted as incentives for non-Jewish concentration 
+camp slave laborers. 
+
+*House of Dolls*, a 1955 novella, coined this term. From Wikipedia:
+>The novella describes "Joy Divisions", which were groups of Jewish women in the 
+concentration camps during World War II who were kept for the sexual pleasure of Nazi soldiers.
 
 ### 01.29.17  
 My bro kshit is at a big Indian wedding right now. He's keeping us updated
