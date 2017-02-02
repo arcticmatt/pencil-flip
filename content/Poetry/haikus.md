@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-02-01 10:14
+Date: 2017-02-02 9:56
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 02.02.17     
+easy office hours   
+so i survey bob dylan    
+and north country girls   
 
 ### 02.01.17     
 in wuthering heights   

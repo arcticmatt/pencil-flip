@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-01 10:19
+Date: 2017-02-02 10:02
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.02.17  
+[Corn smut is a fungus that grows on corn](http://www.npr.org/sections/thesalt/2015/08/24/433232707/scourge-no-more-chefs-invite-corn-fungus-to-the-plate).
+It "transforms each corn kernel into a bulbous, bulging bluish-grey gall."
+There are a lot of people who hate the stuff. However, there are also people
+who try to grow it; in Mexico, where they call it *huitlacoche*, it's viewed
+as a delicacy.
 
 ### 02.01.17  
 Victor is bros with the beard dude at Red Door. He even gave him one of our
