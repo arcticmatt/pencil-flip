@@ -26,7 +26,7 @@ now, the pictures are a better indicator.
 
 The theme of this one is "improv." Matt did some improv drawings, whatever that means.
 I think you just kinda think of something and then draw it (no planning or sketching
-or anything). Not really sure though. He also wrote some poem. I like them.
+or anything). Not really sure though. He also wrote some poems. I like them.
 I played a bunch of easy chords on my guitar, freestyled over them, and 
 recorded/wrote down the output. This was the first zine we (Matt & Matt) made together.
 <object data="http://blog.pencilflip.com/images/improv_pages.pdf" type="application/pdf" width="700px" height="700px">
