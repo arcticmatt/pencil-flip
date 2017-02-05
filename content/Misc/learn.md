@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-02 10:02
+Date: 2017-02-04 23:52
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.04.17  
+Too lazy to look stuff up so I'm just going off what Kath said.
+Figma is an online design tool. It's got good collaboration tools, is free, 
+and works in any browser. It's mainly for UI design, which isn't usually 
+super vector heavy, so it shouldn't be slow.
 
 ### 02.02.17  
 [Corn smut is a fungus that grows on corn](http://www.npr.org/sections/thesalt/2015/08/24/433232707/scourge-no-more-chefs-invite-corn-fungus-to-the-plate).

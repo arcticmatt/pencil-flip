@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-02-02 9:56
+Date: 2017-02-04 23:52
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 02.04.17      
+we did acm     
+not sure if i learned that much    
+also some zine stuff   
 
 ### 02.02.17     
 easy office hours   
