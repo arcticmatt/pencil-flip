@@ -53,7 +53,7 @@ a super good designer. She's also probably the happiest person I know; according
 this zine is about all things happy.  It has drawings of cats and flowers, a 
 quote from winnie the pooh, a translation of a chinese love song, and a bunch of 
 other happy stuff.   
-<br/>
+
 <object data="http://blog.pencilflip.com/images/happy_pages.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://blog.pencilflip.com/images/happy_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/happy_pages.pdf">Download PDF</a>.</p>
