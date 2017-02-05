@@ -16,7 +16,7 @@ If you have aphasia you can probably still read it because all the words are wri
 That made a lot of sense. Anyways, this zine has really cool-styled drawings
 that accompany short stories or ideas or statements that might be about
 monsters, superheroes, giving someone a mixtape, play-doh; I'll stop describing
-now, the pictures are probably a better indicator.
+now, the pictures are a better indicator.
 <object data="http://blog.pencilflip.com/images/aphasia_pages.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://blog.pencilflip.com/images/aphasia_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/aphasia_pages.pdf">Download PDF</a>.</p>
@@ -26,21 +26,21 @@ now, the pictures are probably a better indicator.
 
 The theme of this one is "improv." Matt did some improv drawings, whatever that means.
 I think you just kinda think of something and then draw it (no planning or sketching
-or anything). Not really sure though. I played a bunch of easy chords on my guitar,
-freestyled over them, and recorded/wrote down the output. This was the first
-zine we (Matt & Matt) made together.
+or anything). Not really sure though. He also wrote some poem. I like them.
+I played a bunch of easy chords on my guitar, freestyled over them, and 
+recorded/wrote down the output. This was the first zine we (Matt & Matt) made together.
 <object data="http://blog.pencilflip.com/images/improv_pages.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://blog.pencilflip.com/images/improv_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/improv_pages.pdf">Download PDF</a>.</p>
     </embed>
-</object>
+</object>    
 <br/>   
 
 This zine was made mainly by me. It also has some contributions from Matt, Kath,
 and Victor. The theme is "summer labor." I was interning at a big tech company; some days 
 it seemed like the only conversations I had were about work. In this zine you'll
 find inside jokes, poems, crappy drawings done in inkscape, and some other cool
-stuff my friends did that's probably much higher quality than my stuff.
+stuff my friends did that's much higher quality than my stuff.    
 <object data="http://blog.pencilflip.com/images/summerlabor_pages.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://blog.pencilflip.com/images/summerlabor_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/summerlabor_pages.pdf">Download PDF</a>.</p>
@@ -56,5 +56,4 @@ quote from winnie the pooh, a translation of a chinese love song, and a bunch of
     <embed src="http://blog.pencilflip.com/images/happy_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/happy_pages.pdf">Download PDF</a>.</p>
     </embed>
-</object>   
-<br/>
+</object>
