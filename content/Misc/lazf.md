@@ -33,7 +33,7 @@ recorded/wrote down the output. This was the first zine we (Matt & Matt) made to
     <embed src="http://blog.pencilflip.com/images/improv_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/improv_pages.pdf">Download PDF</a>.</p>
     </embed>
-</object>    
+</object>     
 <br/>   
 
 This zine was made mainly by me. It also has some contributions from Matt, Kath,
@@ -51,7 +51,9 @@ stuff my friends did that's much higher quality than my stuff.
 This is Katherine's zine! Kath uses a lot of exclamation marks. She's 
 a super good designer. She's also probably the happiest person I know; accordingly, 
 this zine is about all things happy.  It has drawings of cats and flowers, a 
-quote from winnie the pooh, a translation of a chinese love song, and a bunch of other happy stuff. 
+quote from winnie the pooh, a translation of a chinese love song, and a bunch of 
+other happy stuff. 
+
 <object data="http://blog.pencilflip.com/images/happy_pages.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://blog.pencilflip.com/images/happy_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/happy_pages.pdf">Download PDF</a>.</p>
