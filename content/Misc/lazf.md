@@ -1,6 +1,5 @@
 Title: LAZF
 Date: 2017-02-02 10:02
-Date: 2017-02-04 22:55
 Category: Misc
 Tags: zines, lazf, poetry, art
 Slug: lazf
