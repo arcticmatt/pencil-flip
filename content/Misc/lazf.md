@@ -8,9 +8,10 @@ Summary: We make art sometimes
 
 What's up LAZF, or anyone else reading this. Hope you're having a swell day. 
 Anyways, here are some snippets from a bunch of zines my friends and I have
-made over the past year or so. 
-
+made over the past year or so.   
 <br/>
+
+### Finished Zines
 
 This is Matt's "aphasia" zine. Aphasia is the "loss of ability to understand or express speech, caused by brain damage."
 If you have aphasia you can probably still read it because all the words are writing. 
@@ -62,6 +63,7 @@ other happy stuff.
 </object>  
 <br/>
 
+### WIP Zines 
 Those are all our currently finished ones. Below are snippets of some zines
 we're working on right now (they're all about ~50% done, so we'll finish them 
 in the next month or so).   
