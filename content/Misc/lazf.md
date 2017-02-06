@@ -7,8 +7,9 @@ Authors: arctictern
 Summary: We make art sometimes
 
 What's up LAZF, or anyone else reading this. Hope you're having a swell day. 
-Anyways, here are a bunch of zines my friends and I have made over the past year
-or so. They're not the entire things, just 8 page "previews."   
+Anyways, here are some snippets from a bunch of zines my friends and I have
+made over the past year or so. 
+
 <br/>
 
 This is Matt's "aphasia" zine. Aphasia is the "loss of ability to understand or express speech, caused by brain damage."
@@ -37,7 +38,7 @@ recorded/wrote down the output. This was the first zine we (Matt & Matt) made to
 <br/>   
 
 This zine was made mainly by me. It also has some contributions from Matt, Kath,
-and Victor. The theme is "summer labor." I was interning at a big tech company; some days 
+and Victor. The theme is "summer labor." I was interning at a big tech company. Some days 
 it seemed like the only conversations I had were about work. In this zine you'll
 find inside jokes, poems, crappy drawings done in inkscape, and some other cool
 stuff my friends did that's much higher quality than my stuff.    
