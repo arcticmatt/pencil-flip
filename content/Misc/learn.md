@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-04 23:52
+Date: 2017-02-05 23:16
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,28 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.05.17  
+[2003 Boeing 727-223 disappearance](https://en.wikipedia.org/wiki/2003_Boeing_727-223_disappearance).
+Stole this from /r/todayilearned. 
+
+Also read some stuff today about Christina of Markyate and sexual chastity (*The Sexuality
+of Chastity* by Karras). That book gives a pretty good description of Christina's
+life, which I've copied below:
+
+> Christina of Markyate, a twelfth-century Englishwoman, had vowed her virginity
+to Christ. Her aristocratic parents, who wanted her to marry for political reasons,
+went so far as to encourage her fiance to rape her. She managed to convert him
+on their wedding night to a chaste marriage.
+
+>Christina eventually ended up living as a holy recluse, maintaining her 
+virginity for her entire life, although the monk who wrote her biography seems
+to have downplayed the spiritual significance of the state. In the process
+she entered into passionate friendship with several men, including a hermit
+named Roger and the St. Albans monastery. She lived for some time with an
+unnamed cleric, and they were inflamed with desire for each other; only her prayers
+brought her relif. Christina had not made a monastic profession at that point,
+although she later did so. (page 55)
 
 ### 02.04.17  
 Too lazy to look stuff up so I'm just going off what Kath said.

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-02-04 23:52
+Date: 2017-02-05 23:10
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 02.05.17      
+the super bowl was   
+boring at first but that changed    
+so did the language   
 
 ### 02.04.17      
 we did acm     
