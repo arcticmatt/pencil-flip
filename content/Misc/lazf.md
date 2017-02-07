@@ -81,7 +81,8 @@ schemes and rather simple, yet interesting shapes.
 
 This one doesn't really have a theme yet. So far it's just a bunch of cool 
 drawings in a variety of styles. We plan on adding text/captions to some of them.
-Some of them will tell a story, some will require we tell a story for them.
+Some of them will tell a story, some will require we tell a story for them.  
+
 <object data="http://blog.pencilflip.com/images/drawings_pages.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://blog.pencilflip.com/images/drawings_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/drawings_pages.pdf">Download PDF</a>.</p>
