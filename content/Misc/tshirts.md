@@ -6,4 +6,4 @@ Slug: tshirts
 Authors: arctictern
 Summary: 
 
-![tshirts](/images/tshirts.jpg)
+![tshirts](/images/tshirts.jpeg)
