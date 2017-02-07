@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-05 23:16
+Date: 2017-02-07 10:06
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.07.17  
+*The Signal-Man* is a supernatural short story by Charles Dickens. It tells the
+story of a seemingly crazy signal-man who keeps seeing ghosts on the job. The
+narrator, who randomly visits the signal-man while he is down near the tracks,
+is skeptical. However, the signal-man dies under very eerie circumstances, leaving
+the ending ambiguous as to whether something abnormal was going on.
 
 ### 02.05.17  
 [2003 Boeing 727-223 disappearance](https://en.wikipedia.org/wiki/2003_Boeing_727-223_disappearance).

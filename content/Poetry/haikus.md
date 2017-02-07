@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-02-05 23:10
+Date: 2017-02-07 10:02
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 02.07.17      
+cheap kobe burgers    
+popcorn is even cheaper    
+if it's free it's me   
 
 ### 02.05.17      
 the super bowl was   
