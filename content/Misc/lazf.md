@@ -69,8 +69,9 @@ we're working on right now (they're all about ~50% done, so we'll finish them
 in the next month or so).   
 <br/>
 
-A "pastel" themed zine. It's more focused on art than our other zines. We plan 
-on filling it with a bunch of drawings done in a pastel color scheme.
+A zine featuring art with pastel-y colors. It's more art-centric than our other 
+zines. We plan on filling it with a bunch of digital artwork with pastel color 
+schemes and rather simple, yet interesting shapes.
 <object data="http://blog.pencilflip.com/images/pastel_pages.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://blog.pencilflip.com/images/pastel_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/pastel_pages.pdf">Download PDF</a>.</p>
@@ -78,20 +79,9 @@ on filling it with a bunch of drawings done in a pastel color scheme.
 </object>  
 <br/>
 
-A "t-shirt" themed zine. We silkscreen our own shirts at school, and these 
-are some designs we've used/planned on using. Since it's a bit of a pain to
-silkscreen something with > 2 colors, all these designs are fairly simple. They
-tend to be monochromatic with clear-cut line work.
-<object data="http://blog.pencilflip.com/images/tshirt_pages.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://blog.pencilflip.com/images/tshirt_pages.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/tshirt_pages.pdf">Download PDF</a>.</p>
-    </embed>
-</object>  
-<br/>
-
 This one doesn't really have a theme yet. So far it's just a bunch of cool 
-drawings in a variety of styles. We plan on adding text/captions to most of them.
-Some of them will tell a story, some will be more punchline-y.
+drawings in a variety of styles. We plan on adding text/captions to some of them.
+Some of them will tell a story, some will require we tell a story for them.
 <object data="http://blog.pencilflip.com/images/drawings_pages.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://blog.pencilflip.com/images/drawings_pages.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://blog.pencilflip.com/images/drawings_pages.pdf">Download PDF</a>.</p>
