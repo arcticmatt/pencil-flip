@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-07 10:06
+Date: 2017-02-09 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,16 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.09.17  
+I thought I had this, but I guess not. 
+
+> roman à clef : noun: a novel in which real people or events appear with
+invented names.
+
+For example, some people thought Proust's *In Search of Lost Time* was a 
+roman à clef (from *How Proust Can Change Your Life* by Alain de Botton, who
+is great btw).
 
 ### 02.07.17  
 *The Signal-Man* is a supernatural short story by Charles Dickens. It tells the
