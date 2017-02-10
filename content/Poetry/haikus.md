@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-02-09 00:00
+Date: 2017-02-10 15:38
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 02.10.17      
+lasagna a la    
+federico with ragu    
+and bechamel sauce   
 
 ### 02.09.17      
 time to grade some code    

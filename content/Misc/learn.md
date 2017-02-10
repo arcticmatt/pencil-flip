@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-09 00:00
+Date: 2017-02-10 12:05
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.10.17  
+> hagiography : noun : the writing of the lives of saints.
+
+Example: I read hagiographies in my english class.
+Example: Saint Mary of Egypt and Saint Alexis have interesting hagiographies.
 
 ### 02.09.17  
 I thought I had this, but I guess not. 
