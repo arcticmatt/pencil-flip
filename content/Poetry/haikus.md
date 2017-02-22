@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-02-10 15:38
+Date: 2017-02-21 10:21
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 02.21.17      
+i forget to post   
+a lot of work or maybe    
+i'm just too lazy  
 
 ### 02.10.17      
 lasagna a la    

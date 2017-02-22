@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-10 12:05
+Date: 2017-02-21 20:22
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.21.17   
+[Cucking stool](https://en.wikipedia.org/wiki/Cucking_stool) haha.
 
 ### 02.10.17  
 > hagiography : noun : the writing of the lives of saints.
