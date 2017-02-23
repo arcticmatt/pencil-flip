@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-02-21 10:21
+Date: 2017-02-22 21:15
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 02.22.17      
+lucy could have been   
+saved if van stupid just gave    
+her a crucifix   
 
 ### 02.21.17      
 i forget to post   

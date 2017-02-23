@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-21 20:22
+Date: 2017-02-22 21:23
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.22.17   
+[Technically speaking, Converse sneakers are slippers](http://www.smithsonianmag.com/smart-news/this-is-why-your-converse-sneakers-have-felt-on-the-bottom-6016648/) (or at least they're taxed the same). This is because >= 50% of the 
+sole is covered in felt.  As a result, the tariff is reduced from 37.5% to 3%. 
+Jeff Steck, who is some dude mentioned in the linked article, calls 
+this "tariff engineering." Kinda makes me wonder if there are any other 
+weird classifications like this. If you coat an orange in rubber, is it now
+a bouncy ball? If you put a hood on a cardigan, is it now a hoodie? 
+(thanks kath for alerting me of this existential crisis)
 
 ### 02.21.17   
 [Cucking stool](https://en.wikipedia.org/wiki/Cucking_stool) haha.
