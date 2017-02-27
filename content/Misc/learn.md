@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-22 21:23
+Date: 2017-02-27 14:58
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 02.27.17   
+There's an entire subreddit dedicated eating to oranges in showers. I've never
+tried it but the [original post](https://www.reddit.com/r/AskReddit/comments/32jwie/whats_something_unconventional_everyone_should/cqbwlwi/)
+makes it sound quite nice (or, to quote, the "most carnal, ferocious, liberating thing a man can do").
+
+Blue Angels refers to the US Navy's flight demonstration squad. [It can also
+describe the act of lighting a fart](https://en.wikipedia.org/wiki/Fart_lighting).
+Also, the term [intracolonic explosion](https://en.wikipedia.org/wiki/Intracolonic_explosion) 
+refers to an explosion inside a person's colon resulting from the ignition of 
+methane (and maybe other explosive gases). So basically, it refers to 
+internal/potential farts being lit on fire. It has resulted in death.
 
 ### 02.22.17   
 [Technically speaking, Converse sneakers are slippers](http://www.smithsonianmag.com/smart-news/this-is-why-your-converse-sneakers-have-felt-on-the-bottom-6016648/) (or at least they're taxed the same). This is because >= 50% of the 

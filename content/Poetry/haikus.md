@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-02-22 21:15
+Date: 2017-02-27 14:54
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 02.27.17       
+i think my life is   
+a comic book meant for youths   
+and michael cera   
 
 ### 02.22.17      
 lucy could have been   
