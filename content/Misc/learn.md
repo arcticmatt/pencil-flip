@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-02-27 14:58
+Date: 2017-03-06 23:18
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,46 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 03.06.17   
+I had a cold last week, which is my excuse for not posting for a while. Also,
+sometimes I just get lazy. It's not very rational, but certain days I'd rather
+watch five more minutes of youtube than update this stuff. I'm going to try
+to get back to daily updates in March. I like the idea of recording *something*
+every day. It's fun to look back on, and putting stuff in writing can solidify
+its place in my mind (perhaps I'll forget in a week instead of a day). Anyways,
+enough rambling to myself. Here's a weird word that I think I read in 
+*Hard-Boiled Wonderland and the End of the World*.
+
+>autochthonous : adj. : (of an inhabitant of a place) indigenous rather than 
+descended from migrants or colonists. (of a deposit or formation) formed in 
+its present position.
+
+Also, just a random note about Murakami that I'll put here. I read *Sputnik
+Sweetheart* while I was sick, and now I'm reading *Hard-Boiled*. I've read
+*Norweigan Wood*, *Kafka on the Shore*, and *The Wind-up Bird Chronicle* before.
+I definitely noticed some similarities between those books. However, with these
+past two (or one-and-a-half) the similarities are really starting to hit. Here's
+what I typed out in a message, with an edit in square brackets:
+
+>after reading all these murakami novels they are starting to get pretty predicable. 
+kinda average dude with normal [but specific] habits who somehow attracts females 
+but doesn't really try. then there's a girl who he seeks after. then someone goes 
+missing.  there's probly a cat, important telephone calls, maybe a well (or at least a 
+reference to one). some sexually explicit parts.
+
+For example, I was reading *Sputnik Sweetheart*. The plot, of course, involves
+a missing women. The narrator is thinking of where she might be when he comes
+up with a brilliant idea: she's in a well! Well, that sure came out of nowhere.
+Turns out there are no wells on the island she disappeared from. I guess it 
+was worth a shot. And then *SPOILERS* there's the ending. I don't remember the
+ending to *Norweigan Wood* that well but in my mind it's exactly the same. 
+Now, onto *Hard-Boiled*. The narrator is walking around a forest when he 
+comes across a house. What's in the backyard? You guess it - a well. Or maybe
+the narrator just said "hmm a well would really fit in well with this exterior
+landscape." I don't remember. But still... what's with all the wells? Did 
+Murakami have some scarring well incident as a child? Does he just really like 
+Batman? I don't know.
 
 ### 02.27.17   
 There's an entire subreddit dedicated eating to oranges in showers. I've never
