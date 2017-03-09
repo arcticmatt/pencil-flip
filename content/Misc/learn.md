@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-03-06 23:18
+Date: 2017-03-08 21:37
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,30 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 03.08.17   
+So much for updating daily. *Now* I'll start doing that.
+
+[There's a difference between a mutex and a semphore!](http://stackoverflow.com/questions/62814/difference-between-binary-semaphore-and-mutex)
+The main technical difference revolves around "possession." More
+specifically, consider two threads running currently: TA and TB.
+If TA locks a mutex, only TA can unlock. Thus, mutexes always look 
+like:
+>     mutex.lock()  
+>     -critical section-  
+>     mutex.unlock()  
+
+Binary semaphores can also be used like this (i.e. a binary semaphore
+can function like a mutex). However, with binary semaphores, there is
+no concept of possession: if TA locks the semaphore, TB can unlock it.
+Thus, it can be used for ordering, as follows:
+
+>     TA                           TB
+>     -*do something before TB-    sem.lock()
+>     sem.unlock()                 -do something after *-
+
+Also, on a related note, [The Little Book of Semaphores](http://greenteapress.com/wp/semaphores/)
+is great. Doesn't explicitly talk about this difference though.
 
 ### 03.06.17   
 I had a cold last week, which is my excuse for not posting for a while. Also,

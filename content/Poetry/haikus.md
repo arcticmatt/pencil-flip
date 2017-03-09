@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-03-06 14:54
+Date: 2017-03-08 21:28
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 03.08.17       
+question: has the phrase  
+"we need to talk" ever been   
+used positively   
 
 ### 03.06.17       
 four years at caltech   
