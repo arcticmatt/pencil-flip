@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2017-03-06" />
+        <meta property="article:published_time" content="2017-03-08" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -108,7 +108,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2017-03-06T23:18:00-08:00"> Mon 06 March 2017</time>
+        <i class="fa fa-calendar"></i><time datetime="2017-03-08T21:37:00-08:00"> Wed 08 March 2017</time>
     </span>
 
 
@@ -124,6 +124,35 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. </p>
+<h3>03.08.17</h3>
+<p>So much for updating daily. <em>Now</em> I'll start doing that.</p>
+<p><a href="http://stackoverflow.com/questions/62814/difference-between-binary-semaphore-and-mutex">There's a difference between a mutex and a semphore!</a>
+The main technical difference revolves around "possession." More
+specifically, consider two threads running currently: TA and TB.
+If TA locks a mutex, only TA can unlock. Thus, mutexes always look 
+like:</p>
+<blockquote>
+<div class="highlight"><pre><span></span>mutex.lock()  
+-critical section-  
+mutex.unlock()
+</pre></div>
+
+
+</blockquote>
+<p>Binary semaphores can also be used like this (i.e. a binary semaphore
+can function like a mutex). However, with binary semaphores, there is
+no concept of possession: if TA locks the semaphore, TB can unlock it.
+Thus, it can be used for ordering, as follows:</p>
+<blockquote>
+<div class="highlight"><pre><span></span>TA                           TB
+-*do something before TB-    sem.lock()
+sem.unlock()                 -do something after *-
+</pre></div>
+
+
+</blockquote>
+<p>Also, on a related note, <a href="http://greenteapress.com/wp/semaphores/">The Little Book of Semaphores</a>
+is great. Doesn't explicitly talk about this difference though.</p>
 <h3>03.06.17</h3>
 <p>I had a cold last week, which is my excuse for not posting for a while. Also,
 sometimes I just get lazy. It's not very rational, but certain days I'd rather

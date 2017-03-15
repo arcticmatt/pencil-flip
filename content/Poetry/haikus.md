@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-03-08 21:28
+Date: 2017-03-15 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 03.15.17       
+essays are awesome    
+they make me dislike writing   
+english minor yeah      
 
 ### 03.08.17       
 question: has the phrase  

@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-03-08 21:37
+Date: 2017-03-15 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,43 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 03.15.17   
+Clearly I have blog commitment issues. It's also finals week so I'll cut myself
+a break. I'm finding it hard to think of something to write here. Either finals
+aren't teaching me anything, or I've forget everything already, or it's all
+too dull to remember. Maybe a combination of the three. Oh, I remember what I 
+was going to post a few days ago. It's an excerpt about the aesthetic of murder, 
+or more generally about the connection between beauty and horror (which happens to
+be what I wrote my 10 page essay on). It appears on a handout from my Gothic
+fiction class.
+
+> I am for morality, and always shall be, and for virtue, and all that; and I
+> do affirm... that murder is an improper line of conduct, highly improper...
+> But what then? Everything in this world has two handles. Murder, for
+> instance, may be laid hold of by its moral handle,... or it may also be
+> treated *aesthetically*,... that is, in relation to good taste... When a
+> murder is in the [future] tense - not done, not even being done, but only
+> going to be done - and a rumor of it comes to our ears, by all means let us
+> treat it morally. But suppose it over and done...; suppose the poor murdered
+> man to be out of his pain, and the rascal that did it off like a shot, nobody
+> knows wither; suppose, lastly, that we have done our best, by putting out our
+> legs, to trip up the fellow in his flight, but all to no purpose - why, then,
+> I say, what's the use of any more virtue? Enough has been given to morality;
+> now comes the turn of Taste and the Fine Arts. A sad thing it was, no doubt,
+> very sad; but *we* can't mend it. Therefore let us make the best of a bad
+> matter; and, as it is impossible to hammer anything out of it for moral
+> purposes, let us treat it aesthetically... Something more goes to the
+> composition of a fine murder than two blockheads to kill and be killed - a
+> knife - a purse - and a dark lane. Design, grouping, light and shade, poetry,
+> sentiment, are now deemed indispensable. **Thomas De Quincey: "a fine
+> murder"** ("On Murder, Considered as One of the Fine Arts,"
+1827).
+
+Two notes. First: every time I read the word aesthetic, I think about vaporwave.
+Second: did my professor type up all these himself? There's like three pages of 
+this stuff, and they have a bunch of ellipses. Maybe he got his secretary to do
+it.
 
 ### 03.08.17   
 So much for updating daily. *Now* I'll start doing that.
