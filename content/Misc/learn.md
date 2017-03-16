@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-03-15 00:00
+Date: 2017-03-16 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,13 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 03.16.17   
+[This is the best tab](https://tabs.ultimate-guitar.com/m/misc_computer_games/legend_of_zelda_-_lost_woods_tab.htm)
+for Lost Woods (LoZ song) that I found. I tried a few so you can trust me.
+
+Oh also, my friend matt alerted me of [blue-sky thinking](https://en.wiktionary.org/wiki/blue-sky_thinking) today.
+Basically means open-minded thinking. Nice little termerino for ya.
 
 ### 03.15.17   
 Clearly I have blog commitment issues. It's also finals week so I'll cut myself

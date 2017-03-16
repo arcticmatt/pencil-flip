@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-03-15 00:00
+Date: 2017-03-16 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 03.16.17       
+ode to kostia    
+or rather a dumb haiku    
+liner regression    
 
 ### 03.15.17       
 essays are awesome    
