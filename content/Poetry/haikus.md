@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-03-16 00:00
+Date: 2017-03-27 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 03.27.17       
+relax and then crack   
+bones release gas to make noise   
+i do that as well   
 
 ### 03.16.17       
 ode to kostia    

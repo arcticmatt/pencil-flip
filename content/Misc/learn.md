@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-03-16 00:00
+Date: 2017-03-27 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,17 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
+
+### 03.27.17    
+Algebraic datatypes are labeled "algebraic" because we can describe the 
+patterns of argument structures using two basic operations: sum and product. For example,
+
+    datatype Example = First Integer String | Second
+
+This is a product type because the first data constructor, called "First,"
+takes two arguments. It is a sum type because of the pipe, which 
+means there are multiple data constructors (the type is a "sum" of these
+possibilities).
 
 ### 03.16.17   
 [This is the best tab](https://tabs.ultimate-guitar.com/m/misc_computer_games/legend_of_zelda_-_lost_woods_tab.htm)
