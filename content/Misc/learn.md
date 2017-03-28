@@ -14,7 +14,7 @@ of my everyday life, through all its ups and downs and dull mundanities.
 Algebraic datatypes are labeled "algebraic" because we can describe the 
 patterns of argument structures using two basic operations: sum and product. For example,
 
-    datatype Example = First Integer String | Second
+    data Example = First Integer String | Second
 
 This is a product type because the first data constructor, called "First,"
 takes two arguments. It is a sum type because of the pipe, which 
