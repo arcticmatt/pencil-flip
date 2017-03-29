@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-03-27 00:00
+Date: 2017-03-28 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 03.28.17       
+tiny hummingbird   
+hovering over the mud   
+oh wait it's a bug  
 
 ### 03.27.17       
 relax and then crack   

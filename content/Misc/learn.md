@@ -10,6 +10,15 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. 
 
+### 3.28.17
+So if you do `ghc-mod check test.hs`, it's going to look at your 'user pkg db' (i.e. what results from `ghc-pkg list`). This means that, if a Haskell file imports a package that is not included in
+base (e.g. `Data.List.Split`), you need to install that package with `cabal install` (the only
+way a standalone ghc will find that package). `stack install` doesn't
+work because [stack doesn't touch the global database](http://stackoverflow.com/questions/31393189/why-doesnt-stack-add-packages-to-the-ghc-package-database)... remember,
+it's just a project manager. This is probably very obvious
+if you understand how all these things work already, but it took
+me a bit to wrap my head around it all.
+
 ### 03.27.17    
 Algebraic datatypes are labeled "algebraic" because we can describe the 
 patterns of argument structures using two basic operations: sum and product. For example,
