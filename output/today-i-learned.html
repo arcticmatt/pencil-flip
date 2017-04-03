@@ -124,6 +124,14 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline 
 of my everyday life, through all its ups and downs and dull mundanities. </p>
+<h3>3.28.17</h3>
+<p>So if you do <code>ghc-mod check test.hs</code>, it's going to look at your 'user pkg db' (i.e. what results from <code>ghc-pkg list</code>). This means that, if a Haskell file imports a package that is not included in
+base (e.g. <code>Data.List.Split</code>), you need to install that package with <code>cabal install</code> (the only
+way a standalone ghc will find that package). <code>stack install</code> doesn't
+work because <a href="http://stackoverflow.com/questions/31393189/why-doesnt-stack-add-packages-to-the-ghc-package-database">stack doesn't touch the global database</a>... remember,
+it's just a project manager. This is probably very obvious
+if you understand how all these things work already, but it took
+me a bit to wrap my head around it all.</p>
 <h3>03.27.17</h3>
 <p>Algebraic datatypes are labeled "algebraic" because we can describe the 
 patterns of argument structures using two basic operations: sum and product. For example,</p>
