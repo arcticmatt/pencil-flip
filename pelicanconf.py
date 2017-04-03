@@ -38,9 +38,10 @@ PLUGINS = ['tag_cloud']
 # Social widget
 SOCIAL = (('spotify', 'https://open.spotify.com/user/1240806741'),
           ('bandcamp', 'https://bandcamp.com/mattlim'),
-          ('goodreads', 'https://www.goodreads.com/user/show/41722131-matt-lim'),
+          # ('goodreads', 'https://www.goodreads.com/user/show/41722131-matt-lim'),
           ('github', 'https://github.com/arcticmatt/'),
-          ('linkedin', 'https://www.linkedin.com/pub/matt-lim/a6/1a5/b31'),)
+          # ('linkedin', 'https://www.linkedin.com/pub/matt-lim/a6/1a5/b31'),
+          )
 
 DISPLAY_TAGS_ON_SIDEBAR = True
 DISPLAY_TAGS_INLINE = True
