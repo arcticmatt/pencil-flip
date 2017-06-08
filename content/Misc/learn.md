@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2017-04-28 00:00
+Date: 2017-06-08 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,15 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 6.08.17
+Woops. 
+
+I was listening to this [mixtape](https://www.youtube.com/watch?v=E4s-hxY80pA&t=132s) 
+today when I heard a familiar melody. Turns out Mac Demarco's 
+"Chamber of Reflection" samples Shigeo Sekito's "The Word II." Cool stuff.
+On a sidenote, I've been trying to sample this [Vince Guaraldi song](https://www.youtube.com/watch?v=B5OKfC-JsS0),
+but I've been getting a bit stuck. Maybe you can do better.
 
 ### 4.28.17
 In order to procrastinate writing my essay, I'm finally updating this thing.

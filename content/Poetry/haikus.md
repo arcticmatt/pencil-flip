@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2017-04-28 00:00
+Date: 2017-06-17 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary: 
+
+### 06.08.17       
+if you glaze it red 
+then it might be blue because 
+heat makes colors new 
 
 ### 04.28.17       
 spring makes me achoo  
