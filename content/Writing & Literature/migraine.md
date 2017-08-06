@@ -23,6 +23,7 @@ said, certain sections where he shotguns a storm of medical lingo are a
 bit more challenging to understand. There were pages where I had to stop five or
 six times to check a definition on Merriam Webster. Beware: you may need to
 brush up on your high school bio. Some words you'll run into every few pages are:
+
 * autonomic
 * sympathetic 
 * parasympathetic
@@ -66,6 +67,7 @@ myself by mentioning how these migraines *occur*; this section
 merely covers the symptoms. I hope these examples give 
 at least a general idea of how varied a migraine can be. If not, then
 this list of possible systems might help:
+
 * headache
 * nauseau
 * itching or burning in the eyes
@@ -122,6 +124,7 @@ also eat the lox by itself. Therefore the lox is a bagel. That was a
 terrible analogy and is probably logically inconsistent but whatever. 
 Here are some interesting examples of migraine
 auras:
+
 * *zoom vision*: vision zooms in and out
 * *mosaic vision*: stuff starts to look pointilliste, then mosaic, then cubist (or
 some subset/combination of those)
@@ -144,6 +147,7 @@ a third grade (fifth grade?) book report. I'll try to use less words for these o
 &nbsp;&nbsp;&nbsp;&nbsp;This section is about **when migraines occur**. Remember how in the previous
 section, we classified migraines based on their symptoms? Now we're gonna classify
 them based on their occurence. This gives us the following three categories:
+
 * periodic and paroxysmal migraine
 * circumstantial migraine
 * situational migraine
@@ -191,6 +195,7 @@ migraines as *expressions of* chronic, repressed, emotional drives. (217)
 ## The Basis of Migraine
 &nbsp;&nbsp;&nbsp;&nbsp;Ok, I'm actually gonna make this shorter. This section talks about **what
 causes a migraine**. There are three (yet another trio!) types of causes:
+
 * Physiological
 * Biological
 * Psychological
@@ -222,6 +227,7 @@ have migraines, which has led to a complex and varied mechanism.
 
 &nbsp;&nbsp;&nbsp;&nbsp;The psychological causes of migraines are the most interesting, at least to me.
 Sacks breaks them up into the following categories
+
 * *recuperative*: these tend to occur after a prolonged stretch of emotional and/or
 physical exertion, and are typically followed by refreshed feelings of strength
 and energy. One may think of recuperative migraines as a form of forced rest.
