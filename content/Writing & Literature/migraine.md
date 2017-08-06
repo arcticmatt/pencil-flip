@@ -6,7 +6,7 @@ Slug: migraine
 Authors: arctictern  
 Summary: (by Oliver Sacks)
 
-#### Intro & Writing Style
+## Intro & Writing Style
 &nbsp;&nbsp;&nbsp;&nbsp;First of all, if you suffer from migraines (or perhaps
 are affected in a secondary manner), you should buy this book without a second
 thought. If you don’t have migraines, but are interested in neurology,
@@ -41,7 +41,7 @@ talk about the content now, which hopefully is not that boring. We’ll
 start with section 3, and then work our way out concentrically to the first and last
 sections. That was a joke. We’ll start with section 1.  
 
-#### The Experience of Migraine
+## The Experience of Migraine
 &nbsp;&nbsp;&nbsp;&nbsp;This section is, as you may have guessed, about the
 experience of migraine. It covers a variety of migraine types and their
 symptoms. In other words, this section answers the question
@@ -136,7 +136,7 @@ completely conscious/aware during the aura. Thus, a lot of migraineurs have crea
 visualizations of their auras. You can check some of them out
 [here](https://migraine.blogs.nytimes.com/2008/03/03/migraine-art-slideshow/?_r=0).
 
-#### The Occurence of Migraine
+## The Occurence of Migraine
 &nbsp;&nbsp;&nbsp;&nbsp;Wow, that previous section is way too long. I just wanted to write a quick and 
 dirty review of this book, and now I'm summarizing the whole thing like I'm doing 
 a third grade (fifth grade?) book report. I'll try to use less words for these other sections.
@@ -188,7 +188,7 @@ of these situational migraines.
 are best considered as *reactions to* overwhelming emotion, and situational 
 migraines as *expressions of* chronic, repressed, emotional drives. (217)
 
-#### The Basis of Migraine
+## The Basis of Migraine
 &nbsp;&nbsp;&nbsp;&nbsp;Ok, I'm actually gonna make this shorter. This section talks about **what
 causes a migraine**. There are three (yet another trio!) types of causes:
 * Physiological
@@ -250,7 +250,7 @@ depressed" people. A form of self-punishment.
 strategic value to the patient, is that *they represent biological reactions
 which can double as symptomatic acts or conversion symptoms*. (222)
 
-#### Therapeutic Approaches to Migraine
+## Therapeutic Approaches to Migraine
 &nbsp;&nbsp;&nbsp;&nbsp;I guess the last section wasn't that short. Oh well, at least it was easier to write.
 It's mainly just copied content. Hopefully this section will be even easier.
 
@@ -286,7 +286,7 @@ really worked, but I think I got too used to the drug because the headaches came
 back. These chapters show how wide the range of migraine drugs is, and how 
 treatment may require large amounts of trial-and-error. I can definitely relate.
 
-#### Migraine as a Universal
+## Migraine as a Universal
 This chapter is a broad exploration on hallucination. It turns out migraine
 auras share many features with other types of hallucations (e.g. ones induced
 by mescal or weed). There are also some connections between chaos theory and 
@@ -294,6 +294,6 @@ migraine auras. I'm too lazy to write about it, and am also slightly unsure
 of my understanding, so that's all I'll say.
 
 
-#### Finally Done
+## Finally Done
 I don't think anyone will actually read this far, but if you have, congratulations!
 Your amazon package will be arriving shortly.
