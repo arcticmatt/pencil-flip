@@ -1,7 +1,7 @@
 Title: Migraine
 Date: 2017-08-05 20:56
 Category: Writing & Literature  
-Tags: oliver sacks, literature, books  
+Tags: oliver sacks, migraine, literature, books  
 Slug: migraine
 Authors: arctictern  
 Summary: (by Oliver Sacks)
