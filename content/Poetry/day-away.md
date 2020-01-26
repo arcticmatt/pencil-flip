@@ -1,4 +1,5 @@
-Title: day — away 
+Title: day — away
+Date: 2016-11-04 00:00
 Category: Poetry
 Tags: poetry
 Slug: day-away
