@@ -25,8 +25,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['tag_cloud']
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['tag_cloud', 'i18n_subsites']
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -59,7 +62,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
         'extra/custom.css': {'path': 'static/custom.css'},}
 
 # Theme. I look good.
-THEME = '../pelican-bootstrap3'
+THEME = './pelican-bootstrap3'
 FAVICON = 'images/favicon.png'
 SITELOGO = 'images/logo.png'
 SITELOGO_SIZE = 130

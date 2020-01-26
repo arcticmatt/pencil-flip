@@ -4,7 +4,7 @@ Category: Poetry
 Tags: poetry
 Slug: mouthed-sounds
 Authors: arctictern
-Summary: 
+Summary:
 
 <p style="line-height: 100%">
 <span style="font-family:Courier New; font-size: 85%">

@@ -1,5 +1,5 @@
 Title: Life in Haiku
-Date: 2017-06-17 00:00
+Date: 2020-01-25 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
@@ -8,1416 +8,1416 @@ Authors: arctictern
 Summary:
 
 ### 01.25.20
-siddharth writes haikus
-i used to write haikus too
-try to start anew
+siddharth writes haikus</br>
+i used to write haikus too</br>
+try to start anew</br>
 
 ### 06.08.17
-if you glaze it red
-then it might be blue because
-heat makes colors new
+if you glaze it red</br>
+then it might be blue because</br>
+heat makes colors new</br>
 
 ### 04.28.17
-spring makes me achoo
-zyrtec is too expensive
-except at costco
+spring makes me achoo</br>
+zyrtec is too expensive</br>
+except at costco</br>
 
 ### 03.28.17
-tiny hummingbird
-hovering over the mud
-oh wait it's a bug
+tiny hummingbird</br>
+hovering over the mud</br>
+oh wait it's a bug</br>
 
 ### 03.27.17
-relax and then crack
-bones release gas to make noise
-i do that as well
+relax and then crack</br>
+bones release gas to make noise</br>
+i do that as well</br>
 
 ### 03.16.17
-ode to kostia
-or rather a dumb haiku
-liner regression
+ode to kostia</br>
+or rather a dumb haiku</br>
+liner regression</br>
 
 ### 03.15.17
-essays are awesome
-they make me dislike writing
-english minor yeah
+essays are awesome</br>
+they make me dislike writing</br>
+english minor yeah</br>
 
 ### 03.08.17
-question: has the phrase
-"we need to talk" ever been
-used positively
+question: has the phrase</br>
+"we need to talk" ever been</br>
+used positively</br>
 
 ### 03.06.17
-four years at caltech
-i think i have aged forty
-maybe it's the cold
+four years at caltech</br>
+i think i have aged forty</br>
+maybe it's the cold</br>
 
 ### 02.27.17
-i think my life is
-a comic book meant for youths
-and michael cera
+i think my life is</br>
+a comic book meant for youths</br>
+and michael cera</br>
 
 ### 02.22.17
-lucy could have been
-saved if van stupid just gave
-her a crucifix
+lucy could have been</br>
+saved if van stupid just gave</br>
+her a crucifix</br>
 
 ### 02.21.17
-i forget to post
-a lot of work or maybe
-i'm just too lazy
+i forget to post</br>
+a lot of work or maybe</br>
+i'm just too lazy</br>
 
 ### 02.10.17
-lasagna a la
-federico with ragu
-and bechamel sauce
+lasagna a la</br>
+federico with ragu</br>
+and bechamel sauce</br>
 
 ### 02.09.17
-time to grade some code
-time to enter focus mode
-time to watch youtube
+time to grade some code</br>
+time to enter focus mode</br>
+time to watch youtube</br>
 
 ### 02.07.17
-cheap kobe burgers
-popcorn is even cheaper
-if it's free it's me
+cheap kobe burgers</br>
+popcorn is even cheaper</br>
+if it's free it's me</br>
 
 ### 02.05.17
-the super bowl was
-boring at first but that changed
-so did the language
+the super bowl was</br>
+boring at first but that changed</br>
+so did the language</br>
 
 ### 02.04.17
-we did acm
-not sure if i learned that much
-also some zine stuff
+we did acm</br>
+not sure if i learned that much</br>
+also some zine stuff</br>
 
 ### 02.02.17
-easy office hours
-so i survey bob dylan
-and north country girls
+easy office hours</br>
+so i survey bob dylan</br>
+and north country girls</br>
 
 ### 02.01.17
-in wuthering heights
-everyone is an a-hole
-(spoilers) and most die
+in wuthering heights</br>
+everyone is an a-hole</br>
+(spoilers) and most die</br>
 
 ### 01.29.17
-ginger raised prices
-the used bookstore has roahl dahl
-funny instrument
+ginger raised prices</br>
+the used bookstore has roahl dahl</br>
+funny instrument</br>
 
 ### 01.27.17
-woolf had her own room
-pizan built a tall castle
-both need foundations
+woolf had her own room</br>
+pizan built a tall castle</br>
+both need foundations</br>
 
 ### 01.24.17
-forty two at lunch
-i've never seen that happen
-and i'm super old
+forty two at lunch</br>
+i've never seen that happen</br>
+and i'm super old</br>
 
 ### 01.22.17
-word is obliscence
-but phones off, don't look it up
-just decide yourself
+word is obliscence</br>
+but phones off, don't look it up</br>
+just decide yourself</br>
 
 ### 01.18.17
-there's nothing harder
-than pinning proper pages
-there's always one left
+there's nothing harder</br>
+than pinning proper pages</br>
+there's always one left</br>
 
 ### 01.17.17
-research haskell for
-e11 the best class
-facebook uses it
+research haskell for</br>
+e11 the best class</br>
+facebook uses it</br>
 
 ### 01.16.17
-a crock pot morning
-involves washing, chopping, and
-some light seasoning
+a crock pot morning</br>
+involves washing, chopping, and</br>
+some light seasoning</br>
 
 ### 01.15.17
-arpeggiated
-e11 chord and a
-key switch, she's in love
+arpeggiated</br>
+e11 chord and a</br>
+key switch, she's in love</br>
 
 ### 01.14.17
-if you can't play it
-draw it move it loop it like
-dead mau5 always does
+if you can't play it</br>
+draw it move it loop it like</br>
+dead mau5 always does</br>
 
 ### 01.12.17
-make some lentil soup
-because we eat like peasants
-and love potatoes
+make some lentil soup</br>
+because we eat like peasants</br>
+and love potatoes</br>
 
 ### 01.11.17
-it's impossible
-to focus in power hum
-(three hours too long hum)
+it's impossible</br>
+to focus in power hum</br>
+(three hours too long hum)</br>
 
 ### 01.10.17
-a blurry snowflake
-appears on a square of silk
-in wintry colors
+a blurry snowflake</br>
+appears on a square of silk</br>
+in wintry colors</br>
 
 ### 01.09.17
-i see the sea hare
-i move the sea hare and it
-does not care at all
+i see the sea hare</br>
+i move the sea hare and it</br>
+does not care at all</br>
 
 ### 01.07.17
-i hit the ball straight
-he wacks upwards like a jerk
-so much for the game
+i hit the ball straight</br>
+he wacks upwards like a jerk</br>
+so much for the game</br>
 
 ### 01.06.17
-nino is dodo
-why he acting stupido
-i i do not know
+nino is dodo</br>
+why he acting stupido</br>
+i i do not know</br>
 
 ### 01.05.17
-sounds were being weird
-reset synthino firmware
-lfo was "wrong"
+sounds were being weird</br>
+reset synthino firmware</br>
+lfo was "wrong"</br>
 
 ### 01.04.17
-question hot or cold
-seems quite unambiguous
-it's not beverages
+question hot or cold</br>
+seems quite unambiguous</br>
+it's not beverages</br>
 
 ### 01.02.17
-he sings about it
-she sings some more about it
-none of it makes sense
+he sings about it</br>
+she sings some more about it</br>
+none of it makes sense</br>
 
 ### 12.30.16
-i bought some brown uggs
-they keep my feet very warm
-i wear them often
+i bought some brown uggs</br>
+they keep my feet very warm</br>
+i wear them often</br>
 
 ### 12.29.16
-stand behind the rock
-three feet back avoids the splash
-arrows till it's dead
+stand behind the rock</br>
+three feet back avoids the splash</br>
+arrows till it's dead</br>
 
 ### 12.27.16
-house or apartment
-lap pool or outdoor hot tub
-how far to safeway
+house or apartment</br>
+lap pool or outdoor hot tub</br>
+how far to safeway</br>
 
 ### 12.25.16
-say merry christmas
-on christmas eve (day before)
-the wish should precede
+say merry christmas</br>
+on christmas eve (day before)</br>
+the wish should precede</br>
 
 ### 12.22.16
-my bookshelf is full
-has duplicate DFWs
-where did i get them
+my bookshelf is full</br>
+has duplicate DFWs</br>
+where did i get them</br>
 
 ### 12.21.16
-he shoots from halfcourt
-he banks it like timmy d
-he wins 5k bucks
+he shoots from halfcourt</br>
+he banks it like timmy d</br>
+he wins 5k bucks</br>
 
 ### 12.20.16
-rnb ballad
-it still needs that 8O8
-ok now it's hot
+rnb ballad</br>
+it still needs that 8O8</br>
+ok now it's hot</br>
 
 ### 12.19.16
-saw an octopus
-it was a cephalopod
-jeez mom get it right
+saw an octopus</br>
+it was a cephalopod</br>
+jeez mom get it right</br>
 
 ### 12.16.16
-i spy fake tarkin
-he looks realer than leia
-she looks so fake dang
+i spy fake tarkin</br>
+he looks realer than leia</br>
+she looks so fake dang</br>
 
 ### 12.15.16
-reading a novel
-inside reading a novel
-inside a novel
+reading a novel</br>
+inside reading a novel</br>
+inside a novel</br>
 
 ### 12.14.16
-finished war and peace
-the peace parts were pretty sweet
-war parts were ok
+finished war and peace</br>
+the peace parts were pretty sweet</br>
+war parts were ok</br>
 
 ### 12.13.16
-waiting area
-two matthews silently sit
-orthodontists rule
+waiting area</br>
+two matthews silently sit</br>
+orthodontists rule</br>
 
 ### 12.12.16
-i ran some errands
-also did some christmas stuff
-and watched atlanta
+i ran some errands</br>
+also did some christmas stuff</br>
+and watched atlanta</br>
 
 ### 12.11.16
-what's a mangosteen
-fruit that tastes happy and calm
-it's also lumpy
+what's a mangosteen</br>
+fruit that tastes happy and calm</br>
+it's also lumpy</br>
 
 ### 12.10.16
-big steam contraption
-stands outside the art chateau
-looks like its from mars
+big steam contraption</br>
+stands outside the art chateau</br>
+looks like its from mars</br>
 
 ### 12.09.16
-rapping fast is hard
-so many takes they all suck
-choose the least bad one
+rapping fast is hard</br>
+so many takes they all suck</br>
+choose the least bad one</br>
 
 ### 12.08.16
-shower air smells nice
-the air here smells much less nice
-i try to write right
+shower air smells nice</br>
+the air here smells much less nice</br>
+i try to write right</br>
 
 ### 12.07.16
-acm stud sesh
-cause we're all acm studs
-yea i factorize
+acm stud sesh</br>
+cause we're all acm studs</br>
+yea i factorize</br>
 
 ### 12.06.16
-coffee and a scone
-some energy for writing
-or doing nothing
+coffee and a scone</br>
+some energy for writing</br>
+or doing nothing</br>
 
 ### 12.05.16
-forgot the today
-what the it's finals i guess
-hm that makes some sense
+forgot the today</br>
+what the it's finals i guess</br>
+hm that makes some sense</br>
 
 ### 12.04.16
-burning a cd
-anonymous track listing
-waste time to waste it
+burning a cd</br>
+anonymous track listing</br>
+waste time to waste it</br>
 
 ### 12.02.16
-free donuts for class
-there are a bunch left over
-so disappointing
+free donuts for class</br>
+there are a bunch left over</br>
+so disappointing</br>
 
 ### 12.01.16
-poor peoples' poet
-writes popular songs of love
-and wanders weary
+poor peoples' poet</br>
+writes popular songs of love</br>
+and wanders weary</br>
 
 ### 11.30.16
-i love tensorflow
-it's so understandable
-haha just kidding
+i love tensorflow</br>
+it's so understandable</br>
+haha just kidding</br>
 
 ### 11.29.16
-that mountain looks cool
-like the idea of hiking
-i'll enjoy the view
+that mountain looks cool</br>
+like the idea of hiking</br>
+i'll enjoy the view</br>
 
 ### 11.28.16
-the drive takes a while
-so we ask many questions
-and talk about plath
+the drive takes a while</br>
+so we ask many questions</br>
+and talk about plath</br>
 
 ### 11.27.16
-song covering sucks
-it doesn't suck but it's hard
-mine sounds too midi
+song covering sucks</br>
+it doesn't suck but it's hard</br>
+mine sounds too midi</br>
 
 ### 11.26.16
-dilated sun glass
-look close to see rostopchin
-is this white house down
+dilated sun glass</br>
+look close to see rostopchin</br>
+is this white house down</br>
 
 ### 11.25.16
-what are the rules dude
-dude the rules are that they change
-what the heck man dude
+what are the rules dude</br>
+dude the rules are that they change</br>
+what the heck man dude</br>
 
 ### 11.24.16
-outside is freezing
-inside is also quite cold
-unless dad is home
+outside is freezing</br>
+inside is also quite cold</br>
+unless dad is home</br>
 
 ### 11.23.16
-drive to the car wash
-do you want expensive one
-i say no i'm good
+drive to the car wash</br>
+do you want expensive one</br>
+i say no i'm good</br>
 
 ### 11.22.16
-wake up and no class
-change of plans t swift drive fast
-quick break for burgers
+wake up and no class</br>
+change of plans t swift drive fast</br>
+quick break for burgers</br>
 
 ### 11.21.16
-color to water
-he says that's what you otter
-otter pops are good
+color to water</br>
+he says that's what you otter</br>
+otter pops are good</br>
 
 ### 11.20.16
-eat it in one bite
-poop it in more than one poops
-spicy all the time
+eat it in one bite</br>
+poop it in more than one poops</br>
+spicy all the time</br>
 
 ### 11.19.16
-i want a thick kick
-but master goes into red
-how do you do it
+i want a thick kick</br>
+but master goes into red</br>
+how do you do it</br>
 
 ### 11.18.16
-snap crackle pop as
-the cpu load goes up
-and edges turn down
+snap crackle pop as</br>
+the cpu load goes up</br>
+and edges turn down</br>
 
 ### 11.17.16
-late registration
-kanye never got a hum
-guess he writes ok
+late registration</br>
+kanye never got a hum</br>
+guess he writes ok</br>
 
 ### 11.16.16
-buy the first three books
-was there even any point
-time for the next three
+buy the first three books</br>
+was there even any point</br>
+time for the next three</br>
 
 ### 11.15.16
-hi my name is kale
-i realize the namesake
-my parents did not
+hi my name is kale</br>
+i realize the namesake</br>
+my parents did not</br>
 
 ### 11.14.16
-beleaguer my fort
-said johanna to sir gauss
-he writes a quick sum
+beleaguer my fort</br>
+said johanna to sir gauss</br>
+he writes a quick sum</br>
 
 ### 11.13.16
-fading fuzzy face
-might run out of things to think
-in seeable dark
+fading fuzzy face</br>
+might run out of things to think</br>
+in seeable dark</br>
 
 ### 11.12.16
-in twenty odd years
-road trip to braise & crumble
-we'll look for zitch dogs
+in twenty odd years</br>
+road trip to braise & crumble</br>
+we'll look for zitch dogs</br>
 
 ### 11.10.16
-alarm rings for break
-it's immediately snoozed
-rivers come to mind
+alarm rings for break</br>
+it's immediately snoozed</br>
+rivers come to mind</br>
 
 ### 11.08.16
-screened a few t-shirts
-one of the bottoms got torn
-it can still get worn
+screened a few t-shirts</br>
+one of the bottoms got torn</br>
+it can still get worn</br>
 
 ### 11.07.16
-natasha andrey
-no more kissing in a tree
-shipping for pierre
+natasha andrey</br>
+no more kissing in a tree</br>
+shipping for pierre</br>
 
 ### 11.06.16
-where is paul allen
-i see london i see france
-and paul allen's head
+where is paul allen</br>
+i see london i see france</br>
+and paul allen's head</br>
 
 ### 11.05.16
-band practice with hats
-write down fast words say it back
-pray and then listen
+band practice with hats</br>
+write down fast words say it back</br>
+pray and then listen</br>
 
 ### 11.04.16
-full and half birthday
-joey came and ate the time
-barely any left
+full and half birthday</br>
+joey came and ate the time</br>
+barely any left</br>
 
 ### 11.03.16
-bathroom bottleneck
-wait your turn to clean your back
-should have got more sleep
+bathroom bottleneck</br>
+wait your turn to clean your back</br>
+should have got more sleep</br>
 
 ### 11.02.16
-read that for salt man
-and made a presentation
-overtly God reigns
+read that for salt man</br>
+and made a presentation</br>
+overtly God reigns</br>
 
 ### 11.01.16
-an orange gourd dropped
-shattered frozen didn't plop
-kind of exciting
+an orange gourd dropped</br>
+shattered frozen didn't plop</br>
+kind of exciting</br>
 
 ### 10.30.16
-andrey natasha
-a cute couple in russia
-will they ever last
+andrey natasha</br>
+a cute couple in russia</br>
+will they ever last</br>
 
 ### 10.29.16
-you know whats real good
-a trader joes burrito
-affordable too
+you know whats real good</br>
+a trader joes burrito</br>
+affordable too</br>
 
 ### 10.28.16
-9 million options
-the choices kind of options
-ah crap what to choose
+9 million options</br>
+the choices kind of options</br>
+ah crap what to choose</br>
 
 ### 10.27.16
-in-class math midterm
-is this a speed writing race
-what phrase should i use
+in-class math midterm</br>
+is this a speed writing race</br>
+what phrase should i use</br>
 
 ### 10.26.16
-phone starts to vibrate
-heart starts to beat excited
-just security
+phone starts to vibrate</br>
+heart starts to beat excited</br>
+just security</br>
 
 ### 10.25.16
-pick up my package
-check what is inside of it
-it is a book yay
+pick up my package</br>
+check what is inside of it</br>
+it is a book yay</br>
 
 ### 10.24.16
-i did all my sets
-it left me enough time to
-think about fun things
+i did all my sets</br>
+it left me enough time to</br>
+think about fun things</br>
 
 ### 10.23.16
-shout out guava cheese
-shout out efferdent plus mint
-shout out holmes stand fan
+shout out guava cheese</br>
+shout out efferdent plus mint</br>
+shout out holmes stand fan</br>
 
 ### 10.22.16
-let's say distinctive
-unique or exceptional
-it's one of a kind
+let's say distinctive</br>
+unique or exceptional</br>
+it's one of a kind</br>
 
 ### 10.21.16
-sometimes the head aches
-if sometimes was all the time
-least we're not there yet
+sometimes the head aches</br>
+if sometimes was all the time</br>
+least we're not there yet</br>
 
 ### 10.20.16
-writing everyday
-can make your writing better
-more succinct emails
+writing everyday</br>
+can make your writing better</br>
+more succinct emails</br>
 
 ### 10.19.16
-tastes like tomatoes
-more chili powder more more
-hm now its alright
+tastes like tomatoes</br>
+more chili powder more more</br>
+hm now its alright</br>
 
 ### 10.18.16
-quickly write it down
-understanding becomes drowned
-that's way too much man
+quickly write it down</br>
+understanding becomes drowned</br>
+that's way too much man</br>
 
 ### 10.17.16
-fevered fever dreams
-eager beavers cut down things
-future prospectus
+fevered fever dreams</br>
+eager beavers cut down things</br>
+future prospectus</br>
 
 ### 10.16.16
-every morning goes
-turn off airplane mode and drink
-water, brush, water
+every morning goes</br>
+turn off airplane mode and drink</br>
+water, brush, water</br>
 
 ### 10.15.16
-dj raise my hand
-dancing fan youtube in hand
-animal planet
+dj raise my hand</br>
+dancing fan youtube in hand</br>
+animal planet</br>
 
 ### 10.14.16
-come one and come all
-linear algebra class
-fundamental fun
+come one and come all</br>
+linear algebra class</br>
+fundamental fun</br>
 
 ### 10.13.16
-opportunity
-class is canceled for the week
-time to do nothing
+opportunity</br>
+class is canceled for the week</br>
+time to do nothing</br>
 
 ### 10.12.16
-sample madonna
-bassline for hipster mommas
-pick out the layer
+sample madonna</br>
+bassline for hipster mommas</br>
+pick out the layer</br>
 
 ### 10.11.16
-one and one half hours
-a magnificent struggle
-regular class time
+one and one half hours</br>
+a magnificent struggle</br>
+regular class time</br>
 
 ### 10.10.16
-that's a cool painting
-that's a cool seagull painting
-it's an arctic tern
+that's a cool painting</br>
+that's a cool seagull painting</br>
+it's an arctic tern</br>
 
 ### 10.09.16
-wake up super sick
-just a feeling shower fix
-just a morning cold
+wake up super sick</br>
+just a feeling shower fix</br>
+just a morning cold</br>
 
 ### 10.08.16
-late night jams in jams
-tremendous absolute range
-mediocre pitch
+late night jams in jams</br>
+tremendous absolute range</br>
+mediocre pitch</br>
 
 ### 10.07.16
-boba late at night
-will put easy sleep to flight
-goodbye my sweet dreams
+boba late at night</br>
+will put easy sleep to flight</br>
+goodbye my sweet dreams</br>
 
 ### 10.06.16
-99 papers
-grade one down turn it around
-99 papers
+99 papers</br>
+grade one down turn it around</br>
+99 papers</br>
 
 ### 10.05.16
-the key to pasta
-plentiful red pepper flakes
-it tastes like spicy
+the key to pasta</br>
+plentiful red pepper flakes</br>
+it tastes like spicy</br>
 
 ### 10.04.16
-name is melissa
-please pronounce it like pizza
-ok melissa
+name is melissa</br>
+please pronounce it like pizza</br>
+ok melissa</br>
 
 ### 10.03.16
-stop at sushi stop
-spilled water will dry quickly
-food always goes fast
+stop at sushi stop</br>
+spilled water will dry quickly</br>
+food always goes fast</br>
 
 ### 10.02.16
-crowded office hours
-for this i took a shower
-ha ha just kidding
+crowded office hours</br>
+for this i took a shower</br>
+ha ha just kidding</br>
 
 ### 10.01.16
-three or four is more
-lazy weekends do no chores
-do chores in college?
+three or four is more</br>
+lazy weekends do no chores</br>
+do chores in college?</br>
 
 ### 09.30.16
-amorphous circle
-talking can be turn by turn
-but directions change
+amorphous circle</br>
+talking can be turn by turn</br>
+but directions change</br>
 
 ### 09.29.16
-i'm so generous
-do this experiment please
-and keep the dollar
+i'm so generous</br>
+do this experiment please</br>
+and keep the dollar</br>
 
 ### 09.28.16
-card game state of fluxx
-keepers give the creepers cuts
-who's the zombie boss
+card game state of fluxx</br>
+keepers give the creepers cuts</br>
+who's the zombie boss</br>
 
 ### 09.27.16
-small art room for two
-or twenty five depending
-on how you slice it
+small art room for two</br>
+or twenty five depending</br>
+on how you slice it</br>
 
 ### 09.26.16
-bunk beds have two beds
-on which they can fit two heads
-or countless buttocks
+bunk beds have two beds</br>
+on which they can fit two heads</br>
+or countless buttocks</br>
 
 ### 09.25.16
-the strongest gets the
-heavy load and he gets his
-melting ice cream cone
+the strongest gets the</br>
+heavy load and he gets his</br>
+melting ice cream cone</br>
 
 ### 09.24.16
-flickering screens while
-a fairy tale plays from bowed
-guitar pounding drums
+flickering screens while</br>
+a fairy tale plays from bowed</br>
+guitar pounding drums</br>
 
 ### 09.23.16
-drive down the highway
-forgotten things come to mind
-and another one
+drive down the highway</br>
+forgotten things come to mind</br>
+and another one</br>
 
 ### 09.22.16
-pack the entire day
-pack up everything away
-don't forget toothpaste
+pack the entire day</br>
+pack up everything away</br>
+don't forget toothpaste</br>
 
 ### 09.21.16
-a book thick and tall
-being neither fat nor wide
-is a pain to read
+a book thick and tall</br>
+being neither fat nor wide</br>
+is a pain to read</br>
 
 ### 09.20.16
-call for this and that
-tit for tat no need i sat
-to resole my shoes
+call for this and that</br>
+tit for tat no need i sat</br>
+to resole my shoes</br>
 
 ### 08.31.16
-start and i am bored
-progression into sitting
-busy at the worst times
+start and i am bored</br>
+progression into sitting</br>
+busy at the worst times</br>
 
 ### 08.27.16
-most comfortable
-spot in this dingy roofed floor
-consider levels
+most comfortable</br>
+spot in this dingy roofed floor</br>
+consider levels</br>
 
 ### 08.24.16
-it slips through the cracks
-there are a lot of these cracks
-many things slip through
+it slips through the cracks</br>
+there are a lot of these cracks</br>
+many things slip through</br>
 
 ### 08.19.16
-a movie or two
-rotoscoped wizardry and
-black and white slap stick
+a movie or two</br>
+rotoscoped wizardry and</br>
+black and white slap stick</br>
 
 ### 08.18.16
-happy birthday friend
-super friendly excited
-for unwanted dates
+happy birthday friend</br>
+super friendly excited</br>
+for unwanted dates</br>
 
 ### 08.17.16
-i didn't know a lot
-like what was in that big fridge
-or how to way find
+i didn't know a lot</br>
+like what was in that big fridge</br>
+or how to way find</br>
 
 ### 08.14.16
-on a berkeley ledge
-birkenstocks dangle in pairs
-and pizza stuffs laughs
+on a berkeley ledge</br>
+birkenstocks dangle in pairs</br>
+and pizza stuffs laughs</br>
 
 ### 08.13.16
-do people go to
-museums just to take a
-filtered face picture
+do people go to</br>
+museums just to take a</br>
+filtered face picture</br>
 
 ### 08.10.16
-diffing is like life
-every second i live life
-just as i push diffs
+diffing is like life</br>
+every second i live life</br>
+just as i push diffs</br>
 
 ### 07.18.16
-podcast playing stop
-and go traffic mirrors sound
-to call attention
+podcast playing stop</br>
+and go traffic mirrors sound</br>
+to call attention</br>
 
 ### 07.17.16
-anticipation
-for the next episode might
-blur current viewings
+anticipation</br>
+for the next episode might</br>
+blur current viewings</br>
 
 ### 06.21.16
-work confidential
-zero tolerance buzzword
-i went bouldering
+work confidential</br>
+zero tolerance buzzword</br>
+i went bouldering</br>
 
 ### 06.15.16
-i work at facebook
-that means i don't have to cook
-still haven't seen zuck
+i work at facebook</br>
+that means i don't have to cook</br>
+still haven't seen zuck</br>
 
 ### 06.07.16
-all the grass is dead
-sun is up and your friend said
-we could sit instead
+all the grass is dead</br>
+sun is up and your friend said</br>
+we could sit instead</br>
 
 ### 06.06.16
-small things big boxes
-the stronger you are the less
-awkward your carry
+small things big boxes</br>
+the stronger you are the less</br>
+awkward your carry</br>
 
 ### 06.04.16
-woops apparently
-the sun is out judging by
-the less dark curtains
+woops apparently</br>
+the sun is out judging by</br>
+the less dark curtains</br>
 
 ### 06.02.16
-metaphorical
-toast upon which jam is
-spread thin still eat it
+metaphorical</br>
+toast upon which jam is</br>
+spread thin still eat it</br>
 
 ### 05.25.16
-made a rap song yo
-it kinda sucks a lot yo
-rethink my grand flow
+made a rap song yo</br>
+it kinda sucks a lot yo</br>
+rethink my grand flow</br>
 
 ### 05.23.16
-flute for loot to boot
-toot the shoot to make a hoot
-trees die everyday
+flute for loot to boot</br>
+toot the shoot to make a hoot</br>
+trees die everyday</br>
 
 ### 05.18.16
-memorize a verse
-and spit it on radio
-call it a freestyle
+memorize a verse</br>
+and spit it on radio</br>
+call it a freestyle</br>
 
 ### 05.17.16
-realize that i am
-butchering the poetic
-form and continue
+realize that i am</br>
+butchering the poetic</br>
+form and continue</br>
 
 ### 05.16.16
-i made some tacos
-basically jut put stuff
-in a pan and heat
+i made some tacos</br>
+basically jut put stuff</br>
+in a pan and heat</br>
 
 ### 05.14.16
-the light makes your plaid
-shirt mutate from green & red
-to purple and blue
+the light makes your plaid</br>
+shirt mutate from green & red</br>
+to purple and blue</br>
 
 ### 05.13.16
-if you can get ten
-brews then it is of utmost
-importance to try
+if you can get ten</br>
+brews then it is of utmost</br>
+importance to try</br>
 
 ### 05.12.16
-i wrote something. what,
-i cannot tell. my words are
-leaves on which you trod.
+i wrote something. what,</br>
+i cannot tell. my words are</br>
+leaves on which you trod.</br>
 
 ### 05.10.16
-i hit the wall and
-it didn't budge i climbed it
-but fell to the ground
+i hit the wall and</br>
+it didn't budge i climbed it</br>
+but fell to the ground</br>
 
 ### 05.07.16
-go to chinese food
-mechanically skilled we
-can forgoe the forks
+go to chinese food</br>
+mechanically skilled we</br>
+can forgoe the forks</br>
 
 ### 05.06.16
-if a tree falls and
-no one hears it does it still
-manage to annoy
+if a tree falls and</br>
+no one hears it does it still</br>
+manage to annoy</br>
 
 ### 05.05.16
-sit and read and talk
-anne's depressing poems grace
-these playful children
+sit and read and talk</br>
+anne's depressing poems grace</br>
+these playful children</br>
 
 ### 05.04.16
-glad that from long lines
-come good food with good friends and
-exciting pancakes
+glad that from long lines</br>
+come good food with good friends and</br>
+exciting pancakes</br>
 
 ### 05.02.16
-a superpower
-see a document and say
-margins are point 9
+a superpower</br>
+see a document and say</br>
+margins are point 9</br>
 
 ### 05.01.16
-translate your mind in
-a functional way while thoughts
-of for-loops still stray
+translate your mind in</br>
+a functional way while thoughts</br>
+of for-loops still stray</br>
 
 ### 04.30.16
-i am really tired
-but not yet too tired to write
-words come out like blah
+i am really tired</br>
+but not yet too tired to write</br>
+words come out like blah</br>
 
 ### 04.27.16
-it's the same routine
-we study to remember
-and live to forget
+it's the same routine</br>
+we study to remember</br>
+and live to forget</br>
 
 ### 04.26.16
-really annoying
-dude being his annoying
-self please be quiet
+really annoying</br>
+dude being his annoying</br>
+self please be quiet</br>
 
 ### 04.24.16
-please wipe the floor boy
-you only have one job boy
-maybe it's just luck
+please wipe the floor boy</br>
+you only have one job boy</br>
+maybe it's just luck</br>
 
 ### 04.23.16
-you know that sometimes
-i can be romantic but
-sometimes is not now
+you know that sometimes</br>
+i can be romantic but</br>
+sometimes is not now</br>
 
 ### 04.20.16
-subtle loose leaf tea
-gets multiple brewings so
-screw sleep keep drinking
+subtle loose leaf tea</br>
+gets multiple brewings so</br>
+screw sleep keep drinking</br>
 
 ### 04.19.16
-a poem read once
-please read it again unless
-time has truly shrunk
+a poem read once</br>
+please read it again unless</br>
+time has truly shrunk</br>
 
 ### 04.18.16
-if life looked like stock
-photography my chow mein
-would be much better
+if life looked like stock</br>
+photography my chow mein</br>
+would be much better</br>
 
 ### 04.17.16
-if it's free it's me
-today we'll settle for clean
-and book everything
+if it's free it's me</br>
+today we'll settle for clean</br>
+and book everything</br>
 
 ### 04.16.16
-same day everyday
-just like victor's spotify
-we go on repeat
+same day everyday</br>
+just like victor's spotify</br>
+we go on repeat</br>
 
 ### 04.14.16
-we red for pleasure
-we read to learn need to sleep
-same sentence five times
+we red for pleasure</br>
+we read to learn need to sleep</br>
+same sentence five times</br>
 
 ### 04.13.16
-on mamba day we
-witness basketball greatness
-history is made
+on mamba day we</br>
+witness basketball greatness</br>
+history is made</br>
 
 ### 04.12.16
-at first i am fair
-power corrupts and i screw
-you over, sorry
+at first i am fair</br>
+power corrupts and i screw</br>
+you over, sorry</br>
 
 ### 04.11.16
-same alarm same sounds
-we slow dance to old rhythms
-snooze to rest tired eyes
+same alarm same sounds</br>
+we slow dance to old rhythms</br>
+snooze to rest tired eyes</br>
 
 ### 04.10.16
-records are meant to
-be broken and ties are meant
-to be left hanging
+records are meant to</br>
+be broken and ties are meant</br>
+to be left hanging</br>
 
 ### 04.09.16
-spitting ire clouds on
-fire her book's for free i'll take
-one please need kindling
+spitting ire clouds on</br>
+fire her book's for free i'll take</br>
+one please need kindling</br>
 
 ### 04.06.16
-tell me of the most
-boring generalities
-and inane details
+tell me of the most</br>
+boring generalities</br>
+and inane details</br>
 
 ### 04.05.16
-hi, good, how are you
-chicken margerita please
-to-go, side of fruit
+hi, good, how are you</br>
+chicken margerita please</br>
+to-go, side of fruit</br>
 
 ### 04.04.16
-secret disco ball
-hangs from the rafters and shines
-upon so much love
+secret disco ball</br>
+hangs from the rafters and shines</br>
+upon so much love</br>
 
 ### 04.03.16
-unknown grandeur at
-which to marvel and explore
-find the smaller things
+unknown grandeur at</br>
+which to marvel and explore</br>
+find the smaller things</br>
 
 ### 04.02.16
-eat super spicy
-tacos and mouth burns, on fire,
-and you feel alive
+eat super spicy</br>
+tacos and mouth burns, on fire,</br>
+and you feel alive</br>
 
 ### 04.01.16
-lucid existence
-pursue control on both sides
-in rough trades of time
+lucid existence</br>
+pursue control on both sides</br>
+in rough trades of time</br>
 
 ### 03.31.16
-advice through one ear
-while you stand there and swallow
-these most bitter sounds
+advice through one ear</br>
+while you stand there and swallow</br>
+these most bitter sounds</br>
 
 ### 03.30.16
-stuck in slow decay
-towards higher tuitions,
-all-meat sandwiches
+stuck in slow decay</br>
+towards higher tuitions,</br>
+all-meat sandwiches</br>
 
 ### 03.29.16
-bio is the best
-the professor shouts loudly
-to rows of deaf ears
+bio is the best</br>
+the professor shouts loudly</br>
+to rows of deaf ears</br>
 
 ### 03.28.16
-'twas the last night for
-totem and in a dim room
-lone keyboard click clacked
+'twas the last night for</br>
+totem and in a dim room</br>
+lone keyboard click clacked</br>
 
 ### 03.27.16
-in n out is closed
-hunt for eggs and praise the lord
-and eat mcdonalds
+in n out is closed</br>
+hunt for eggs and praise the lord</br>
+and eat mcdonalds</br>
 
 ### 03.26.16
-if you live in a
-car you can pee in a jar,
-eat sugar and carbs
+if you live in a</br>
+car you can pee in a jar,</br>
+eat sugar and carbs</br>
 
 ### 03.25.16
-suspended above
-we intermingle and smile
-and gape at the void
+suspended above</br>
+we intermingle and smile</br>
+and gape at the void</br>
 
 ### 03.24.16
-chairs lift while i stand
-in most uncomfortable
-ambiguity
+chairs lift while i stand</br>
+in most uncomfortable</br>
+ambiguity</br>
 
 ### 03.23.16
-large spheres scattered, art
-we call them big balls for the
-anti-monument
+large spheres scattered, art</br>
+we call them big balls for the</br>
+anti-monument</br>
 
 ### 03.22.16
-punk sound in jam room
-make noise and play loud and shout
-and hope its soundproof
+punk sound in jam room</br>
+make noise and play loud and shout</br>
+and hope its soundproof</br>
 
 ### 03.21.16
-rain rain go away
-to another place and time
-i'll just go inside
+rain rain go away</br>
+to another place and time</br>
+i'll just go inside</br>
 
 ### 03.20.16
-an artist's signing
-but lacking items past bought
-or the funds required
+an artist's signing</br>
+but lacking items past bought</br>
+or the funds required</br>
 
 ### 03.19.16
-unbeknownst, arctic
-may sound like hard prick, amongst
-other variants
+unbeknownst, arctic</br>
+may sound like hard prick, amongst</br>
+other variants</br>
 
 ### 03.18.16
-spread bacteria
-kiss some babies, eat mud pies
-eat the dirty food
+spread bacteria</br>
+kiss some babies, eat mud pies</br>
+eat the dirty food</br>
 
 ### 03.16.16
-driving to a where
-talking, thinking, and going
-to a place that's there
+driving to a where</br>
+talking, thinking, and going</br>
+to a place that's there</br>
 
 ### 03.14.16
-eyes meet, exhibit
-no recognition of that
-fact and look away
+eyes meet, exhibit</br>
+no recognition of that</br>
+fact and look away</br>
 
 ### 03.13.16
-scaling great mountains
-hiking precipitous trails
-writing parsing code
+scaling great mountains</br>
+hiking precipitous trails</br>
+writing parsing code</br>
 
 ### 03.12.16
-decompress into
-thin air. elation is a
-temporary fling
+decompress into</br>
+thin air. elation is a</br>
+temporary fling</br>
 
 ### 03.11.16
-a table of friends
-conversation flies like stale
-arrows into wood
+a table of friends</br>
+conversation flies like stale</br>
+arrows into wood</br>
 
 ### 03.10.16
-the colossal looms
-at daybreak, omnipresent
-and overbearing
+the colossal looms</br>
+at daybreak, omnipresent</br>
+and overbearing</br>
 
 ### 03.09.16
-bubbly beverage
-a tiddly girl shines brightly
-red means you should stop?
+bubbly beverage</br>
+a tiddly girl shines brightly</br>
+red means you should stop?</br>
 
 ### 03.08.16
-funnels go in tray
-drawer in dismal order
-leave a place no worse
+funnels go in tray</br>
+drawer in dismal order</br>
+leave a place no worse</br>
 
 ### 03.07.16
-on a cold night the
-clock's silent ticks warn me of
-a looming pressure
+on a cold night the</br>
+clock's silent ticks warn me of</br>
+a looming pressure</br>
 
 ### 03.06.16
-dyed hair is the new
-breadcrumb, leading normal and
-normal to the zines
+dyed hair is the new</br>
+breadcrumb, leading normal and</br>
+normal to the zines</br>
 
 ### 03.02.16
-after failing one
-thousand runs, a spurious
-pass leads to false smiles
+after failing one</br>
+thousand runs, a spurious</br>
+pass leads to false smiles</br>
 
 ### 03.01.16
-glass breaks on pass fail
-responsibility falls
-on the ones who care
+glass breaks on pass fail</br>
+responsibility falls</br>
+on the ones who care</br>
 
 ### 02.29.16
-shopping cart saunter
-snatching food in record time
-forget the hand soap
+shopping cart saunter</br>
+snatching food in record time</br>
+forget the hand soap</br>
 
 ### 02.28.16
-resting focus face
-could scare the biggest of bears
-breaks into a smile
+resting focus face</br>
+could scare the biggest of bears</br>
+breaks into a smile</br>
 
 ### 02.26.16
-clap your hands say yeah
-blow your nose through the whistle
-move your feet floor's hot
+clap your hands say yeah</br>
+blow your nose through the whistle</br>
+move your feet floor's hot</br>
 
 ### 02.25.16
-it's always like that
-it's sometimes like this, in the
-bottom of the well
+it's always like that</br>
+it's sometimes like this, in the</br>
+bottom of the well</br>
 
 ### 02.24.16
-big metal pot in
-tall white fridge holding vast stock
-of uniform meals
+big metal pot in</br>
+tall white fridge holding vast stock</br>
+of uniform meals</br>
 
 ### 02.23.16
-socks before pants if
-you want to dance, barefeet make
-the moves stick too long
+socks before pants if</br>
+you want to dance, barefeet make</br>
+the moves stick too long</br>
 
 ### 02.22.16
-science meets chance, cells
-split towards converging paths
-henrietta lacks
+science meets chance, cells</br>
+split towards converging paths</br>
+henrietta lacks</br>
 
 ### 02.21.16
-go to bed, it's late
-sleep can be reality
-when worn mind fades slow
+go to bed, it's late</br>
+sleep can be reality</br>
+when worn mind fades slow</br>
 
 ### 02.20.16
-the game is to mask
-one's inebriation with
-false and rubbish claims
+the game is to mask</br>
+one's inebriation with</br>
+false and rubbish claims</br>
 
 ### 02.19.16
-don't slip on the stack
-it's a quick and jagged fall
-to the tile below
+don't slip on the stack</br>
+it's a quick and jagged fall</br>
+to the tile below</br>
 
 ### 02.18.16
-i'm stuck on a block
-erase it with a feather
-and float to the ground
+i'm stuck on a block</br>
+erase it with a feather</br>
+and float to the ground</br>
 
 ### 02.17.16
-i should write something
-free something, all memory,
-could use a pointer
+i should write something</br>
+free something, all memory,</br>
+could use a pointer</br>
 
 ### 02.16.16
-cook different things
-put them in a large dish, bake
-it should taste okay
+cook different things</br>
+put them in a large dish, bake</br>
+it should taste okay</br>
 
 ### 02.15.16
-day blurs, time stretches,
-leg stretches bend down touch toes,
-palms down to dense core
+day blurs, time stretches,</br>
+leg stretches bend down touch toes,</br>
+palms down to dense core</br>
 
 ### 02.14.16
-intended heart lies
-statically square as dusty
-tomes vacantly loom
+intended heart lies</br>
+statically square as dusty</br>
+tomes vacantly loom</br>
 
 ### 02.13.16
-speaking japanese
-while screwing in a lightbulb
-is not a bad skill
+speaking japanese</br>
+while screwing in a lightbulb</br>
+is not a bad skill</br>
 
 ### 02.12.16
-early morning run
-with amazon mapreduce
-sprint to convergence
+early morning run</br>
+with amazon mapreduce</br>
+sprint to convergence</br>
 
 ### 02.11.16
-at some point on this
-road we diverged, from working
-to completely broke
+at some point on this</br>
+road we diverged, from working</br>
+to completely broke</br>
 
 ### 02.10.16
-if time flies it's cool
-as an artic tern, gliding
-to the moon and back
+if time flies it's cool</br>
+as an artic tern, gliding</br>
+to the moon and back</br>
 
 ### 02.09.16
-if you put an egg
-into some boiling water
-it might boil faster
+if you put an egg</br>
+into some boiling water</br>
+it might boil faster</br>
 
 ### 02.08.16
-tanned birkenstocks flop
-on another sunny day
-into the cool night
+tanned birkenstocks flop</br>
+on another sunny day</br>
+into the cool night</br>
 
 ### 02.07.16
-first: kiss wife and child
-next: celebrate with teammates
-lastly: promote beer
+first: kiss wife and child</br>
+next: celebrate with teammates</br>
+lastly: promote beer</br>
 
 ### 02.06.16
-is sylvia there.
-uh... no, wrong number, sorry.
-wait, what's this number?
+is sylvia there.</br>
+uh... no, wrong number, sorry.</br>
+wait, what's this number?</br>
 
 ### 02.05.16
-blitz the dutch! we say,
-cards scattered in disarray,
-wooden table shakes
+blitz the dutch! we say,</br>
+cards scattered in disarray,</br>
+wooden table shakes</br>
 
 ### 02.04.16
-forget new, learn old
-dumb wheel spinning round in place
-gaining time, not brains
+forget new, learn old</br>
+dumb wheel spinning round in place</br>
+gaining time, not brains</br>
 
 ### 02.03.16
-write tired edit tired
-wake up tired go to sleep tired
-nap and feel more tired
+write tired edit tired</br>
+wake up tired go to sleep tired</br>
+nap and feel more tired</br>
 
 ### 02.02.16
-optimistic plans:
-a rushed breakfast, quick shower,
-and slight tardiness
+optimistic plans:</br>
+a rushed breakfast, quick shower,</br>
+and slight tardiness</br>
 
 ### 02.01.16
-if talking was as
-thought out as texting, i would
-never talk again
+if talking was as</br>
+thought out as texting, i would</br>
+never talk again</br>
 
 ### 01.31.16
-priorities change;
-frozen thin mints; flashing lines;
-mind goes numb with null
+priorities change;</br>
+frozen thin mints; flashing lines;</br>
+mind goes numb with null</br>
 
 ### 01.30.16
-writer's block is just
-sporadic youtube watching,
-fleeing apathy
+writer's block is just</br>
+sporadic youtube watching,</br>
+fleeing apathy</br>
 
 ### 01.29.16
-the sixth extinction
-will kill off buttloads of bugs
-i'll give it my code
+the sixth extinction</br>
+will kill off buttloads of bugs</br>
+i'll give it my code</br>
 
 ### 01.28.16
-words roll off your tongue
-as rain rolls down my windows
-filling stifled air
+words roll off your tongue</br>
+as rain rolls down my windows</br>
+filling stifled air</br>
 
 ### 01.27.16
-breakfast and a quiz
-bagel and bleary answers
-mind schmears on blank page
+breakfast and a quiz</br>
+bagel and bleary answers</br>
+mind schmears on blank page</br>
 
 ### 01.25.16
-freestyle singing to
-the same sad set of chords, turn
-shallow thoughts inwards
+freestyle singing to</br>
+the same sad set of chords, turn</br>
+shallow thoughts inwards</br>
 
 ### 01.24.16
-multiple alarms
-yet no roommate in gray view
-morning in peril
+multiple alarms</br>
+yet no roommate in gray view</br>
+morning in peril</br>
 
 ### 01.23.16
-surrounded by gray
-grandparents, leaning in towards
-chambers of music
+surrounded by gray</br>
+grandparents, leaning in towards</br>
+chambers of music</br>
 
 ### 01.22.16
-sometimes I forget
-how to interact with you
-clumsy interview
+sometimes I forget</br>
+how to interact with you</br>
+clumsy interview</br>
 
 ### 01.21.16
-i want to pass out
-by that i mean go to sleep
-and dream of real life
+i want to pass out</br>
+by that i mean go to sleep</br>
+and dream of real life</br>
 
 ### 01.19.16
-interrupted sleep
-details segmented dream state
-trigger the handler
+interrupted sleep</br>
+details segmented dream state</br>
+trigger the handler</br>
 
 ### 01.18.16
-our coding skills suck
-operating systems muck
-eat butter chicken
+our coding skills suck</br>
+operating systems muck</br>
+eat butter chicken</br>
 
 ### 01.17.16
-bare necessity
-breathe through life's suffocations
-chem lab will soon pass
+bare necessity</br>
+breathe through life's suffocations</br>
+chem lab will soon pass</br>
 
 ### 01.16.16
-just yesterday the
-sand was molten lava, jump!
-now we're proposing
+just yesterday the</br>
+sand was molten lava, jump!</br>
+now we're proposing</br>
 
 ### 01.15.16
-cliff edge roaring sea
-below, hungry sharks rearing
-jump in anyways
+cliff edge roaring sea</br>
+below, hungry sharks rearing</br>
+jump in anyways</br>
 
 ### 01.14.16
-san pietro pres
-caltech, land of exceptions
-yes we are both matt
+san pietro pres</br>
+caltech, land of exceptions</br>
+yes we are both matt</br>
 
 ### 01.13.16
-iffy idea
-implement a command shell
-set it to default
+iffy idea</br>
+implement a command shell</br>
+set it to default</br>
 
 ### 01.12.16
-roman candlelight
-test tubes on sandy death row
-acid executes
+roman candlelight</br>
+test tubes on sandy death row</br>
+acid executes</br>
 
 ### 01.11.16
-jambalaya pot
-bottom burnt cancer stewing
-exudes toxic fumes
+jambalaya pot</br>
+bottom burnt cancer stewing</br>
+exudes toxic fumes</br>
 
 ### 01.09.16
-mason jar ice tea
-kinda makes it look like pee
-i drink anyways
+mason jar ice tea</br>
+kinda makes it look like pee</br>
+i drink anyways</br>
 
 ### 01.07.16
-sandwich thief at broad
-making me wait forever
-apologetic
+sandwich thief at broad</br>
+making me wait forever</br>
+apologetic</br>
 
 ### 01.06.16
-heater dries the rain
-soaked into wrinkled pages
-dry the rain on me
+heater dries the rain</br>
+soaked into wrinkled pages</br>
+dry the rain on me</br>
 
 ### 01.04.16
-sessions back in class
-free time hangs, fragile larvae
-to release havoc
+sessions back in class</br>
+free time hangs, fragile larvae</br>
+to release havoc</br>
 
 ### 01.01.16
-monopolies reign
-advance to jedi council
-rotten luck sure sucks
+monopolies reign</br>
+advance to jedi council</br>
+rotten luck sure sucks</br>
 
 ### 12.30.15
-a book in the bag
-aside compact disc in case
-daily treasures held
+a book in the bag</br>
+aside compact disc in case</br>
+daily treasures held</br>
 
 ### 12.29.15
-countless books to read
-new, or old and beloved
-desires exceed
+countless books to read</br>
+new, or old and beloved</br>
+desires exceed</br>
 
 ### 12.26.15
-blanket shields cold
-traps inside radiant heat
-subdues wakefulness
+blanket shields cold</br>
+traps inside radiant heat</br>
+subdues wakefulness</br>
 
 ### 12.25.15
-chinese restaurant
-rendezvous where teacups clink
-where christmas cash flows
+chinese restaurant</br>
+rendezvous where teacups clink</br>
+where christmas cash flows</br>
 
 ### 12.20.15
-water window smears
-from faulty windshield wipers
-induce drowsiness
+water window smears</br>
+from faulty windshield wipers</br>
+induce drowsiness</br>
 
 ### 12.19.15
-a pattern to match
-a module to be loaded
-lazy functioning
+a pattern to match</br>
+a module to be loaded</br>
+lazy functioning</br>
 
 ### 12.18.15
-sonorous resonations
-of adam driver's sith voice
-resound in my ears
+sonorous resonations</br>
+of adam driver's sith voice</br>
+resound in my ears</br>
 
 ### 12.17.15
-finally finished
-the unabridged journals of
-sylvia plath yay
+finally finished</br>
+the unabridged journals of</br>
+sylvia plath yay</br>
 
 ### 12.16.15
-high school soccer game
-fifa disconnect explains
-lack of lob passes
+high school soccer game</br>
+fifa disconnect explains</br>
+lack of lob passes</br>
 
 ### 12.15.15
-yo barnes & nobles
-why you ain't got no dang books
-gift card coercion
+yo barnes & nobles</br>
+why you ain't got no dang books</br>
+gift card coercion</br>
 
 ### 12.14.15
-the episode ends
-credits roll to exit song
-next button beckons
+the episode ends</br>
+credits roll to exit song</br>
+next button beckons</br>
 
 ### 12.13.15
-sylvia and chill
-innumerable entries
-sinusoidal mood
+sylvia and chill</br>
+innumerable entries</br>
+sinusoidal mood</br>
 
 ### 12.12.15
-familiar drive home
-loud wind buffets blue chassis
-cows smell, music plays
+familiar drive home</br>
+loud wind buffets blue chassis</br>
+cows smell, music plays</br>
 
 ### 12.11.15
-finals done squad brunch
-christmas shopping paper source
-fight club spliced durden
+finals done squad brunch</br>
+christmas shopping paper source</br>
+fight club spliced durden</br>
 
 ### 12.10.15
-where are all the youths
-drive to old pasadena
-crowded traffic jam
+where are all the youths</br>
+drive to old pasadena</br>
+crowded traffic jam</br>
 
 ### 12.09.15
-aardvark bucket hat
-forty year old fisherman
-fun beams from sun gleam
+aardvark bucket hat</br>
+forty year old fisherman</br>
+fun beams from sun gleam</br>
 
 ### 12.08.15
-crock pot the pot's hot
-passively cooking meal in
-ceramic stoneware
+crock pot the pot's hot</br>
+passively cooking meal in</br>
+ceramic stoneware</br>
 
 ### 12.07.15
-year's end music plays
-scroll through interminable
-spotify rainbow
+year's end music plays</br>
+scroll through interminable</br>
+spotify rainbow</br>
 
 ### 12.06.15
-free will red pill the
-blonde girl lies prone, windowsill,
-blame the architect
+free will red pill the</br>
+blonde girl lies prone, windowsill,</br>
+blame the architect</br>
 
 ### 12.05.15
-are you inside out
-just ask the superquadric
-trace the ray till dawn
+are you inside out</br>
+just ask the superquadric</br>
+trace the ray till dawn</br>
 
 ### 12.04.15
-early morning buzz
-phone call disturbing slumber
-groggy roll to floor
+early morning buzz</br>
+phone call disturbing slumber</br>
+groggy roll to floor</br>
 
 ### 12.03.15
-my life in haiku
-why do i do what i do
-why do cows go moo
+my life in haiku</br>
+why do i do what i do</br>
+why do cows go moo</br>
