@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 01.26.20
+airport pickup day</br>
+cookies baked before i leave</br>
+finally she's back</br>
+
 ### 01.25.20
 siddharth writes haikus</br>
 i used to write haikus too</br>
