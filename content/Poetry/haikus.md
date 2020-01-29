@@ -7,6 +7,16 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 01.28.20
+long left turns are good</br>
+for chipping away day by</br>
+day at my podcasts</br>
+
+### 01.27.20
+one hour five people</br>
+that is a five hour meeting</br>
+(i read basecamp's blog)</br>
+
 ### 01.26.20
 airport pickup day</br>
 cookies baked before i leave</br>
