@@ -7,6 +7,21 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 01.31.20
+friday tennis plans</br>
+swing the racket eat some food</br>
+life is not so bad</br>
+
+### 01.30.20
+wow that bone is big</br>
+if the food is good a long</br>
+wait is not too bad</br>
+
+### 01.29.20
+a protocol is</br>
+i say this and you say that</br>
+and we both know it</br>
+
 ### 01.28.20
 long left turns are good</br>
 for chipping away day by</br>
