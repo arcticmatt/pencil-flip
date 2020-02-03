@@ -7,6 +7,16 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 02.02.20
+my desk looks messy</br>
+my entire room looks messy</br>
+now i'm at target</br>
+
+### 02.01.20
+a furnace is first</br>
+pick axe swings incessantly</br>
+round this small island</br>
+
 ### 01.31.20
 friday tennis plans</br>
 swing the racket eat some food</br>
