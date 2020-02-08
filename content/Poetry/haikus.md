@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 02.07.20
+always slice backhand</br>
+back up and swing hard forehand</br>
+tennis strategy</br>
+
 ### 02.02.20
 my desk looks messy</br>
 my entire room looks messy</br>
