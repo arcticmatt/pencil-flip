@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 02.09.20
+bouldering is a</br>
+tricky business, took a break</br>
+and now i am suck</br>
+
 ### 02.07.20
 always slice backhand</br>
 back up and swing hard forehand</br>
