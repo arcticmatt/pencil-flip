@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 02.11.20
+being sore is weird</br>
+it feels good and bad you know</br>
+stretch my forearm please</br>
+
 ### 02.09.20
 bouldering is a</br>
 tricky business, took a break</br>
