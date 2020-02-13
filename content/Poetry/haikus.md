@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 02.12.20
+tentacles are bad</br>
+please don't eat the monster meat</br>
+but try not to starve</br>
+
 ### 02.11.20
 being sore is weird</br>
 it feels good and bad you know</br>
