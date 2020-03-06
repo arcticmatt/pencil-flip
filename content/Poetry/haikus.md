@@ -10,7 +10,7 @@ Summary:
 ### 03.05.20
 work from home for you</br>
 work from home for me, for the</br>
-entire valley</br>
+whole entire valley</br>
 
 ### 02.12.20
 tentacles are bad</br>
