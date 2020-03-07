@@ -10,6 +10,33 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.06.2020
+Now that I'm doing these again, I'm starting to realize that the variety of things
+I learn on a daily basis is much less varied than it was during college. Which, I guess,
+makes total sense.
+
+One interesting thing that's been going on lately are the presidential primaries. I'm 
+not very educated about politics, so I've been watching some YouTube videos in my spare time.
+Here's are two videos I found interesting:
+
+* [The Trouble with the Electoral College](https://www.youtube.com/watch?v=7wC42HgLA4k)
+  * Apparently you can become president with only 22% of the popular vote. This is partially
+  (entirely?) because each state gets 3 votes by default, even though some states should only
+  get one by proportion.
+  * In 1876, 1888, 2000, and 2016, the president who lost the popular vote won the presidency.
+  Might not seem like much, but that's a "failure" rate of >5%. Yikes.
+* [The weird rule that broke American politics](https://www.youtube.com/watch?v=Gt4jHLteXag)
+  * This video is about filibusters. Apparently almost every big bill is filibustered now. 
+  * The Senate used to not have filibusters. Here's the rough timeline:
+      * Originally, debate -> majority to stop debating -> vote
+      * VP Aaron Burr changes things, debate (unlimited) -> vote
+      * 1917, Woodrow Wilson wants to enter WW1, Senate filibusters. Now it's debate -> 2/3 vote to stop debating -> vote
+      * 1950s, Southern Senators start filibustering a ton. Mike Mansfield is tired of long pointless speeches, let's get rid of the debate part. Now it's vote to stop debating -> vote
+      * 1970s threshold is changed, now it's like 60% vote to stop debating -> vote
+      * 2013, filibuster no longer applies to certain confirmation votes (vote to stop debating just needs 51%)
+
+That ended up being kinda complicated. I'm definitely going to forget the history of filibusters. It's pretty interesting though. 
+
 ### 3.05.2020
 Wow, it's been three years. A lot has happened. Let's think back:
 

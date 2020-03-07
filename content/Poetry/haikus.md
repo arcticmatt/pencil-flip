@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.06.20
+no free food which means</br>
+so much for plant based diets</br>
+i'll eat what we have</br>
+
 ### 03.05.20
 work from home for you</br>
 work from home for me, for the</br>
