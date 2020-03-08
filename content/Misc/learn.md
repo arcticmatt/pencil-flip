@@ -10,6 +10,22 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.07.2020
+[Google Domains](https://domains.google/) is so much better than Go Daddy, why didn't I know this 
+before today? Go Daddy has a confusing UI, a subpar UX, and quite a few dark patterns. For example, it's 
+so darn hard to simply check how much you're paying per year for all your domains. Granted, I haven't
+tried to do this yet with Google Domains, but the rest of the process was so much better I'm just assuming this
+will be too.
+
+I used Google Domains to get [tinyshroomstudio.com](http://tinyshroomstudio.com/), which has a link to a Godot game
+I exported for the web. While I was doing this, I found out that [threads don't work](https://docs.godotengine.org/en/3.2/getting_started/workflow/export/exporting_for_web.html) for these exports! This confused me for a while, because I was doing some [background loading](https://docs.godotengine.org/en/3.2/tutorials/io/background_loading.html). So that's one thing I learned today. 
+
+Another thing, [websitepolicies.com](https://www.websitepolicies.com/) is good for generating privacy policies that are legal and 
+no one will understand. They host them for you too, so you can link them when uploading apps to app stores and stuff.
+
+Lastly... the native software on macOS is so bad for editing video properties like frame rate and resolution. Terrible.
+Just gotta use https://video.online-convert.com/convert-to-mpg instead.
+
 ### 3.06.2020
 Now that I'm doing these again, I'm starting to realize that the variety of things
 I learn on a daily basis is much less varied than it was during college. Which, I guess,

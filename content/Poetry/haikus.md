@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.07.20
+pigeon video</br>
+put it in front imovie</br>
+this is so stupid</br>
+
 ### 03.06.20
 no free food which means</br>
 so much for plant based diets</br>
