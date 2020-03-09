@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.08.20
+big pot of cabbage</br>
+add some potato noodles</br>
+now we're cooking, yea</br>
+
 ### 03.07.20
 pigeon video</br>
 put it in front imovie</br>

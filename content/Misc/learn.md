@@ -10,6 +10,17 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.08.2020
+I watched [this video](https://www.youtube.com/watch?v=jKT4H0bstH8) about microcontrollers, or MCUs, today.
+I'm not sure how accurate it is (probably simplified a lot of stuff), but the main takeaway is basically that 
+an MCU is just like a regular computer (e.g. a PC) but a lot smaller and a lot more specialized. E.g. an MCU
+has a CPU, it has memory, it has a system clock, and it has peripherals. However, it's a lot more resource constrained,
+and will usually be used for some specialized application. Fore example, MCUs are used in key fobs, in traffic lights, 
+remote controllers, ATMs, etc.
+
+Also, apparently women's tennis shorts/skirts with pockets are not very popular. They usually just stick the balls between
+their legs and a tight pair of spandex. Did not know that.
+
 ### 3.07.2020
 [Google Domains](https://domains.google/) is so much better than Go Daddy, why didn't I know this 
 before today? Go Daddy has a confusing UI, a subpar UX, and quite a few dark patterns. For example, it's 
