@@ -125,6 +125,15 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>3.09.2020</h3>
+<div class="highlight"><pre><span></span><span class="err">int&amp; getRef();</span>
+<span class="err">auto a = getRef();</span>
+</pre></div>
+
+
+<p><code>a</code> will just be a regular ol' <code>int</code>. Gotta do <code>auto&amp; a = getRef()</code>. </p>
+<p>The rules for this are basically the same as the rules for template type deduction.
+<em>Effective Modern C++</em> Item 1 has a good description of these rules.</p>
 <h3>3.08.2020</h3>
 <p>I watched <a href="https://www.youtube.com/watch?v=jKT4H0bstH8">this video</a> about microcontrollers, or MCUs, today.
 I'm not sure how accurate it is (probably simplified a lot of stuff), but the main takeaway is basically that 
