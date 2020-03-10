@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.09.20
+sit down in my chair</br>
+pull my laptop out my bag</br>
+that's not my laptop</br>
+
 ### 03.08.20
 big pot of cabbage</br>
 add some potato noodles</br>

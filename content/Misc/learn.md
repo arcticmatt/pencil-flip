@@ -10,6 +10,16 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.09.2020
+```
+int& getRef();
+auto a = getRef();
+```
+`a` will just be a regular ol' `int`. Gotta do `auto& a = getRef()`. 
+
+The rules for this are basically the same as the rules for template type deduction.
+*Effective Modern C++* Item 1 has a good description of these rules.
+
 ### 3.08.2020
 I watched [this video](https://www.youtube.com/watch?v=jKT4H0bstH8) about microcontrollers, or MCUs, today.
 I'm not sure how accurate it is (probably simplified a lot of stuff), but the main takeaway is basically that 
