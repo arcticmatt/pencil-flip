@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.15.20
+write some code, fix a</br>
+bug, write some code, fix a bug,</br>
+write some code, repeat</br>
+
 ### 03.09.20
 sit down in my chair</br>
 pull my laptop out my bag</br>

@@ -56,7 +56,7 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Custom URL
-STATIC_PATHS = ['images', 'extra/CNAME', 'extra/custom.css']
+STATIC_PATHS = ['images', 'videos', 'extra/CNAME', 'extra/custom.css']
 # Change path of custom.css to 'static/custom.css' in output dir
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
         'extra/custom.css': {'path': 'static/custom.css'},}

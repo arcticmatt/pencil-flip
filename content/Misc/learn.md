@@ -10,6 +10,42 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.15.2020
+I spent a large chunk of this weekend improving the performance of Porta Penguin
+on Android. It already performed well on desktop (not surprising) and iOS (my iPhone is newer
+than my test Android device, maybe that's why?). However, on Android, there were some
+pretty glaring performance issues which really annoyed me. I hid a few of them by adding
+scene transitions, but there was still visible lag, and the transitions weren't completely
+smooth. The main things I did to improve performance are:
+
+- **Disable as many collision bodies as possible**. Before, I did some optimizations to
+disable off-screen collision bodies. However, I realized that things could only collide
+on the left side of the screen, so I optimized this even more aggresively. This makes it
+so that the game performs much better when there are more nodes on the screen.
+- [**Change scenes manually**](https://godot-es-docs.readthedocs.io/en/latest/tutorials/misc/change_scenes_manually.html).
+This is super important, and makes it so that stuff is only a bit slow the first time.
+For example, after I exit the Main scene, I save the node instead of deleting it. Then,
+when the player navigates back to that scene, I just add that node back to the scene tree
+instead of instancing an entirely new node (which is quite expensive). Doing this made my
+scene transitions much smoother.
+- **Reset scenes manually**. This is similar to the above. Instead of calling
+`get_tree().reload_current_scene()` to restart the Main scene, which is expensive, I manually
+reset the state myself. One big saving here is that the object pools don't have to get
+re-instanced, which means all their resources don't have to be loaded and all their objects
+don't have to be added to the scene tree.
+
+</br>
+#### Before, laggy on first jump...
+<video width="800" height="450">
+  <source src="/videos/porta-penguin-lag-trimmed.mp4" type="video/mp4">
+</video>
+
+</br>
+Too lazy to record a video of the after now, but you can just download the game [here](https://play.google.com/store/apps/details?id=com.tinyshroom.portapenguin) and see for yourself.
+
+Also, it's great how easy it is to do screen recordings on Android using `adb`. I followed
+[these instructions](https://medium.com/@elye.project/capture-picture-and-record-video-using-adb-5f4c582acb3c).
+
 ### 3.09.2020
 ```
 int& getRef();
