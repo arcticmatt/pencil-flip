@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2020-03-15 00:00
+Date: 2020-05-17 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 05.17.20
+commitment is hard</br>
+so marriage is impressive</br>
+or are they lazy</br>
 
 ### 03.15.20
 write some code, fix a</br>

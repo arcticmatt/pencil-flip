@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2020-03-15 00:00
+Date: 2020-05-17 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,16 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 5.17.2020
+
+I recently learned about a note taking strategy called Zettelkasten. More about it [here](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125).
+
+Here's an interesting quote from that article:
+
+> [Lots of] studies suggest that nearly all non-linear note-taking strategies (e.g. with an outline or a matrix framework) benefit learning outcomes more than does the linear recording of information, with graphs and concept maps especially fostering the selection and organization of information. As a consequence, the remembering of information is most effective with non-linear strategies.
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1086).
 
 ### 3.15.2020
 I spent a large chunk of this weekend improving the performance of Porta Penguin
