@@ -10,6 +10,23 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 2.25.2021
+
+http://cht.sh/, because I never remember the arguments to `scp`. Here's a cool example.
+
+```
+software/pencil-flip $ curl cht.sh/chmod/755
+
+Linux Permissions String:	rwxr-xr-x
+Linux Permissions Number:	0755
+
+Special		Owner		Group		Public
+
+Setuid     [ ]	Read    [X]	Read    [X]	Read    [X]
+Setgid     [ ]	Write   [X]	Write   [ ]	Write   [ ]
+Sticky bit [ ]	Execute [X]	Execute [X]	Execute [X]
+```
+
 ### 5.17.2020
 
 I recently learned about a note taking strategy called Zettelkasten. More about it [here](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125).

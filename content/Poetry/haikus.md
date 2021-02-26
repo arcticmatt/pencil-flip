@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 02.25.21
+it is still covid</br>
+it's been covid for a while</br>
+kinda used to it</br>
+
 ### 05.17.20
 commitment is hard</br>
 so marriage is impressive</br>
