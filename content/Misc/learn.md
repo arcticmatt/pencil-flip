@@ -12,7 +12,7 @@ of my everyday life, through all its ups and downs and dull mundanities.
 
 ### 2.25.2021
 
-http://cht.sh/, because I never remember the arguments to `scp`. Here's a cool example:
+http://cht.sh/, because I never remember the arguments to `scp`. Here's a cool example.
 
 ```
 software/pencil-flip $ curl cht.sh/chmod/755
