@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-02-25 00:00
+Date: 2021-02-27 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 2.27.2021
+With [github1s](https://github.com/conwnet/github1s), you can browse any GitHub repository with VS Code. All you need to do is append "1s" to a GitHub link, like [https://github1s.com/arcticmatt/dino-brick](https://github1s.com/arcticmatt/dino-brick).
 
 ### 2.25.2021
 

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-02-25 00:00
+Date: 2021-02-27 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 02.27.21
+after i wake up</br>
+relieved that it's the weekend</br>
+time for a haircut</br>
 
 ### 02.25.21
 it is still covid</br>
