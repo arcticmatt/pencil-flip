@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-02-27 00:00
+Date: 2021-02-28 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,32 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 2.28.2021
+The CAN-SPAM act is a law that establishes requirements for commercial emails. Here's some Q&A about it.
+
+Q: When does it apply?</br>
+A: It applies to commercial emails, i.e. emails with commercial content. There are three types of content an email can have. Commercial content advertises or promotes a commercial product. Transactional content "facilitates an already agreed-upon transaction or updates a customer about an ongoing transaction." Other content is neither commercial nor transactional. See [here](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) for more details.
+
+Q: What requirements does it impose?<br/>
+A: The main requirement is that commercial emails must provide a way to opt-out of future messages. They also need to tell recipients where the sender is located. This is why emails sent with MailChimp, ConvertKit, SendGrid, etc., have an unsubscribe button and the sender's address at the bottom.
+
+Q: What happens if you violate it?<br/>
+A: Each separate email in violation of the CAN-SPAM Act is subject to penalties of up to $43,792.
+
+Q: What does it stand for?<br/>
+A: It stands for Controlling the Assault of Non-Solicited Pornography And Marketing. The acronym is a play on words—the act is supposed to "can", or put an end, to spam.
+
+Q: Is it effective?<br/>
+A: Not really. [In 2004, some surveys found that only 1-10% of spam email complied with the act](https://www.pcworld.com/article/114287/article.html). Further, the law does not require senders to get permission before they send commercial messages. Lastly, it overrides anti-spam laws enacted at the State level. Putting all this together, the law does not prevent people from initially sending spam (it just requires they provide a way to opt-out), and most spam emails don't comply with it.
+
+Sources:
+
+1. https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business
+2. https://en.wikipedia.org/wiki/CAN-SPAM_Act_of_2003
+
+*I found out about the [National Do Not Call Registry](https://en.wikipedia.org/wiki/National_Do_Not_Call_Registry) while reading about this stuff. Maybe I'll write about that later.*
+
 
 ### 2.27.2021
 With [github1s](https://github.com/conwnet/github1s), you can browse any GitHub repository with VS Code. All you need to do is append "1s" to a GitHub link, like [https://github1s.com/arcticmatt/dino-brick](https://github1s.com/arcticmatt/dino-brick).

@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 02.28.21
+if I write this in</br>
+the morning there is not that</br>
+much to talk about</br>
+
 ### 02.27.21
 after i wake up</br>
 relieved that it's the weekend</br>
