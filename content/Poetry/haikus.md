@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.06.21
+always ask why now</br>
+if you don't you'll have a frown</br>
+try to swim but drown</br>
+
 ### 02.28.21
 if I write this in</br>
 the morning there is not that</br>

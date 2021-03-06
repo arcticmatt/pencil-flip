@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-02-28 00:00
+Date: 2021-03-06 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.06.2021
+
+[https://www.gwern.net/Spaced-repetition](https://www.gwern.net/Spaced-repetition) is a really interesting article about spaced repetition. It references a ridiculous number of research papers. One of the more interesting ones is [Massed and Spaced Learning in Honeybees: The Role of CS, US, the Intertrial Interval, and the Test Interval](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC311375/). Here's the abstract:
+
+> Conditioning the proboscis extension reflex of harnessed honeybees (Apis mellifera) is used to study the effect temporal spacing between successive conditioning trials has on memory. Retention is monitored at two long-term intervals corresponding to early (1 and 2 d after conditioning) and late long-term memory (3 and 4 d). The acquisition level is varied by using different conditioned stimuli (odors, mechanical stimulation, and temperature increase at the antenna), varying strengths of the unconditioned stimulus (sucrose), and various numbers of conditioning trials. **How learning trials are spaced is the dominant factor both for acquisition and retention, and although longer intertrial intervals lead to better acquisition and higher retention, the level of acquisition per se does not determine the spacing effect on retention. Rather, spaced conditioning leads to higher memory consolidation both during acquisition and later, between the early and long-term memory phases.** These consolidation processes can be selectively inhibited by blocking protein synthesis during acquisition.
+
+Basically, they tested whether spaced repetition works for bees... and it does!
 
 ### 2.28.2021
 The CAN-SPAM act is a law that establishes requirements for commercial emails. Here's some Q&A about it.
