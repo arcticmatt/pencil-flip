@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.08.21
+in highschool you cram</br>
+stuff your head to beat exams</br>
+then forget again</br>
+
 ### 03.06.21
 always ask why now</br>
 if you don't you'll have a frown</br>

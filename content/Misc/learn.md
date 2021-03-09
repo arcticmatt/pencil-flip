@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-06 00:00
+Date: 2021-03-08 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,20 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.08.2021
+Here are two interesting papers about overlearning.
+
+* https://files.eric.ed.gov/fulltext/ED505637.pdf
+* https://www.gwern.net/docs/www/uweb.cas.usf.edu/f3db157e6865f52ea1c6a9a798ef6ef3d90f20cc.pdf
+
+Here's a definition of overlearning from the first paper.
+
+> The immediate continuation of practice beyond the criterion of one perfect instance is defined as overlearning. Thus, if criterion is reached but further study is delayed until a subsequent session, the postcriterion practice is not an instance of overlearning. 
+
+The first study tested the effects of overlearning on memorizing geography facts (city-country pairs) and word definitions. Let's just consider the geography fact experiment for simplicity. 130 college students were divided into six groups: (Lo, 1 week), (Lo, 3 weeks), (Lo, 9 weeks), (Hi, 1 week), (Hi, 3 weeks), (Hi, 9 weeks). Lo = not overlearning, Hi = overlearning. The time indicates when the students were tested on their knowledge. The study found that overlearning helped retention at the one-week mark, but not for the later dates. 
+
+The second study tested overlearning and distributed practice for solving math problems, but let's focus on the former. For the overlearning experiment, 100 college students were divided into four groups: (Lo, 1 week), (Lo, 4 weeks), (Hi, 1 week), (Hi, 4 weeks). Again, Lo = not overlearning, Hi = overlearning. The study found that overlearning had no significant affect on test scores at either the one-week or four-weeks marks.
 
 ### 3.06.2021
 
