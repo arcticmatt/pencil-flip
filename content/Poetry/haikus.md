@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.09.21
+restaurant galbi</br>
+it is way too expensive</br>
+buy at k market</br>
+
 ### 03.08.21
 in highschool you cram</br>
 stuff your head to beat exams</br>

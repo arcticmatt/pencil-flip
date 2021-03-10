@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-08 00:00
+Date: 2021-03-09 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.09.2021
+Yoshi's full name is T. Yoshisaur Munchakoopas. That's amazing.
+
+Some other fun Nintendo facts can be found [here](https://www.vox.com/xpress/2014/8/7/5978739/nintendo-yoshisaur-munchakoopas-mario-homo-nintendonus).
 
 ### 3.08.2021
 Here are two interesting papers about overlearning.
