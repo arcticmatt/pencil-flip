@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-02-27 00:00
+Date: 2021-03-11 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.11.21
+thought the week ended</br>
+but it is only thursday</br>
+sad awakening</br>
 
 ### 03.10.21
 we made some brown rice</br>

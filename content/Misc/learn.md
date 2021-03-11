@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-09 00:00
+Date: 2021-03-11 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.11.2021
+Hyperthymesia is crazy. Here's the description from [Wikipedia](https://en.wikipedia.org/wiki/Hyperthymesia).
+
+> Hyperthymesia is a condition that leads people to be able to remember an abnormally large number of their life experiences in vivid detail. It is extraordinarily rare, with only about 60 people in the world having been diagnosed with the condition as of 2021. There are generally two types, people that also remember the exact dates and times that each life event happened, and those that only remember every single life event in perfect detail without the exact dates and times.
 
 ### 3.10.2021
 The beginning of ["A More Perfect Union"](https://genius.com/Titus-andronicus-a-more-perfect-union-lyrics) by Titus Andronicus starts like this:
