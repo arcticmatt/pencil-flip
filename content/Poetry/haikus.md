@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.10.21
+we made some brown rice</br>
+it was very watery</br>
+tasted alright though</br>
+
 ### 03.09.21
 restaurant galbi</br>
 it is way too expensive</br>

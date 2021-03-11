@@ -10,6 +10,17 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.10.2021
+The beginning of ["A More Perfect Union"](https://genius.com/Titus-andronicus-a-more-perfect-union-lyrics) by Titus Andronicus starts like this:
+
+> From whence shall we expect the approach of danger? Shall some transatlantic giant step the earth and crush us at a blow? Never! All the armies of Europe and Asia could not, by force, take a drink from the Ohio River or set a track on the Blue Ridge in the trial of a thousand years. If destruction be our lot, we ourselves must be its author and finisher. As a nation of free men, we will live forever, or die by suicide.
+
+This is adapted from [Abraham Lincoln's Lyceum address](https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_Lyceum_address):
+
+> Shall we expect some transatlantic military giant to step the ocean and crush us at a blow? Never! All the armies of Europe, Asia, and Africa combined, with all the treasure of the earth (our own excepted) in their military chest, with a Bonaparte for a commander, could not by force take a drink from the Ohio or make a track on the Blue Ridge in a trial of a thousand years. At what point then is the approach of danger to be expected? I answer. If it ever reach us it must spring up amongst us; it cannot come from abroad. If destruction be our lot we must ourselves be its author and finisher. As a nation of freemen we must live through all time or die by suicide.
+
+Man, that's an awesome quote.
+
 ### 3.09.2021
 Yoshi's full name is T. Yoshisaur Munchakoopas. That's amazing.
 
