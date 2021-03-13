@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-12 00:00
+Date: 2021-03-13 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,19 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.13.2021
+There are some oddly specific CSS color names. The full list is [here](https://www.w3schools.com/colors/colors_names.asp). Here are some of my favorites:
+
+- <span style="background-color: BlanchedAlmond">BlanchedAlmond</span>
+- <span style="background-color: BurlyWood">BurlyWood</span>
+- <span style="background-color: Cornsilk">Cornsilk</span>. Apparently this is an actual thing.
+- <span style="background-color: MistyRose">MistyRose</span>
+- <span style="background-color: PapayaWhip">PapayaWhip</span>
+- <span style="background-color: PeachPuff">PeachPuff</span>
+- <span style="background-color: RebeccaPurple;color:white">RebeccaPurple</span>
+
+Here's a cool [blog post](https://chenhuijing.com/blog/where-did-css-named-colours-come-from/#%F0%9F%A6%8A) about how all these color names came to be.
 
 ### 3.12.2021
 As a follow-up to yesterday: what's the difference between hyperthymesia, eidetic memory, and photographic memory? The [Wikipedia article for eidetic memory](https://en.wikipedia.org/wiki/Eidetic_memory) sums it up pretty well:

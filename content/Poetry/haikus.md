@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-03-12 00:00
+Date: 2021-03-13 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.13.21
+disagaea 5 is</br>
+extremely complicated</br>
+gave me a headache</br>
 
 ### 03.12.21
 drinking sunright tea</br>
