@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-03-11 00:00
+Date: 2021-03-12 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.12.21
+drinking sunright tea</br>
+one of many boba stores</br>
+in our small city</br>
 
 ### 03.11.21
 thought the week ended</br>

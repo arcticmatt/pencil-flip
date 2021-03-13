@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-11 00:00
+Date: 2021-03-12 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,19 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.12.2021
+As a follow-up to yesterday: what's the difference between hyperthymesia, eidetic memory, and photographic memory? The [Wikipedia article for eidetic memory](https://en.wikipedia.org/wiki/Eidetic_memory) sums it up pretty well:
+
+> Eidetic memory (more commonly called photographic memory) is the ability to recall an image from memory with high precision for a brief period after seeing it only once, and without using a mnemonic device. Although the terms eidetic memory and photographic memory are popularly used interchangeably, they are also distinguished, with eidetic memory referring to the ability to see an object for a few minutes after it is no longer present and photographic memory referring to the ability to recall pages of text or numbers, or similar, in great detail. When the concepts are distinguished, eidetic memory is reported to occur in a small number of children and generally not found in adults, while true photographic memory has never been demonstrated to exist.
+
+To summarize:
+
+- Eidetic memory: the ability to recall an image from memory with high precision for a *brief period after seeing it only once*. It's rare, but it exists.
+- Photographic memory: the definition seems to vary depending where you look. In general, it's similar to eidetic memory, but applies to text and numbers, and the memories are more long-term. Its existence is debated.
+- Hyperthymesia: described below! Hyperthymesia is longer-term than eidetic memory, and specifically about life experiences. It exists!
+
+
 
 ### 3.11.2021
 Hyperthymesia is crazy. Here's the description from [Wikipedia](https://en.wikipedia.org/wiki/Hyperthymesia).
