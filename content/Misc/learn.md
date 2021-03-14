@@ -10,6 +10,17 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.14.2021
+What's the difference between a URI and a URL? Well, it's all in the name. 
+
+URI stands for Uniform Resource Identifier, and identifies a logical or physical resource. For example, an ISBN is a URI, since it identifies a book. 
+
+URL stands for Uniform Resource Locator. A URL identifies a *web* resource and tells you its location (i.e. how to access it). For example, https://google.com is a URL, since it both identifies and locates a web resource.
+
+Note that all URLs are URIs, but not all URIs are URLs.
+
+For more info, you can read about the difference [here](https://danielmiessler.com/study/difference-between-uri-url/).
+
 ### 3.13.2021
 There are some oddly specific CSS color names. The full list is [here](https://www.w3schools.com/colors/colors_names.asp). Here are some of my favorites:
 

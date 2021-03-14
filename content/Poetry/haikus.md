@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.14.21
+dogecoin to the moon</br>
+hope it happens very soon</br>
+up like a balloon</br>
+
 ### 03.13.21
 disagaea 5 is</br>
 extremely complicated</br>
