@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-03-13 00:00
+Date: 2021-03-17 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.17.21
+iPhone is on ice</br>
+sitting in a bowl of rice</br>
+oh that doesn't work?</br>
 
 ### 03.14.21
 dogecoin to the moon</br>
