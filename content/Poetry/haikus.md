@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-03-17 00:00
+Date: 2021-03-18 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.18.21
+my overnight oats</br>
+chillin in their water bowl</br>
+got me oh so stoked</br>
 
 ### 03.17.21
 iPhone is on ice</br>

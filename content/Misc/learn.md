@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-17 00:00
+Date: 2021-03-18 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -10,8 +10,24 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.18.2021
+There are two main types of oats: rolled and steel-cut.
+
+Rolled oats are... rolled. There are three types of rolled oats. I list them in order from least processed to most processed.
+
+- Old-fashioned: the oats are steamed, flattened, and then cut.
+- Quick-cooking oats: the oats are rolled thinner than old-fashioned oats so they cook faster.
+- Instant oats: the oats are cut smaller than quick-cooking oats so they cook EVEN FASTER.
+
+
+Steel-cut oats are cut... by steel. Makes sense. AFAICT they're not pre-cooked. The main reason they take so much longer to cook is the shape (they're not very flat).
+
+[Rolled oats and steel-cut oats are basically equivalent in terms of nutrition](https://www.quakeroats.com/oats-do-more/why-oats/the-difference-between-our-oats). So, just eat whichever one you like the most.
+
+Also, I learned that steel-cut oats aren't great for microwaving. I learned this after 2 bowls overflowed in our microwave and made a huge mess.
+
 ### 3.17.2021
-Turns out when you drop a device (like your phone) in water, you [shouldn't put it in rice to dry it out](https://toomanyadapters.com/dry-smartphone-right-way/). I totally thought that worked until Katherine dropped her phone in the toilet and I put it in rice, only to take it out when Katherine Googled it later.
+Turns out when you drop a device (like your phone) in water, you [shouldn't put it in rice to dry it out](https://toomanyadapters.com/dry-smartphone-right-way/). I totally thought that worked until Katherine dropped her phone in the toilet and I put it in rice, only to take it out when Katherine googled it later.
 
 ### 3.14.2021
 What's the difference between a URI and a URL? Well, it's all in the name. 
