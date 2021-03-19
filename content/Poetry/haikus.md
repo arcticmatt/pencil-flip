@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-03-18 00:00
+Date: 2021-03-19 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.19.21
+you know what they say</br>
+a dumpling is a dumpling</br>
+the bird is the word</br>
 
 ### 03.18.21
 my overnight oats</br>
