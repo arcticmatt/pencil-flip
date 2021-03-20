@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-19 00:00
+Date: 2021-03-20 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.20.2021
+A tangelo is a cross between a tangerine and a pomelo. I found out about them because Imperfect Foods offers them.
 
 ### 3.19.2021
 One of the hardest parts of speaking Chinese is getting the tones right. The canonical example of this is "ma", which can mean 4 different things depending on how you say it:
