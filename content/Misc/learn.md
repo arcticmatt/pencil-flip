@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-20 00:00
+Date: 2021-03-22 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,9 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.22.2021
+I tried https://bubble.io/, a no-code platform for building web apps. So far, it's pretty awesome. https://pinver.medium.com/decoding-the-no-code-low-code-startup-universe-and-its-players-4b5e0221d58b is a good primer about no-code/low-code.
 
 ### 3.20.2021
 A tangelo is a cross between a tangerine and a pomelo. I found out about them because Imperfect Foods offers them.

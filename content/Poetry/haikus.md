@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-03-20 00:00
+Date: 2021-03-22 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.22.21
+ocean trails are fun</br>
+moreso when there's four of them</br>
+so many options</br>
 
 ### 03.20.21
 i thought we were done</br>
