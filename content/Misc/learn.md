@@ -10,6 +10,9 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 3.23.2021
+I recently found out about https://anonymousfiles.io/, which is a neat file sharing website. Reminds me of using https://file.pizza/ back in college.
+
 ### 3.22.2021
 I tried https://bubble.io/, a no-code platform for building web apps. So far, it's pretty awesome. https://pinver.medium.com/decoding-the-no-code-low-code-startup-universe-and-its-players-4b5e0221d58b is a good primer about no-code/low-code.
 

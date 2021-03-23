@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.23.21
+caffeine chocolate</br>
+should not eat it at night or</br>
+i can't fall asleep</br>
+
 ### 03.22.21
 ocean trails are fun</br>
 moreso when there's four of them</br>
