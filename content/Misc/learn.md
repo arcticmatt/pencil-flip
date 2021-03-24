@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-22 00:00
+Date: 2021-03-24 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.24.2021
+I learned about Detroit-style pizza a while ago while watching [this episode](https://www.youtube.com/watch?v=n2BgkHV373A&t=3s) of The Pizza Show, but only learned how to make it a month or two ago.
+
+I use [Adam Ragusea's dough recipe](https://www.youtube.com/watch?v=SDpCzJw2xm4&t=67s) and [Ethan Chlebowski's recipe](https://www.youtube.com/watch?v=lhMhYKSMWIY&t=20s) for everything else. The recipe is pretty flexible—basically, you put the dough into a square pan and top it with stuff (the sauce should be put on last). The corner slices are amazing (the edges are crispy and cheesy), and it's much easier to make than NY-style pizza (don't need to shape the dough or slide it onto the steel). Overall, this is one of my favorite foods to make nowadays. 
 
 ### 3.23.2021
 I recently found out about https://anonymousfiles.io/, which is a neat file sharing website. Reminds me of using https://file.pizza/ back in college.

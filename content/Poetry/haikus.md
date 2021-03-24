@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-03-22 00:00
+Date: 2021-03-24 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.24.21
+when making a steak</br>
+please skip the garlic powder</br>
+i think it will burn</br>
 
 ### 03.23.21
 caffeine chocolate</br>
