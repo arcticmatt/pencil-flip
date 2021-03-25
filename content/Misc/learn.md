@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-24 00:00
+Date: 2021-03-25 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.25.2021
+
+> murmuration : noun : a flock of starlings
 
 ### 3.24.2021
 I learned about Detroit-style pizza a while ago while watching [this episode](https://www.youtube.com/watch?v=n2BgkHV373A&t=3s) of The Pizza Show, but only learned how to make it a month or two ago.

@@ -1,11 +1,16 @@
 Title: Life in Haiku
-Date: 2021-03-24 00:00
+Date: 2021-03-25 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.25.21
+had a stomachache</br>
+a mystery stomachache</br>
+i do not know why</br>
 
 ### 03.24.21
 when making a steak</br>
