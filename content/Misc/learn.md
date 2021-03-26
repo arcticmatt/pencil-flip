@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-25 00:00
+Date: 2021-03-26 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,11 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 3.26.2021
+The TCPA (Telephone Consumer Protection Act of 1991) restricts telephone solicitations (i.e., telemarketing) and the use of automated telephone equipment.
+
+You can sue for up to $500 for each violation of TCPA.
 
 ### 3.25.2021
 

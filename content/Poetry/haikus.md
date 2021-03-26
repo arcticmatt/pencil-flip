@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.26.21
+please massage the kale</br>
+to make it hearty and hale</br>
+otherwise you fail</br>
+
 ### 03.25.21
 had a stomachache</br>
 a mystery stomachache</br>
