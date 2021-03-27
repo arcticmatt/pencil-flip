@@ -7,6 +7,11 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 03.27.21
+ajito is good</br>
+that is all i want to say</br>
+filler mc-miller</br>
+
 ### 03.26.21
 please massage the kale</br>
 to make it hearty and hale</br>
