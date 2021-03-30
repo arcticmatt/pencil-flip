@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-03-29 00:00
+Date: 2021-03-30 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.30.21
+
+yellow squash pizza</br>
+the pizza for you and me</br>
+the squash ain't too bad</br>
 
 ### 03.29.21
 
