@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-03-30 00:00
+Date: 2021-03-31 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 03.31.21
+
+ready for the launch</br>
+i'm also ready for lunch</br>
+burritos sound good</br>
 
 ### 03.30.21
 
