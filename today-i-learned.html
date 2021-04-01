@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2021-03-31" />
+        <meta property="article:published_time" content="2021-04-01" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -109,7 +109,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2021-03-31T00:00:00-07:00"> Wed 31 March 2021</time>
+        <i class="fa fa-calendar"></i><time datetime="2021-04-01T00:00:00-07:00"> Thu 01 April 2021</time>
     </span>
 
 
@@ -125,10 +125,17 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>4.01.2021</h3>
+<p>The cron service is used to schedule recurring commands. You can specify what command to run, and when to run it, by using <code>crontab</code> to edit a cron table.</p>
+<p>For example, if you put this into a cron table with <code>crontab -e</code>:</p>
+<div class="highlight"><pre><span></span><span class="err">0 20 1-31/2 * * ls</span>
+</pre></div>
+
+
+<p>it means <code>ls</code> will run at 20:00 on every odd-numbered day.</p>
 <h3>3.31.2021</h3>
 <p>When you log into a 3rd party app with Facebook, <a href="https://developers.facebook.com/docs/facebook-login/permissions/overview/">Facebook will show you what permissions it is requesting</a>.</p>
 <p>The permissions that can be requested are <a href="https://developers.facebook.com/docs/permissions/reference/">listed here</a>. <a href="https://developers.facebook.com/docs/reference/javascript/FB.login/v10.0">Here's how</a> to request permissions with the JavaScript SDK.</p>
-<p>Note that things work differently for 1st party apps. Those will just ask for "access to your account," which basically just means it has access to the whole account.</p>
 <h3>3.30.2021</h3>
 <p>[react-native-webview] is cool, but has some problems. Specifically, <a href="https://github.com/react-native-webview/react-native-webview/issues/4">only the first request made in the WebView will have custom headers</a>. AFAICT, there's no way to send <code>POST</code> requests with custom headers in a WebView.</p>
 <h3>3.29.2021</h3>
@@ -2243,7 +2250,7 @@ term for the dish.</p>
             var disqus_config = function () {
                 this.language = "en";
 
-                        this.page.identifier = '2021-03-31-today-i-learned';
+                        this.page.identifier = '2021-04-01-today-i-learned';
                         this.page.url = 'http://blog.pencilflip.com/today-i-learned.html';
             };
 
@@ -2286,8 +2293,8 @@ term for the dish.</p>
 <li class="list-group-item">
   <h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
   <ul class="list-group" id="recentposts">
-    <li class="list-group-item"><a href="http://blog.pencilflip.com/life-in-haiku.html">Life in Haiku</a></li>
     <li class="list-group-item"><a href="http://blog.pencilflip.com/today-i-learned.html">Today I Learned</a></li>
+    <li class="list-group-item"><a href="http://blog.pencilflip.com/life-in-haiku.html">Life in Haiku</a></li>
     <li class="list-group-item"><a href="http://blog.pencilflip.com/exhalation.html">Exhalation: Stories</a></li>
     <li class="list-group-item"><a href="http://blog.pencilflip.com/concussion.html">Coping with Concussion and Mild Traumatic Brain Injury</a></li>
     <li class="list-group-item"><a href="http://blog.pencilflip.com/mycelium-running.html">Mycelium Running: How Mushrooms Can Help Save the World</a></li>
