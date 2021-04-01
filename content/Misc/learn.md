@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-03-31 00:00
+Date: 2021-04-01 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -10,13 +10,23 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 4.01.2021
+
+The cron service is used to schedule recurring commands. You can specify what command to run, and when to run it, by using `crontab` to edit a cron table.
+
+For example, if you put this into a cron table with `crontab -e`:
+
+```
+0 20 1-31/2 * * ls
+```
+
+it means `ls` will run at 20:00 on every odd-numbered day.
+
 ### 3.31.2021
 
 When you log into a 3rd party app with Facebook, [Facebook will show you what permissions it is requesting](https://developers.facebook.com/docs/facebook-login/permissions/overview/).
 
 The permissions that can be requested are [listed here](https://developers.facebook.com/docs/permissions/reference/). [Here's how](https://developers.facebook.com/docs/reference/javascript/FB.login/v10.0) to request permissions with the JavaScript SDK.
-
-Note that things work differently for 1st party apps. Those will just ask for "access to your account," which basically just means it has access to the whole account.
 
 ### 3.30.2021
 

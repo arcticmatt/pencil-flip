@@ -7,6 +7,12 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 04.01.21
+
+starting to warm up</br>
+in the mornings it's still cold</br>
+wear my fuzzy coat</br>
+
 ### 03.31.21
 
 ready for the launch</br>
