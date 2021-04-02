@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-01 00:00
+Date: 2021-04-02 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,37 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.02.2021
+
+Here's how to send emails from the command line on a Linux machine.
+
+First, install `ssmtp` and `mailutils`:
+
+```
+sudo apt update
+sudo apt install ssmtp
+sudo apt install mailutils
+```
+
+Next, modify `/etc/ssmtp/ssmtp.conf`. Mine looks something like this:
+
+```
+root=myemail@gmail.com
+mailhub=smtp.gmail.com:465
+hostname=something
+AuthUser=myemail@gmail.com
+AuthPass=applicationpassword
+UseTLS=YES
+```
+
+One tricky part is that `AuthPass` should be an [App Password](https://support.google.com/accounts/answer/185833?hl=en), not the password you use to sign in.
+
+After this setup, you can simply run a command like this to send emails:
+
+```
+echo "Here add your email body" | mail -s "Here specify your email subject" your_recepient_email@yourdomain.com
+```
 
 ### 4.01.2021
 

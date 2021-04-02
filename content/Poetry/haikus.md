@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-03-31 00:00
+Date: 2021-04-02 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 04.02.21
+
+burrito slices</br>
+culinary invention</br>
+unfiltered genius</br>
 
 ### 04.01.21
 
