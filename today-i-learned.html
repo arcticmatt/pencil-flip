@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2021-04-01" />
+        <meta property="article:published_time" content="2021-04-02" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -109,7 +109,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2021-04-01T00:00:00-07:00"> Thu 01 April 2021</time>
+        <i class="fa fa-calendar"></i><time datetime="2021-04-02T00:00:00-07:00"> Fri 02 April 2021</time>
     </span>
 
 
@@ -125,6 +125,31 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>4.02.2021</h3>
+<p>Here's how to send emails from the command line on a Linux machine.</p>
+<p>First, install <code>ssmtp</code> and <code>mailutils</code>:</p>
+<div class="highlight"><pre><span></span><span class="err">sudo apt update</span>
+<span class="err">sudo apt install ssmtp</span>
+<span class="err">sudo apt install mailutils</span>
+</pre></div>
+
+
+<p>Next, modify <code>/etc/ssmtp/ssmtp.conf</code>. Mine looks something like this:</p>
+<div class="highlight"><pre><span></span><span class="err">root=myemail@gmail.com</span>
+<span class="err">mailhub=smtp.gmail.com:465</span>
+<span class="err">hostname=something</span>
+<span class="err">AuthUser=myemail@gmail.com</span>
+<span class="err">AuthPass=applicationpassword</span>
+<span class="err">UseTLS=YES</span>
+</pre></div>
+
+
+<p>One tricky part is that <code>AuthPass</code> should be an <a href="https://support.google.com/accounts/answer/185833?hl=en">App Password</a>, not the password you use to sign in.</p>
+<p>After this setup, you can simply run a command like this to send emails:</p>
+<div class="highlight"><pre><span></span><span class="err">echo &quot;Here add your email body&quot; | mail -s &quot;Here specify your email subject&quot; your_recepient_email@yourdomain.com</span>
+</pre></div>
+
+
 <h3>4.01.2021</h3>
 <p>The cron service is used to schedule recurring commands. You can specify what command to run, and when to run it, by using <code>crontab</code> to edit a cron table.</p>
 <p>For example, if you put this into a cron table with <code>crontab -e</code>:</p>
@@ -2250,7 +2275,7 @@ term for the dish.</p>
             var disqus_config = function () {
                 this.language = "en";
 
-                        this.page.identifier = '2021-04-01-today-i-learned';
+                        this.page.identifier = '2021-04-02-today-i-learned';
                         this.page.url = 'http://blog.pencilflip.com/today-i-learned.html';
             };
 
@@ -2293,8 +2318,8 @@ term for the dish.</p>
 <li class="list-group-item">
   <h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
   <ul class="list-group" id="recentposts">
-    <li class="list-group-item"><a href="http://blog.pencilflip.com/today-i-learned.html">Today I Learned</a></li>
     <li class="list-group-item"><a href="http://blog.pencilflip.com/life-in-haiku.html">Life in Haiku</a></li>
+    <li class="list-group-item"><a href="http://blog.pencilflip.com/today-i-learned.html">Today I Learned</a></li>
     <li class="list-group-item"><a href="http://blog.pencilflip.com/exhalation.html">Exhalation: Stories</a></li>
     <li class="list-group-item"><a href="http://blog.pencilflip.com/concussion.html">Coping with Concussion and Mild Traumatic Brain Injury</a></li>
     <li class="list-group-item"><a href="http://blog.pencilflip.com/mycelium-running.html">Mycelium Running: How Mushrooms Can Help Save the World</a></li>
