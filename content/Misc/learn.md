@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-02 00:00
+Date: 2021-04-03 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.03.2021
+
+TIL that [Fried Coke](https://en.wikipedia.org/wiki/Fried_Coke) is a thing. People really can fry just about anything.
 
 ### 4.02.2021
 

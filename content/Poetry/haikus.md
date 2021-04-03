@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-02 00:00
+Date: 2021-04-03 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.03.2021
+
+attack on titan</br>
+wow that was ridiculous</br>
+need to wind down now</br>
 
 ### 04.02.21
 
