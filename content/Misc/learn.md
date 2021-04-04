@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-03 00:00
+Date: 2021-04-04 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.04.2021
+
+I removed ReCAPTCHA from [Harken's landing page](https://harkenapp.com/) yesterday after reading [You (probably) don’t need ReCAPTCHA](https://nearcyan.com/you-probably-dont-need-recaptcha/).
+
+Doing the email submission in JavaScript (as opposed to having a form action) already makes it much harder to spam. Also, I added rate limiting just in case.
+
+I also found this amazing [GitHub issue](https://github.com/google/recaptcha/issues/286) from the blog post.
 
 ### 4.03.2021
 
