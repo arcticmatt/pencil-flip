@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-04 00:00
+Date: 2021-04-05 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,18 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.05.2021
+
+I refactored [Harken](https://harkenapp.com/) to not use `getServerSideProps` in order to make navigation faster.
+
+The [Next.js documentation](https://nextjs.org/docs/basic-features/data-fetching#when-should-i-use-getserversideprops) talks about when `getServerSideProps` should be used:
+
+> You should use `getServerSideProps` only if you need to pre-render a page whose data must be fetched at request time. Time to first byte (TTFB) will be slower than `getStaticProps` because the server must compute the result on every request, and the result cannot be cached by a CDN without extra configuration.
+
+I was using `getServerSideProps` to fetch the current viewer, but it was totally unnecessary. By moving that fetch to client-side code, each page load no longer hits Vercel's servers.
+
+https://github.com/vercel/next.js/discussions/12447 is also a relevant discussion.
 
 ### 4.04.2021
 
