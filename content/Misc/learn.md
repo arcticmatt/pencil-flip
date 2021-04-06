@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-05 00:00
+Date: 2021-04-06 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.06.2021
+
+Yesterday, [Google LLC v. Oracle America Inc.](https://www.oyez.org/cases/2020/18-956) was decided in favor of Google.
+
+Don't have enough time to write more about it now, maybe I'll add to this later.
 
 ### 4.05.2021
 

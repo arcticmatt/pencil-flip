@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-05 00:00
+Date: 2021-04-06 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.06.2021
+
+yesterday we made</br>
+red onion oyakodon</br>
+tasted pretty good</br>
 
 ### 4.05.2021
 
