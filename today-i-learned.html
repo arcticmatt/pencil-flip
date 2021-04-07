@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2021-04-06" />
+        <meta property="article:published_time" content="2021-04-07" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -109,7 +109,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2021-04-06T00:00:00-07:00"> Tue 06 April 2021</time>
+        <i class="fa fa-calendar"></i><time datetime="2021-04-07T00:00:00-07:00"> Wed 07 April 2021</time>
     </span>
 
 
@@ -125,9 +125,15 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>4.07.2021</h3>
+<p>I learned the other day that <a href="https://medium.com/swlh/react-state-batch-update-b1b61bd28cd2">React batches state updates</a> if <code>setState</code> is called in an event handler.</p>
+<p>The order of state updates is always respected, but batching is more performant and prevents you from seeing an "intermediate" state (a state where not every update has happened yet).</p>
+<p><a href="https://stackoverflow.com/questions/48563650/does-react-keep-the-order-for-state-updates/48610973#48610973">In React 17, more state updates will be batched by default</a>.</p>
 <h3>4.06.2021</h3>
-<p>Yesterday, <a href="https://www.oyez.org/cases/2020/18-956">Google LLC v. Oracle America Inc.</a> was decided in favor of Google.</p>
-<p>Don't have enough time to write more about it now, maybe I'll add to this later.</p>
+<p>Yesterday, <a href="https://www.oyez.org/cases/2020/18-956">Google LLC v. Oracle America Inc.</a> was decided in favor of Google. It's pretty interesting to read about computer science written about in such a lawyer-y way.</p>
+<blockquote>
+<p>Now let us consider the example that the District Court used to explain the precise technology here. Id., at 980–981. A programmer wishes, as part of her program, to determine which of two integers is the larger. To do so in the Java language, she will first write java.lang. Those words (which we have put in bold type) refer to the “package” (or by analogy to the file cabinet). She will then write Math. That word refers to the “class” (or by analogy to the drawer). She will then write max. That word refers to the “method” (or by analogy to the recipe). She will then make two parentheses ( ). And, in between the parentheses she will put two integers, say 4 and 6, that she wishes to compare. The whole expression—the method call—will look like this: “java.lang.Math.max(4, 6).” The use of this expression will, by means of the API, call up a task-implementing program that will determine the higher number.</p>
+</blockquote>
 <h3>4.05.2021</h3>
 <p>I refactored <a href="https://harkenapp.com/">Harken</a> to not use <code>getServerSideProps</code> in order to make navigation faster.</p>
 <p>The <a href="https://nextjs.org/docs/basic-features/data-fetching#when-should-i-use-getserversideprops">Next.js documentation</a> talks about when <code>getServerSideProps</code> should be used:</p>
@@ -2292,7 +2298,7 @@ term for the dish.</p>
             var disqus_config = function () {
                 this.language = "en";
 
-                        this.page.identifier = '2021-04-06-today-i-learned';
+                        this.page.identifier = '2021-04-07-today-i-learned';
                         this.page.url = 'http://blog.pencilflip.com/today-i-learned.html';
             };
 
