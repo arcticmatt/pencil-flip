@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-06 00:00
+Date: 2021-04-07 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -10,11 +10,19 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 4.07.2021
+
+I learned the other day that [React batches state updates](https://medium.com/swlh/react-state-batch-update-b1b61bd28cd2) if `setState` is called in an event handler.
+
+The order of state updates is always respected, but batching is more performant and prevents you from seeing an "intermediate" state (a state where not every update has happened yet).
+
+[In React 17, more state updates will be batched by default](https://stackoverflow.com/questions/48563650/does-react-keep-the-order-for-state-updates/48610973#48610973).
+
 ### 4.06.2021
 
-Yesterday, [Google LLC v. Oracle America Inc.](https://www.oyez.org/cases/2020/18-956) was decided in favor of Google.
+Yesterday, [Google LLC v. Oracle America Inc.](https://www.oyez.org/cases/2020/18-956) was decided in favor of Google. It's pretty interesting to read about computer science written about in such a lawyer-y way.
 
-Don't have enough time to write more about it now, maybe I'll add to this later.
+> Now let us consider the example that the District Court used to explain the precise technology here. Id., at 980–981. A programmer wishes, as part of her program, to determine which of two integers is the larger. To do so in the Java language, she will first write java.lang. Those words (which we have put in bold type) refer to the “package” (or by analogy to the file cabinet). She will then write Math. That word refers to the “class” (or by analogy to the drawer). She will then write max. That word refers to the “method” (or by analogy to the recipe). She will then make two parentheses ( ). And, in between the parentheses she will put two integers, say 4 and 6, that she wishes to compare. The whole expression—the method call—will look like this: “java.lang.Math.max(4, 6).” The use of this expression will, by means of the API, call up a task-implementing program that will determine the higher number.
 
 ### 4.05.2021
 
