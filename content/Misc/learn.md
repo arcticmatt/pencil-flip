@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-07 00:00
+Date: 2021-04-09 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.09.2021
+
+[June's Pizza](https://junespizza.com/) is great. If you want to get it, make sure you call right at 1pm. We had to call ~15 times in order to reserve a couple pies, and by the time we got through at least one time slot was already reserved.
+
+Their special (squid, fennel, and tomato sauce) was the second best pizza I've ever had. The best is the vodka sauce pizza at [Rubirosa](https://www.rubirosanyc.com/).
 
 ### 4.07.2021
 
