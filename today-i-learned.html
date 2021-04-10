@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2021-04-09" />
+        <meta property="article:published_time" content="2021-04-10" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -109,7 +109,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2021-04-09T00:00:00-07:00"> Fri 09 April 2021</time>
+        <i class="fa fa-calendar"></i><time datetime="2021-04-10T00:00:00-07:00"> Sat 10 April 2021</time>
     </span>
 
 
@@ -125,6 +125,25 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>4.10.2021</h3>
+<p>Yesterday I learned about masonry layouts, A.K.A. Pinterest layouts. A masonry layout looks something like this.</p>
+<div class="highlight"><pre><span></span><span class="err">-----------------</span>
+<span class="err">|   |___|   |   |</span>
+<span class="err">|___|   |   |___|</span>
+<span class="err">|   |   |___|   |</span>
+<span class="err">|   |___|   |___|</span>
+<span class="err">|___|   |___|   |</span>
+<span class="err">|   |   |   |   |</span>
+<span class="err">-----------------</span>
+</pre></div>
+
+
+<p>Let's pretend each "item" is an image. Then, each image has the same width, but the heights may differ. Ideally, items are loaded row-by-row as opposed to column-by-column. If they're loaded column-by-column and you have pagination, it will be a weird experience.</p>
+<p>MDN's definition is also worth a read:</p>
+<blockquote>
+<p>Masonry layout is a layout method where one axis uses a typical strict grid layout, of most often columns, and the other a masonry layout. On the masonry axis, rather than sticking to a strict grid with gaps being left after shorter items, the items in the following row rise up to completely fill the gaps.</p>
+</blockquote>
+<p>It's actually pretty tricky to implement this with pure CSS. There's an <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout">unreleased <code>masonry</code> value for <code>grid-template-columns</code> and <code>grid-template-rows</code></a> that will make things easier in the future. <a href="https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/">CSS Tricks talks about some options too</a>. Currently, I'm using <a href="https://github.com/paulcollett/react-masonry-css">react-masonry-css</a>, which makes things pretty easy.</p>
 <h3>4.09.2021</h3>
 <p><a href="https://junespizza.com/">June's Pizza</a> is great. If you want to get it, make sure you call right at 1pm. We had to call ~15 times in order to reserve a couple pies, and by the time we got through at least one time slot was already reserved.</p>
 <p>Their special (squid, fennel, and tomato sauce) was the second best pizza I've ever had. The best is the vodka sauce pizza at <a href="https://www.rubirosanyc.com/">Rubirosa</a>.</p>
@@ -2301,7 +2320,7 @@ term for the dish.</p>
             var disqus_config = function () {
                 this.language = "en";
 
-                        this.page.identifier = '2021-04-09-today-i-learned';
+                        this.page.identifier = '2021-04-10-today-i-learned';
                         this.page.url = 'http://blog.pencilflip.com/today-i-learned.html';
             };
 
