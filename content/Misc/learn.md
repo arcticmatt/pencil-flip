@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-09 00:00
+Date: 2021-04-10 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,29 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.10.2021
+
+Yesterday I learned about masonry layouts, A.K.A. Pinterest layouts. A masonry layout looks something like this.
+
+```
+-----------------
+|   |___|   |   |
+|___|   |   |___|
+|   |   |___|   |
+|   |___|   |___|
+|___|   |___|   |
+|   |   |   |   |
+-----------------
+```
+
+Let's pretend each "item" is an image. Then, each image has the same width, but the heights may differ. Ideally, items are loaded row-by-row as opposed to column-by-column. If they're loaded column-by-column and you have pagination, it will be a weird experience.
+
+MDN's definition is also worth a read:
+
+> Masonry layout is a layout method where one axis uses a typical strict grid layout, of most often columns, and the other a masonry layout. On the masonry axis, rather than sticking to a strict grid with gaps being left after shorter items, the items in the following row rise up to completely fill the gaps.
+
+It's actually pretty tricky to implement this with pure CSS. There's an [unreleased `masonry` value for `grid-template-columns` and `grid-template-rows`](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout) that will make things easier in the future. [CSS Tricks talks about some options too](https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/). Currently, I'm using [react-masonry-css](https://github.com/paulcollett/react-masonry-css), which makes things pretty easy.
 
 ### 4.09.2021
 

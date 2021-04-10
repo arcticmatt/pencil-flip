@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-09 00:00
+Date: 2021-04-10 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.10.2021
+
+juice a lot of limes</br>
+takes a long amount of time</br>
+don't have a juicer</br>
 
 ### 4.09.2021
 
