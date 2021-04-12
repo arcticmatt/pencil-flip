@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-10 00:00
+Date: 2021-04-11 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.11.2021
+
+Why are Joshua trees called Joshua trees? Let's consult Wikipedia:
+
+> The name "Joshua tree" is commonly said to have been given by a group of Mormon settlers crossing the Mojave Desert in the mid-19th century: The tree's role in guiding them through the desert combined with its unique shape reminded them of a biblical story in which Joshua keeps his hands reached out for an extended period of time to guide the Israelites in their conquest of Canaan (Joshua 8:18–26). Further, the shaggy leaves may have provided the appearance of a beard. However, no direct or contemporary attestation of this origin exists, and the name Joshua tree is not recorded until after Mormon contact; moreover, the physical appearance of the Joshua tree more closely resembles a similar story told of Moses.
 
 ### 4.10.2021
 
