@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2021-04-11" />
+        <meta property="article:published_time" content="2021-04-12" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -109,7 +109,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2021-04-11T00:00:00-07:00"> Sun 11 April 2021</time>
+        <i class="fa fa-calendar"></i><time datetime="2021-04-12T00:00:00-07:00"> Mon 12 April 2021</time>
     </span>
 
 
@@ -125,6 +125,17 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>4.12.2021</h3>
+<p>For the Folio landing page, we use images of design mocks. Initially, the images were quite blurry when I scaled them down. Adding <a href="https://css-tricks.com/forums/topic/scaling-down-images-with-css-makes-them-blurry/">this code</a> fixed the issue:</p>
+<div class="highlight"><pre><span></span><span class="c">image-rendering: -moz-crisp-edges;         /* Firefox */</span>
+<span class="c">image-rendering:   -o-crisp-edges;         /* Opera */</span>
+<span class="c">image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */</span>
+<span class="c">image-rendering: crisp-edges;</span>
+<span class="c">-ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */</span>
+</pre></div>
+
+
+<p>According to <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering">MDN</a>, this is typically used for pixel art. However, it also works much better for design mocks that contain text. Otherwise the text gets quite blurry. I think the default <code>auto</code> value is meant more for photography.</p>
 <h3>4.11.2021</h3>
 <p>Why are Joshua trees called Joshua trees? Let's consult Wikipedia:</p>
 <blockquote>
@@ -2325,7 +2336,7 @@ term for the dish.</p>
             var disqus_config = function () {
                 this.language = "en";
 
-                        this.page.identifier = '2021-04-11-today-i-learned';
+                        this.page.identifier = '2021-04-12-today-i-learned';
                         this.page.url = 'http://blog.pencilflip.com/today-i-learned.html';
             };
 
