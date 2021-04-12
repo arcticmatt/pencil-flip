@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-11 00:00
+Date: 2021-04-12 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,20 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.12.2021
+
+For the Folio landing page, we use images of design mocks. Initially, the images were quite blurry when I scaled them down. Adding [this code](https://css-tricks.com/forums/topic/scaling-down-images-with-css-makes-them-blurry/) fixed the issue:
+
+```
+image-rendering: -moz-crisp-edges;         /* Firefox */
+image-rendering:   -o-crisp-edges;         /* Opera */
+image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
+image-rendering: crisp-edges;
+-ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
+```
+
+According to [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering), this is typically used for pixel art. However, it also works much better for design mocks that contain text. Otherwise the text gets quite blurry. I think the default `auto` value is meant more for photography.
 
 ### 4.11.2021
 
