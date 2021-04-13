@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-12 00:00
+Date: 2021-04-13 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,29 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.13.2021
+
+An **email pixel** is a 1 x 1 image that you put into an email. You can do this with HTML, i.e. use the `img` tag. So, what’s interesting about that? Well, if an email has some code like `<img src="http://myserver.com/myimage.png" />`, when someone opens the email the browser is going to make a network request to fetch the image. The server hosting the image can track those requests, and thus know how many people opened the email. Since HTTP headers have additional information (like the `User-Agent` header), the server can also track information like what operating systems are opening the email. Further, since network requests contain the source IP address (at the Internet layer), the server can track location data based on IP addresses. Check out this [Verge article](https://www.theverge.com/2019/7/3/20681508/tracking-pixel-email-spying-superhuman-web-beacon-open-tracking-read-receipts-location) for more info.
+
+A **Facebook pixel** is some code you put into your website that lets you optimize your Facebook ads. Here's how it works.
+
+1. [Create a Facebook pixel](https://www.facebook.com/business/help/952192354843755?id=1205376682832142).
+2. Put some [JavaScript code](https://developers.facebook.com/docs/facebook-pixel/implementation) into your website. This gives you access to the global `fbq` function.
+3. Call `fbq('track', 'PageView', extraData)` in your JavaScript code. This code will log the `PageView` event (you can see the network request being sent in Chrome's inspector). You can go to Facebook Events Manager to see the data. You can also track other events, e.g. maybe track a custom event after someone clicks a certain button. *Note: may have to disable Ad Blocker for this to work.*
+4. Use the pixel ID when you're creating an ad campaign in Facebook Ads Manager. I haven't done this yet, so not super sure how it works. The general idea is that if you have a Facebook pixel on your site, Facebook can tell what kind of users your ad is converting. For example, here's how the flow might look (not sure if this is exactly correct):
+  - You click on an ad.
+  - You go to `https://megapho.ne?fb_ad_param=12345`
+  - The page loads and `fbq('track', 'PageView')` is called. This send a network request to Facebook's servers that includes your browser's cookies. Facebook should know who you are based on those cookies (kinda creepy). And Facebook should know you came from the ad based on the URL param.
+  - Now, Facebook knows what kind of users are most likely to actually go to your landing page after seeing the ad.
+
+Facebook can use the pixel information to either:
+
+- **Bring back website visitors** by creating a [custom audience](https://www.facebook.com/business/m/custom-audience#). E.g. you can create a custom audience of website visitors who previously added items to their cart.
+- **Find new leads or customers** by creating a [lookalike audience](https://www.facebook.com/business/m/lookalike-audience). This audience should resemble people who you've already converted, e.g. people who have signed up for your waitlist. Facebook can do this by picking people who are around the same age, have similar interests, etc.
+
+Check out [Facebook's website](https://www.facebook.com/business/m/pixel-manual-install) for more info.
+
 
 ### 4.12.2021
 

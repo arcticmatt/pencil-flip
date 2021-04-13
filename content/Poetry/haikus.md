@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-12 00:00
+Date: 2021-04-13 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.13.2021
+
+where the milky way</br>
+there's too much light pollution</br>
+the stars are still nice</br>
 
 ### 4.12.2021
 
