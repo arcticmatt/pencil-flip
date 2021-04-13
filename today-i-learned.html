@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2021-04-12" />
+        <meta property="article:published_time" content="2021-04-13" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -109,7 +109,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2021-04-12T00:00:00-07:00"> Mon 12 April 2021</time>
+        <i class="fa fa-calendar"></i><time datetime="2021-04-13T00:00:00-07:00"> Tue 13 April 2021</time>
     </span>
 
 
@@ -125,6 +125,25 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>4.13.2021</h3>
+<p>An <strong>email pixel</strong> is a 1 x 1 image that you put into an email. You can do this with HTML, i.e. use the <code>img</code> tag. So, what’s interesting about that? Well, if an email has some code like <code>&lt;img src="http://myserver.com/myimage.png" /&gt;</code>, when someone opens the email the browser is going to make a network request to fetch the image. The server hosting the image can track those requests, and thus know how many people opened the email. Since HTTP headers have additional information (like the <code>User-Agent</code> header), the server can also track information like what operating systems are opening the email. Further, since network requests contain the source IP address (at the Internet layer), the server can track location data based on IP addresses. Check out this <a href="https://www.theverge.com/2019/7/3/20681508/tracking-pixel-email-spying-superhuman-web-beacon-open-tracking-read-receipts-location">Verge article</a> for more info.</p>
+<p>A <strong>Facebook pixel</strong> is some code you put into your website that lets you optimize your Facebook ads. Here's how it works.</p>
+<ol>
+<li><a href="https://www.facebook.com/business/help/952192354843755?id=1205376682832142">Create a Facebook pixel</a>.</li>
+<li>Put some <a href="https://developers.facebook.com/docs/facebook-pixel/implementation">JavaScript code</a> into your website. This gives you access to the global <code>fbq</code> function.</li>
+<li>Call <code>fbq('track', 'PageView', extraData)</code> in your JavaScript code. This code will log the <code>PageView</code> event (you can see the network request being sent in Chrome's inspector). You can go to Facebook Events Manager to see the data. You can also track other events, e.g. maybe track a custom event after someone clicks a certain button. <em>Note: may have to disable Ad Blocker for this to work.</em></li>
+<li>Use the pixel ID when you're creating an ad campaign in Facebook Ads Manager. I haven't done this yet, so not super sure how it works. The general idea is that if you have a Facebook pixel on your site, Facebook can tell what kind of users your ad is converting. For example, here's how the flow might look (not sure if this is exactly correct):</li>
+<li>You click on an ad.</li>
+<li>You go to <code>https://megapho.ne?fb_ad_param=12345</code></li>
+<li>The page loads and <code>fbq('track', 'PageView')</code> is called. This send a network request to Facebook's servers that includes your browser's cookies. Facebook should know who you are based on those cookies (kinda creepy). And Facebook should know you came from the ad based on the URL param.</li>
+<li>Now, Facebook knows what kind of users are most likely to actually go to your landing page after seeing the ad.</li>
+</ol>
+<p>Facebook can use the pixel information to either:</p>
+<ul>
+<li><strong>Bring back website visitors</strong> by creating a <a href="https://www.facebook.com/business/m/custom-audience#">custom audience</a>. E.g. you can create a custom audience of website visitors who previously added items to their cart.</li>
+<li><strong>Find new leads or customers</strong> by creating a <a href="https://www.facebook.com/business/m/lookalike-audience">lookalike audience</a>. This audience should resemble people who you've already converted, e.g. people who have signed up for your waitlist. Facebook can do this by picking people who are around the same age, have similar interests, etc.</li>
+</ul>
+<p>Check out <a href="https://www.facebook.com/business/m/pixel-manual-install">Facebook's website</a> for more info.</p>
 <h3>4.12.2021</h3>
 <p>For the Folio landing page, we use images of design mocks. Initially, the images were quite blurry when I scaled them down. Adding <a href="https://css-tricks.com/forums/topic/scaling-down-images-with-css-makes-them-blurry/">this code</a> fixed the issue:</p>
 <div class="highlight"><pre><span></span><span class="c">image-rendering: -moz-crisp-edges;         /* Firefox */</span>
@@ -2336,7 +2355,7 @@ term for the dish.</p>
             var disqus_config = function () {
                 this.language = "en";
 
-                        this.page.identifier = '2021-04-12-today-i-learned';
+                        this.page.identifier = '2021-04-13-today-i-learned';
                         this.page.url = 'http://blog.pencilflip.com/today-i-learned.html';
             };
 
