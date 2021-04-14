@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-13 00:00
+Date: 2021-04-14 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,29 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.14.2021
+
+You have to watch out when using `vh` for mobile browsers. In short, on mobile, `vh` includes the height of the URL bar (on desktop, `vh` does not include the height of the URL bar). The rationale is that on mobile, the URL bar can shrink and expand (unlike on desktop). So by always including it, `vh` units stay consistent.
+
+[URL Bar Resizing](https://developers.google.com/web/updates/2016/12/url-bar-resizing) explains this in more detail.
+
+> Lengths defined in viewport units (i.e. `vh`) will not resize in response to the URL bar being shown or hidden. Instead, `vh` units will be sized to the viewport height as if the URL bar is always hidden. That is, `vh` units will be sized to the "largest possible viewport". This means `100vh` will be larger than the visible height when the URL bar is shown.
+
+> The Initial Containing Block (ICB) is the root containing block used when sizing elements relative to their parents. For example, giving the `<html>` element a style of `width: 100%; height: 100%` will make it the same size as the ICB. With this change, the ICB will not resize when the URL bar is hidden. Instead, it will remain the same height, as if the URL bar were always showing ("smallest possible viewport"). This means an Element sized to the ICB height will not completely fill the visible height while the URL bar is hidden.
+
+Let's interpret that! Here are the main points.
+
+1. `vh` units are sized to the "largest possible viewport" (URL bar hidden)
+2. The ICB is sized to the "smallest possible viewport" (URL bar shown)
+3. This means `height: 100%` and `height: 100vh` behave differently
+
+Here are some specific problems I've run into because of this.
+
+- I size my element to `height: 100vh`, expecting it to take up the whole browser window. However, on mobile, this will cause the page to be scrollable because the URL bar will be shown.
+- I set `margin-top: 50vh` and `transform: translateY(-50%)`, expecting this to center the element vertically. However, on mobile, the element will be pushed down past the center, because `50vh` includes the height of the URL bar.
+
+Also see [this Stack Overflow post](https://stackoverflow.com/questions/37112218/css3-100vh-not-constant-in-mobile-browser) for more info.
 
 ### 4.13.2021
 

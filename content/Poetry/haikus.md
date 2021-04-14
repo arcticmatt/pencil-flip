@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-13 00:00
+Date: 2021-04-14 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.14.2021
+
+first time steak and shake</br>
+no steak but the shake is great</br>
+the fries are great too</br>
 
 ### 4.13.2021
 
