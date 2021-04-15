@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-14 00:00
+Date: 2021-04-15 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.15.2021
+
+The [Greenland shark](https://en.wikipedia.org/wiki/Greenland_shark) has the longest known lifespan of all vertebrates, estimated to be between 300 and 500 years! 
+
+Check out this [New Yorker](https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth) article for more info.
 
 ### 4.14.2021
 
