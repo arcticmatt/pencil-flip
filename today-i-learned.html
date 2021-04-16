@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2021-04-15" />
+        <meta property="article:published_time" content="2021-04-16" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -109,7 +109,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2021-04-15T00:00:00-07:00"> Thu 15 April 2021</time>
+        <i class="fa fa-calendar"></i><time datetime="2021-04-16T00:00:00-07:00"> Fri 16 April 2021</time>
     </span>
 
 
@@ -125,6 +125,17 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>4.16.2021</h3>
+<p>Don't use JPEGs and PNGs, use WebPs! <a href="https://insanelab.com/blog/web-development/webp-web-design-vs-jpeg-gif-png/">WebP</a> is an image format that has really good losslesss and lossy compression. If you use WebP, your images will be smaller and load faster. <a href="https://nextjs.org/docs/api-reference/next/image">next/image</a> utilizes WebP by automatically serving images in WebP when the browser supports (it has pretty <a href="https://caniuse.com/webp">wide support</a>).</p>
+<p>One other small thing. I don't know the specifics behind this, but it seems like loading a big GIF does not effect TTI or FCP. On <a href="https://megapho.ne/">https://megapho.ne/</a>, we use a GIF for the background image. I changed it to be a big GIF, around ~25mb, and it only delayed the loading of the GIF. E.g. first the page loaded without the GIF background, and then the GIF background loaded a while later. </p>
+<p>One more small thing—if you're building a website, don't use TTF fonts! If you download a font from <a href="https://fonts.google.com/specimen/Work+Sans">Google Fonts</a>, you'll get TTF files. However, if you use their <a href="https://developers.google.com/fonts/docs/css2">CSS API</a>:</p>
+<div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">style</span><span class="o">&gt;</span>
+<span class="nd">@import</span> <span class="n">url</span><span class="p">(</span><span class="s1">&#39;https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&amp;display=swap&#39;</span><span class="p">);</span>
+<span class="o">&lt;/</span><span class="n">style</span><span class="o">&gt;</span>
+</pre></div>
+
+
+<p>your browser will load woff2 fonts (not sure how it picks what font format to use, maybe it depends on the browser). woff2 fonts are much smaller than TTF fonts since they're compressed, which will reduce loading times for your website.</p>
 <h3>4.15.2021</h3>
 <p>The <a href="https://en.wikipedia.org/wiki/Greenland_shark">Greenland shark</a> has the longest known lifespan of all vertebrates, estimated to be between 300 and 500 years! </p>
 <p>Check out this <a href="https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth">New Yorker</a> article for more info.</p>
@@ -2377,7 +2388,7 @@ term for the dish.</p>
             var disqus_config = function () {
                 this.language = "en";
 
-                        this.page.identifier = '2021-04-15-today-i-learned';
+                        this.page.identifier = '2021-04-16-today-i-learned';
                         this.page.url = 'http://blog.pencilflip.com/today-i-learned.html';
             };
 
