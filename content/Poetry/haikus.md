@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-15 00:00
+Date: 2021-04-16 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.16.2021
+
+can't start gas oven</br>
+it is not intuitive</br>
+it's good for s'mores though</br>
 
 ### 4.15.2021
 

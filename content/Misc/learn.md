@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-15 00:00
+Date: 2021-04-16 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,23 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.16.2021
+
+Don't use JPEGs and PNGs, use WebPs! [WebP](https://insanelab.com/blog/web-development/webp-web-design-vs-jpeg-gif-png/) is an image format that has really good losslesss and lossy compression. If you use WebP, your images will be smaller and load faster. [next/image](https://nextjs.org/docs/api-reference/next/image) utilizes WebP by automatically serving images in WebP when the browser supports (it has pretty [wide support](https://caniuse.com/webp)).
+
+One other small thing. I don't know the specifics behind this, but it seems like loading a big GIF does not effect TTI or FCP. On [https://megapho.ne/](https://megapho.ne/), we use a GIF for the background image. I changed it to be a big GIF, around ~25mb, and it only delayed the loading of the GIF. E.g. first the page loaded without the GIF background, and then the GIF background loaded a while later. 
+
+One more small thing—if you're building a website, don't use TTF fonts! If you download a font from [Google Fonts](https://fonts.google.com/specimen/Work+Sans), you'll get TTF files. However, if you use their [CSS API](https://developers.google.com/fonts/docs/css2):
+
+```
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap');
+</style>
+```
+
+your browser will load woff2 fonts (not sure how it picks what font format to use, maybe it depends on the browser). woff2 fonts are much smaller than TTF fonts since they're compressed, which will reduce loading times for your website.
+
 
 ### 4.15.2021
 
