@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-16 00:00
+Date: 2021-04-17 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -10,11 +10,17 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 4.17.2021
+
+Morse code is a binary tree, where nodes represent English characters (except the root node) and edges represent either a dot or a dash. More commonly used letters are placed at earlier levels, meaning it takes less dots and dashes to form them. The binary tree also gives us a convenient way to map Morse code to English characters—just follow the tree and see where you end up. This is much faster than using a table that maps English characters to dots and dashes.
+
+![morse-binary-tree](/images/morse-binary-tree.png)
+
 ### 4.16.2021
 
 Don't use JPEGs and PNGs, use WebPs! [WebP](https://insanelab.com/blog/web-development/webp-web-design-vs-jpeg-gif-png/) is an image format that has really good losslesss and lossy compression. If you use WebP, your images will be smaller and load faster. [next/image](https://nextjs.org/docs/api-reference/next/image) utilizes WebP by automatically serving images in WebP when the browser supports (it has pretty [wide support](https://caniuse.com/webp)).
 
-One other small thing. I don't know the specifics behind this, but it seems like loading a big GIF does not effect TTI or FCP. On [https://megapho.ne/](https://megapho.ne/), we use a GIF for the background image. I changed it to be a big GIF, around ~25mb, and it only delayed the loading of the GIF. E.g. first the page loaded without the GIF background, and then the GIF background loaded a while later. 
+One other small thing. I don't know the specifics behind this, but it seems like loading a big GIF does not effect TTI or FCP. On [https://megapho.ne/](https://megapho.ne/), we use a GIF for the background image. I changed it to be a big GIF, around ~25mb, and it only delayed the loading of the GIF. E.g. first the page loaded without the GIF background, and then the GIF background loaded a while later.
 
 One more small thing—if you're building a website, don't use TTF fonts! If you download a font from [Google Fonts](https://fonts.google.com/specimen/Work+Sans), you'll get TTF files. However, if you use their [CSS API](https://developers.google.com/fonts/docs/css2):
 
@@ -26,10 +32,9 @@ One more small thing—if you're building a website, don't use TTF fonts! If you
 
 your browser will load woff2 fonts (not sure how it picks what font format to use, maybe it depends on the browser). woff2 fonts are much smaller than TTF fonts since they're compressed, which will reduce loading times for your website.
 
-
 ### 4.15.2021
 
-The [Greenland shark](https://en.wikipedia.org/wiki/Greenland_shark) has the longest known lifespan of all vertebrates, estimated to be between 300 and 500 years! 
+The [Greenland shark](https://en.wikipedia.org/wiki/Greenland_shark) has the longest known lifespan of all vertebrates, estimated to be between 300 and 500 years!
 
 Check out this [New Yorker](https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth) article for more info.
 
@@ -64,12 +69,13 @@ A **Facebook pixel** is some code you put into your website that lets you optimi
 
 1. [Create a Facebook pixel](https://www.facebook.com/business/help/952192354843755?id=1205376682832142).
 2. Put some [JavaScript code](https://developers.facebook.com/docs/facebook-pixel/implementation) into your website. This gives you access to the global `fbq` function.
-3. Call `fbq('track', 'PageView', extraData)` in your JavaScript code. This code will log the `PageView` event (you can see the network request being sent in Chrome's inspector). You can go to Facebook Events Manager to see the data. You can also track other events, e.g. maybe track a custom event after someone clicks a certain button. *Note: may have to disable Ad Blocker for this to work.*
+3. Call `fbq('track', 'PageView', extraData)` in your JavaScript code. This code will log the `PageView` event (you can see the network request being sent in Chrome's inspector). You can go to Facebook Events Manager to see the data. You can also track other events, e.g. maybe track a custom event after someone clicks a certain button. _Note: may have to disable Ad Blocker for this to work._
 4. Use the pixel ID when you're creating an ad campaign in Facebook Ads Manager. I haven't done this yet, so not super sure how it works. The general idea is that if you have a Facebook pixel on your site, Facebook can tell what kind of users your ad is converting. For example, here's how the flow might look (not sure if this is exactly correct):
-  - You click on an ad.
-  - You go to `https://megapho.ne?fb_ad_param=12345`
-  - The page loads and `fbq('track', 'PageView')` is called. This send a network request to Facebook's servers that includes your browser's cookies. Facebook should know who you are based on those cookies (kinda creepy). And Facebook should know you came from the ad based on the URL param.
-  - Now, Facebook knows what kind of users are most likely to actually go to your landing page after seeing the ad.
+
+- You click on an ad.
+- You go to `https://megapho.ne?fb_ad_param=12345`
+- The page loads and `fbq('track', 'PageView')` is called. This send a network request to Facebook's servers that includes your browser's cookies. Facebook should know who you are based on those cookies (kinda creepy). And Facebook should know you came from the ad based on the URL param.
+- Now, Facebook knows what kind of users are most likely to actually go to your landing page after seeing the ad.
 
 Facebook can use the pixel information to either:
 
@@ -77,7 +83,6 @@ Facebook can use the pixel information to either:
 - **Find new leads or customers** by creating a [lookalike audience](https://www.facebook.com/business/m/lookalike-audience). This audience should resemble people who you've already converted, e.g. people who have signed up for your waitlist. Facebook can do this by picking people who are around the same age, have similar interests, etc.
 
 Check out [Facebook's website](https://www.facebook.com/business/m/pixel-manual-install) for more info.
-
 
 ### 4.12.2021
 
