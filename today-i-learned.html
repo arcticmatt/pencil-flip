@@ -21,7 +21,7 @@
         <meta property="og:title" content="Today I Learned"/>
         <meta property="og:url" content="http://blog.pencilflip.com/today-i-learned.html"/>
         <meta property="og:description" content="Making the bold assumption I learn something everyday"/>
-        <meta property="article:published_time" content="2021-04-16" />
+        <meta property="article:published_time" content="2021-04-17" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="life" />
             <meta property="article:tag" content="misc" />
@@ -109,7 +109,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2021-04-16T00:00:00-07:00"> Fri 16 April 2021</time>
+        <i class="fa fa-calendar"></i><time datetime="2021-04-17T00:00:00-07:00"> Sat 17 April 2021</time>
     </span>
 
 
@@ -125,9 +125,12 @@
                 </div>
                 <p>These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.</p>
+<h3>4.17.2021</h3>
+<p>Morse code is a binary tree, where nodes represent English characters (except the root node) and edges represent either a dot or a dash. More commonly used letters are placed at earlier levels, meaning it takes less dots and dashes to form them. The binary tree also gives us a convenient way to map Morse code to English characters—just follow the tree and see where you end up. This is much faster than using a table that maps English characters to dots and dashes.</p>
+<p><img alt="morse-binary-tree" src="/images/morse-binary-tree.png"></p>
 <h3>4.16.2021</h3>
 <p>Don't use JPEGs and PNGs, use WebPs! <a href="https://insanelab.com/blog/web-development/webp-web-design-vs-jpeg-gif-png/">WebP</a> is an image format that has really good losslesss and lossy compression. If you use WebP, your images will be smaller and load faster. <a href="https://nextjs.org/docs/api-reference/next/image">next/image</a> utilizes WebP by automatically serving images in WebP when the browser supports (it has pretty <a href="https://caniuse.com/webp">wide support</a>).</p>
-<p>One other small thing. I don't know the specifics behind this, but it seems like loading a big GIF does not effect TTI or FCP. On <a href="https://megapho.ne/">https://megapho.ne/</a>, we use a GIF for the background image. I changed it to be a big GIF, around ~25mb, and it only delayed the loading of the GIF. E.g. first the page loaded without the GIF background, and then the GIF background loaded a while later. </p>
+<p>One other small thing. I don't know the specifics behind this, but it seems like loading a big GIF does not effect TTI or FCP. On <a href="https://megapho.ne/">https://megapho.ne/</a>, we use a GIF for the background image. I changed it to be a big GIF, around ~25mb, and it only delayed the loading of the GIF. E.g. first the page loaded without the GIF background, and then the GIF background loaded a while later.</p>
 <p>One more small thing—if you're building a website, don't use TTF fonts! If you download a font from <a href="https://fonts.google.com/specimen/Work+Sans">Google Fonts</a>, you'll get TTF files. However, if you use their <a href="https://developers.google.com/fonts/docs/css2">CSS API</a>:</p>
 <div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">style</span><span class="o">&gt;</span>
 <span class="nd">@import</span> <span class="n">url</span><span class="p">(</span><span class="s1">&#39;https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&amp;display=swap&#39;</span><span class="p">);</span>
@@ -137,7 +140,7 @@ of my everyday life, through all its ups and downs and dull mundanities.</p>
 
 <p>your browser will load woff2 fonts (not sure how it picks what font format to use, maybe it depends on the browser). woff2 fonts are much smaller than TTF fonts since they're compressed, which will reduce loading times for your website.</p>
 <h3>4.15.2021</h3>
-<p>The <a href="https://en.wikipedia.org/wiki/Greenland_shark">Greenland shark</a> has the longest known lifespan of all vertebrates, estimated to be between 300 and 500 years! </p>
+<p>The <a href="https://en.wikipedia.org/wiki/Greenland_shark">Greenland shark</a> has the longest known lifespan of all vertebrates, estimated to be between 300 and 500 years!</p>
 <p>Check out this <a href="https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth">New Yorker</a> article for more info.</p>
 <h3>4.14.2021</h3>
 <p>You have to watch out when using <code>vh</code> for mobile browsers. In short, on mobile, <code>vh</code> includes the height of the URL bar (on desktop, <code>vh</code> does not include the height of the URL bar). The rationale is that on mobile, the URL bar can shrink and expand (unlike on desktop). So by always including it, <code>vh</code> units stay consistent.</p>
@@ -165,8 +168,12 @@ of my everyday life, through all its ups and downs and dull mundanities.</p>
 <li><a href="https://www.facebook.com/business/help/952192354843755?id=1205376682832142">Create a Facebook pixel</a>.</li>
 <li>Put some <a href="https://developers.facebook.com/docs/facebook-pixel/implementation">JavaScript code</a> into your website. This gives you access to the global <code>fbq</code> function.</li>
 <li>Call <code>fbq('track', 'PageView', extraData)</code> in your JavaScript code. This code will log the <code>PageView</code> event (you can see the network request being sent in Chrome's inspector). You can go to Facebook Events Manager to see the data. You can also track other events, e.g. maybe track a custom event after someone clicks a certain button. <em>Note: may have to disable Ad Blocker for this to work.</em></li>
-<li>Use the pixel ID when you're creating an ad campaign in Facebook Ads Manager. I haven't done this yet, so not super sure how it works. The general idea is that if you have a Facebook pixel on your site, Facebook can tell what kind of users your ad is converting. For example, here's how the flow might look (not sure if this is exactly correct):</li>
-<li>You click on an ad.</li>
+<li>
+<p>Use the pixel ID when you're creating an ad campaign in Facebook Ads Manager. I haven't done this yet, so not super sure how it works. The general idea is that if you have a Facebook pixel on your site, Facebook can tell what kind of users your ad is converting. For example, here's how the flow might look (not sure if this is exactly correct):</p>
+</li>
+<li>
+<p>You click on an ad.</p>
+</li>
 <li>You go to <code>https://megapho.ne?fb_ad_param=12345</code></li>
 <li>The page loads and <code>fbq('track', 'PageView')</code> is called. This send a network request to Facebook's servers that includes your browser's cookies. Facebook should know who you are based on those cookies (kinda creepy). And Facebook should know you came from the ad based on the URL param.</li>
 <li>Now, Facebook knows what kind of users are most likely to actually go to your landing page after seeing the ad.</li>
@@ -2388,7 +2395,7 @@ term for the dish.</p>
             var disqus_config = function () {
                 this.language = "en";
 
-                        this.page.identifier = '2021-04-16-today-i-learned';
+                        this.page.identifier = '2021-04-17-today-i-learned';
                         this.page.url = 'http://blog.pencilflip.com/today-i-learned.html';
             };
 
