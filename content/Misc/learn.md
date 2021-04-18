@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-17 00:00
+Date: 2021-04-18 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.18.2021
+
+You shouldn't use `target="_blank"` unless you have [a good reason](https://css-tricks.com/use-target_blank/).
+
+If you do use it, make sure to also [specify `rel="noopener"` to avoid vulnerabilities](https://mathiasbynens.github.io/rel-noopener/).
 
 ### 4.17.2021
 

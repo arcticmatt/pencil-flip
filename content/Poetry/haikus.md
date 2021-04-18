@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-17 00:00
+Date: 2021-04-18 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.18.2021
+
+played baba is you</br>
+it's a game that's pretty cool</br>
+you should bend the rules</br>
 
 ### 4.17.2021
 
