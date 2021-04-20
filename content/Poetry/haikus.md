@@ -7,6 +7,12 @@ Slug: life-in-haiku
 Authors: arctictern
 Summary:
 
+### 4.20.2021
+
+ads manager is</br>
+confusing to say the least</br>
+so many columns</br>
+
 ### 4.18.2021
 
 played baba is you</br>

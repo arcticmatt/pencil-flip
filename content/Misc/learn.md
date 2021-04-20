@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-18 00:00
+Date: 2021-04-20 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.20.2021
+
+> Lightning is a lot of electrons moving very quickly from one spot to another.
+
+From _Code: The Hidden Language of Computer Hardware and Software_. Not really the type of thing I expected to learn from this book.
 
 ### 4.18.2021
 
