@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-18 00:00
+Date: 2021-04-21 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.21.2021
+
+today i got shot</br>
+well, today i got a shot</br>
+the covid vaccine</br>
 
 ### 4.20.2021
 
