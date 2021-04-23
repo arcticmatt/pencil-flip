@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-21 00:00
+Date: 2021-04-23 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -10,9 +10,17 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 4.23.2021
+
+[MailTracker](https://hunter.io/mailtracker) is a simple and free email tracker for Gmail. The most annoying thing about it is that there's no dashboard, so you have to manually check each email to see if it was opened.
+
+I also tried [Mailtrack](https://mailtrack.io/en/). [Its free plan](https://mailtrack.io/en/dashboard/upgrade) is much worse because it adds a very consipicuous signature to the emails you track. Also, I sent Katherine an email and it said she opened it while she was still sleeping... so doesn't seem that trustworthy.
+
+Hunter, the same company behind MailTracker, also provides a good [email finder tool](https://hunter.io/email-finder).
+
 ### 4.21.2021
 
-I watched a bit of _Blackfish_ yesterday. Even though orcas are called "killer whales," there have been no fatal recorded attacks on humans _in the wild_. However, captive killer whales (e.g. killer whales in SeaWorld) have killed [four people as of 2019](<https://en.wikipedia.org/wiki/Tilikum_(killer_whale)#cite_note-14>). If you watch the documentary, it makes some sense. The conditions the whales were kept in were terrible. For example, at Sealand, they would put multiple whales into a small metal box at night, so small the whales could barely move. And they would get them in there by starving them and then luring them into the box with food. Further, some of the whales would get bullied, and would emerge from the box with fresh cuts. All in all, I can't really blame the whales for being mad.
+I watched a bit of _Blackfish_ yesterday. Even though orcas are called "killer whales," there have been no fatal recorded attacks on humans _in the wild_. However, captive killer whales (e.g. killer whales in SeaWorld) have killed [four people as of 2019](<https://en.wikipedia.org/wiki/Tilikum_(killer_whale)#cite_note-14>). If you watch the documentary, it makes some sense. The conditions the whales were kept in were terrible. For example, at Sealand, they would put multiple whales into a small metal box at night, so small the whales could barely move. And they would get them in there by starving them and then luring them into the box with food. Further, some of the whales would get bullied, and would emerge from the box with fresh cuts. All in all, I can't really blame the whales for being }}mad.
 
 ### 4.20.2021
 
