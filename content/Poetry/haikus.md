@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-23 00:00
+Date: 2021-04-24 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.24.2021
+
+what does pre-seed mean</br>
+no not that, the other one</br>
+the funding pre-seed</br>
 
 ### 4.23.2021
 

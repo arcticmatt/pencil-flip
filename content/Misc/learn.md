@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-23 00:00
+Date: 2021-04-24 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.24.2021
+
+"Nekonomics" refers to the positive economic impact of having a cat mascot. [Tama the cat](<https://en.wikipedia.org/wiki/Tama_(cat)#cite_note-4>), who served as station master of Kishi Station, is a popular example of this phenomenon.
 
 ### 4.23.2021
 
