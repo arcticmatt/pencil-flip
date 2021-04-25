@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-24 00:00
+Date: 2021-04-25 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,12 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.25.2021
+
+[McBroken.com](https://mcbroken.com/) tells you which McDonalds have broken ice cream machines. Amazing.
+
+I found out about this website from [this article](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/), which was an entertaining read. The TLDR is that McDonald's ice cream machines are very complicated and easy to break.
 
 ### 4.24.2021
 

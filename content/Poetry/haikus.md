@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-24 00:00
+Date: 2021-04-25 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.25.2021
+
+watched a show called devs</br>
+it has ron swanson in it</br>
+baby is creepy</br>
 
 ### 4.24.2021
 
