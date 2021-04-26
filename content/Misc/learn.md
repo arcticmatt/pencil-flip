@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-25 00:00
+Date: 2021-04-26 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,14 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.26.2021
+
+The Mom Test is a set of rules for asking questions that your mom can't lie to you about. Here are the three rules:
+
+1. Talk about their life instead of your idea
+2. Ask about specifics in the past instead of generics or opinions about the future
+3. Talk less and listen more
 
 ### 4.25.2021
 

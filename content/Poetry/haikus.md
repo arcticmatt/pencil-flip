@@ -1,11 +1,17 @@
 Title: Life in Haiku
-Date: 2021-04-25 00:00
+Date: 2021-04-26 00:00
 DateFirst: 2016-10-10 23:35
 Category: Poetry
 Tags: haiku, poetry
 Slug: life-in-haiku
 Authors: arctictern
 Summary:
+
+### 4.26.2021
+
+follow the mom test</br>
+your questions will be the best</br>
+at least i hope so</br>
 
 ### 4.25.2021
 
