@@ -10,6 +10,10 @@ Summary: Making the bold assumption I learn something everyday
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
 
+### 4.28.2021
+
+Facebook has [special ad categories](https://www.facebook.com/business/help/298000447747885). If your ad falls into one of these categories, it severely limits the available set of audience selection tools. For example, you can't target based on age or gender.
+
 ### 4.26.2021
 
 The Mom Test is a set of rules for asking questions that your mom can't lie to you about. Here are the three rules:
