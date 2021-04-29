@@ -1,5 +1,5 @@
 Title: Today I Learned
-Date: 2021-04-26 00:00
+Date: 2021-04-29 00:00
 DateFirst: 2016-10-10 23:36
 Category: Misc
 Tags: life, misc
@@ -9,6 +9,10 @@ Summary: Making the bold assumption I learn something everyday
 
 These short daily posts are fun. They provide, in a simple way, a timeline
 of my everyday life, through all its ups and downs and dull mundanities.
+
+### 4.29.2021
+
+There are a lot of "screenshots as a service" companies. [Urlbox](https://urlbox.io/) is one of them.
 
 ### 4.28.2021
 
